@@ -1,0 +1,59 @@
+{
+  "police": [
+    {
+      "title": "Stopp (P1)",
+      "desc": "Tecknet anger stopp för den trafikant som kommer framifrån eller bakifrån. Tecknet används i vägkorsning och gäller så länge polismannen vänder sig åt samma håll. För trafikanter som kommer från sidan betyder tecknet att vägen är fri och att det är tillåtet att köra. Tecknet får ges i kombination med tecken P2, stopp. Tecknet kan ges med en stoppspade.",
+      "imgs": "P1-1.png"
+    },
+    {
+      "title": "Stopp (P2)",
+      "desc": "Tecknet anger stopp för den trafikant som handflatan är vänd mot. Tecknet kan ges med en stoppspade.",
+      "imgs": "P2-1.png"
+    },
+    {
+      "title": "Stopp (P3)",
+      "desc": "Tecknet anger stopp för den trafikant som lyktan är vänd mot. Tecknet används under mörker och vid nedsatt sikt. Lyktan hålls i den position där den lättast uppfattas av trafikanter.",
+      "imgs": "P3-1.png"
+    },
+    {
+      "title": "Kör fram (P4)",
+      "desc": "Tecknet anger att trafikanter i den färdriktning som tecknet ges får fortsätta framåt. Tecknet ges med en vinkande rörelse i färdriktningen.",
+      "imgs": "P4-1.png"
+    },
+    {
+      "title": "Minska hastigheten (P5)",
+      "desc": "Tecknet anger att den trafikant som polismannen är vänd mot skall minska hastigheten. Under mörker och vid nedsatt sikt kan tecknet vara förtydligat med en lykta som visar vitt eller gult ljus eller en reflexanordning som återkastar vitt eller gult ljus.",
+      "imgs": "P5-1.png"
+    },
+    {
+      "title": "Kontroll (P6)",
+      "desc": "Tecknet anger att fordonsförare ska köra in på kontrollplats för kontroll. Visas symbol för visst eller vissa slag av fordon enligt 2 kap. 28 § gäller skyldigheten att köra in för kontroll endast för förare av dessa fordon. Tecknet är anpassat till förhållandena på platsen.",
+      "imgs": "P6-1.png"
+    },
+    {
+      "title": "Förberedande upplysning om kontroll (P7)",
+      "desc": "Tecknet ger förberedande upplysning om kontroll. Tecknet är anpassat till förhållandena på platsen.",
+      "imgs": "P7-1.png"
+    },
+    {
+      "title": "Minska hastigheten (P8)",
+      "desc": "Tecknet anger att de trafikanter som befinner sig bakom polisfordonet skall minska hastigheten. Under mörker och vid nedsatt sikt får tecknet förtydligas med en lykta som visar vitt eller gult ljus eller en reflexanordning som återkastar vitt eller gult ljus.",
+      "imgs": "P8-1.png"
+    },
+    {
+      "title": "Minska hastigheten (P9)",
+      "desc": "Tecknet anger att de trafikanter som möter polisfordonet skall minska hastigheten. Under mörker och vid nedsatt sikt får tecknet förtydligas med en lykta som visar vitt eller gult ljus eller en reflexanordning som återkastar vitt eller gult ljus.",
+      "imgs": "P9-1.png"
+    },
+    {
+      "title": "Följ efter och stanna bakom polisfordonet när detta stannar (P10)",
+      "desc": "Tecknet anger att föraren av det fordon som befinner sig bakom polisfordonet skall följa efter det och stanna när polisfordonet stannar. Tecknet kan ges med en stoppspade.",
+      "imgs": "P10-1.png"
+    },
+    {
+      "title": "Kör in till vägkanten och stanna framför polisfordonet (P11)",
+      "desc": "Tecknet anger att föraren av det fordon som befinner sig framför polisfordonet skall köra in till vägkanten och stanna. Tecknet ges med växelvis blinkande blått och rött ljus.",
+      "imgs": "P11-1.png"
+    }
+  ]
+}

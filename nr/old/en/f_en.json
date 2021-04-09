@@ -1,0 +1,194 @@
+{
+  "direction-signs": [
+    {
+      "title": "Direction sign (F1)",
+      "desc": "",
+      "imgs": "F1-1.png"
+    },
+    {
+      "title": "Direction sign when junction turn is prohibited (F2)",
+      "desc": "The sign provides preparatory information indicating that it is prohibited to turn in a junction, but that another direction can be chosen.",
+      "imgs": "F2-1.png"
+    },
+    {
+      "title": "Direction sign (F3)",
+      "desc": "",
+      "imgs": "F3-1.png"
+    },
+    {
+      "title": "Exit sign (F4)",
+      "desc": "",
+      "imgs": "F4-1.png"
+    },
+    {
+      "title": "Directional sign (F5)",
+      "desc": "",
+      "imgs": "F5-1.png"
+    },
+    {
+      "title": "Direction sign (F6)",
+      "desc": "",
+      "imgs": "F6-1.png"
+    },
+    {
+      "title": "Direction and exit sign (F7)",
+      "desc": "The sign is erected where the exit road starts.",
+      "imgs": "F7-1.png"
+    },
+    {
+      "title": "Lane assignment sign (F8)",
+      "desc": "The sign indicates the lane or lanes suitable when travelling to the destination. The sign is placed above the lane or lanes to which it relates. A lane assignment sign can also be used as preparatory information regarding an exit road. In such cases, the distance to the exit road is indicated under the symbol for the exit road.",
+      "imgs": "F8-1.png"
+    },
+    {
+      "title": "Collective sign for route directions (F9)",
+      "desc": "",
+      "imgs": "F9-1.png"
+    },
+    {
+      "title": "Place name (F10)",
+      "desc": "",
+      "imgs": "F10-1.png"
+    },
+    {
+      "title": "Street name (F11)",
+      "desc": "",
+      "imgs": "F11-1.png"
+    },
+    {
+      "title": "Watercourse (F12)",
+      "desc": "",
+      "imgs": "F12-1.png"
+    },
+    {
+      "title": "Distance sign (F13)",
+      "desc": "",
+      "imgs": "F13-1.png"
+    },
+    {
+      "title": "Road number (F14)",
+      "desc": "A road number is only given for roads in the number group 1–499. A sign with a dashed border indicates that the road is leading to the route with the number on the sign.",
+      "imgs": "F14-1.png"
+    },
+    {
+      "title": "Diversion (F15)",
+      "desc": "",
+      "imgs": "F15-1.png"
+    },
+    {
+      "title": "Number of lanes increase (F16)",
+      "desc": "",
+      "imgs": "F16-1.png"
+    },
+    {
+      "title": "Lane ends (F17)",
+      "desc": "This sign indicates a reduction in the number of lanes. The sign is specific to the conditions at the location. The sign is also used as a preparatory notice that a lane is ending. The distance is then stated on an additional panel. In case of a temporary re-routing of traffic, the sign may have an orange base. Otherwise, no deviating colour may be used.",
+      "imgs": "F17-1.png"
+    },
+    {
+      "title": "Lane separation on this section (F18)",
+      "desc": "The sign indicates the direction of traffic flow in lanes. The sign is specific to the conditions at the location. Symbols for vehicle type, road number or physical boundary between opposite lanes may be incorporated in the sign.",
+      "imgs": "F18-1.png"
+    },
+    {
+      "title": "Connecting road with acceleration lane (F19)",
+      "desc": "The sign is specific to the conditions at the location. In case of a temporary re-routing of traffic, the sign may have an orange base. Otherwise, no deviating colour may be used.",
+      "imgs": "F19-1.png"
+    },
+    {
+      "title": "Connecting road in a separate lane (F20)",
+      "desc": "The sign is specific to the conditions at the location. In case of a temporary re-routing of traffic, the sign may have an orange base. Otherwise, no deviating colour may be used.",
+      "imgs": "F20-1.png"
+    },
+    {
+      "title": "Lane division before junction (F21)",
+      "desc": "",
+      "imgs": "F21-1.png"
+    },
+    {
+      "title": "Country border (F22)",
+      "desc": "",
+      "imgs": "F22-1.png"
+    },
+    {
+      "title": "Diversion route (F23)",
+      "desc": "",
+      "imgs": "F23-1.png"
+    },
+    {
+      "title": "Direction during diversion (F24)",
+      "desc": "The sign indicates the direction of travel during the temporary diversion of traffic. No other colour may be used.",
+      "imgs": "F24-1.png"
+    },
+    {
+      "title": "Lane ends (F25)",
+      "desc": "",
+      "imgs": "F25-1.png"
+    },
+    {
+      "title": "Lane closed (F26)",
+      "desc": "",
+      "imgs": "F26-1.png"
+    },
+    {
+      "title": "Interchange number (F27)",
+      "desc": "The sign indicates the number of the interchange. The sign may be supplemented with the exit road's designation. No other colour may be used.",
+      "imgs": "F27-1.png"
+    },
+    {
+      "title": "Parking facility (F28)",
+      "desc": "Information indicating that the parking location is full or has spaces available can be provided adjacent to the sign. The name of the parking facility may be included in the sign. The sign may be incorporated in a location sign for direction. No other colour may be used.",
+      "imgs": "F28-1.png"
+    },
+    {
+      "title": "Park and ride (F29)",
+      "desc": "",
+      "imgs": "F29-1.png"
+    },
+    {
+      "title": "Local loop (F30)",
+      "desc": "The sign indicates a ring road or equivalent. The sign may be supplemented with a designation or similar. No other colour may be used.",
+      "imgs": "F30-1.png"
+    },
+    {
+      "title": "Sign for certain types of vehicle of category of road user (F31)",
+      "desc": "",
+      "imgs": "F31-1.png"
+    },
+    {
+      "title": "Dangerous goods (F32)",
+      "desc": "",
+      "imgs": "F32-1.png"
+    },
+    {
+      "title": "Emergency site (F33)",
+      "desc": "The sign indicates an emergency site during roadworks or similar. No other colour may be used.",
+      "imgs": "F33-1.png"
+    },
+    {
+      "title": "Direction sign (F34)",
+      "desc": "",
+      "imgs": "F34-1.png"
+    },
+    {
+      "title": "Direction sign (F35)",
+      "desc": "",
+      "imgs": "F35-1.png"
+    },
+    {
+      "title": "Place name (F36)",
+      "desc": "",
+      "imgs": "F36-1.png"
+    },
+    {
+      "title": "Distance sign (F37)",
+      "desc": "",
+      "imgs": "F37-1.png"
+    },
+    {
+      "title": "Bicycle route (F38)",
+      "desc": "The sign indicates a route devoted to bicycles. The colour of the sign may vary.",
+      "imgs": "F38-1.png"
+    }
+  ]
+}

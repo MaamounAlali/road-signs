@@ -1,0 +1,294 @@
+{
+  "nonLimitedAccessHighwaysOrMainRoads": [
+    {
+      "title": "Nummernschild für AutobahnenAutobahn - (limited access highway) route number (48)\n",
+      "img": "120px-Zeichen_405_-_Nummernschild_f%C3%BCr_Autobahnen%2C_StVO_1992.svg.png",
+      "id": 202
+    },
+    {
+      "title": "Knotenpunkte der AutobahnenInterchange/Exit/Ausfahrt Number (26)\n",
+      "img": "120px-Zeichen_406-50_-_Knotenpunkte_der_Autobahnen_%28ein-_oder_zweistellige_Nummer%29%2C_650x650%3B_StVO_2013.svg.png",
+      "id": 203
+    },
+    {
+      "title": "Autobahn distance sign (usually after entrance)\n",
+      "img": "120px-Zeichen_453_-_Entfernungstafel_auf_Autobahnen%2C_StVO_1992.svg.png",
+      "id": 204
+    },
+    {
+      "title": "Autobahn sign indicating next exit has a service area nearby\n",
+      "img": "120px-Zeichen_448.1_-_Autohof%2C_StVO_2000.svg.png",
+      "id": 205
+    },
+    {
+      "title": "Autobahn sign  announcing next exit\n",
+      "img": "120px-Zeichen_448_-_Ank%C3%BCndigungstafel_auf_Autobahnen%2C_StVO_1992.svg.png",
+      "id": 206
+    },
+    {
+      "title": "Autobahn reminder exit sign, showing next exit ahead\n",
+      "img": "113px-Zeichen_449_-_Vorwegweiser_auf_Autobahnen_%28nach_RWBA%29%2C_StVO_1992.svg.png",
+      "id": 207
+    },
+    {
+      "title": "Autobahn marker (300m before exit)\n",
+      "img": "65px-Zeichen_450_-_Ank%C3%BCndigungsbake_auf_Autobahnen%2C_StVO_1970.svg.png",
+      "id": 208
+    },
+    {
+      "title": "Autobahn marker (200m before exit)\n",
+      "img": "52px-Zeichen_451_-_Ank%C3%BCndigungsbake_auf_Autobahnen%2C_StVO_1970.svg.png",
+      "id": 209
+    },
+    {
+      "title": "Autobahn marker (100m before exit)\n",
+      "img": "52px-Zeichen_452_-_Ank%C3%BCndigungsbake_%28einstreifig%29%2C_StVO_1970.svg.png",
+      "id": 210
+    },
+    {
+      "title": "Autobahn Ausfahrtexit (at end of exit lane)\n",
+      "img": "120px-Zeichen_333_-_Pfeilschild_-_Ausfahrt_von_der_Autobahn%2C_StVO_1980.svg.png",
+      "id": 211
+    },
+    {
+      "title": "Begin of Autobahn (Motor vehicles capable of speeds exceeding 60 km/h only)\n",
+      "img": "120px-Zeichen_330.1_-_Autobahn%2C_StVO_2013.svg.png",
+      "id": 212
+    },
+    {
+      "title": "End of Autobahn\n",
+      "img": "120px-Zeichen_330.2_-_Ende_der_Autobahn%2C_StVO_2013.svg.png",
+      "id": 213
+    },
+    {
+      "title": "Tunnel ahead\n",
+      "img": "120px-Zeichen_327_-_Tunnel%2C_StVO_2006.svg.png",
+      "id": 214
+    },
+    {
+      "title": "Breakdown bay (used only on highways without emergency shoulder or in larger construction areas)\n",
+      "img": "120px-Zeichen_328_-_Nothalte-_und_Pannenbucht%2C_StVO_2006.svg.png",
+      "id": 215
+    },
+    {
+      "title": "Pfeilwegweiser zur AutobahnDirection towards Autobahn entrance\n",
+      "img": "120px-Zeichen_430-20_-_Pfeilwegweiser_zur_Autobahn%2C_StVO_2013.svg.png",
+      "id": 216
+    },
+    {
+      "title": "Direction Signs to Autobahn, Messe (Fair/Convention Center) & Bundesstraße (without number)\n",
+      "img": "120px-Zeichen_434-53_-_Tabellenwegweiser%2C_aufgel%C3%B6ste_Form_%28nur_innerorts%29_ohne_Bundesstra%C3%9Fennummer%3B_StVO_2013.svg.png",
+      "id": 217
+    },
+    {
+      "title": "sameBundesstraße with Number and distances to next cities\n",
+      "img": "120px-Zeichen_434-52_-_Tabellenwegweiser%2C_aufgel%C3%B6ste_Form_%28nur_innerorts%29_mit_Bundesstra%C3%9Fennummer%3B_StVO_2013.svg.png",
+      "id": 218
+    },
+    {
+      "title": "Vorwegweiser zur AutobahnAutobahn junction entrance sign\n",
+      "img": "111px-Zeichen_440_-_Vorwegweiser_zur_Autobahn_%283000x3250%29%3B_StVO_1988.svg.png",
+      "id": 219
+    },
+    {
+      "title": "Vorwegweiser zur AutobahnAutobahn junction entrance sign\n",
+      "img": "120px-Zeichen_441_-_Gegliederter_Vorwegweiser_zur_Autobahn_%283000x2750%29_-_nach_RWB%3B_StVO_2009.svg.png",
+      "id": 220
+    },
+    {
+      "title": "Autobahn Detour\n",
+      "img": "80px-Zeichen_460-30_-_Bedarfsumleitung_geradeaus%2C_StVO_1992.svg.png",
+      "id": 221
+    },
+    {
+      "title": "Autobahn Detour ahead\n",
+      "img": "94px-Zeichen_466_-_Bedarfsumleitungstafel%2C_StVO_1970.svg.png",
+      "id": 222
+    },
+    {
+      "title": "Detouring onto opposite lane (in 200 m)\n",
+      "img": "75px-Zeichen_500_-_%C3%9Cberleitungstafel_%282000x1250%29%3B_StVO_1992.svg.png",
+      "id": 223
+    },
+    {
+      "title": "End of lane\n",
+      "img": "94px-Zeichen_531-10_-_Einengungstafel%3B_Darstellung_ohne_Gegenverkehr_-_noch_ein_Fahrstreifen_links_in_Fahrtrichtung%2C_StVO_1992.svg.png",
+      "id": 224
+    },
+    {
+      "title": "KraftfahrstraßeFast traffic highway (Motor vehicles capable of speeds exceeding 60 km/h only)\n",
+      "img": "120px-Zeichen_331.1_-_Kraftfahrstra%C3%9Fe%2C_StVO_2013.svg.png",
+      "id": 225
+    },
+    {
+      "title": "End of fast traffic highway\n",
+      "img": "120px-Zeichen_331.2_-_Ende_der_Kraftfahrstra%C3%9Fe%2C_StVO_2013.svg.png",
+      "id": 226
+    },
+    {
+      "title": "BundesstraßeCountry road (non-isolated highway) route number (35)\n",
+      "img": "120px-Bundesstra%C3%9Fe_35_number.svg.png",
+      "id": 227
+    },
+    {
+      "title": "Ausfahrt auf BundesstraßeExit off Main Road (to Mainz/Wiesbaden)\n",
+      "img": "120px-Zeichen_332.1_-_Ausfahrttafel_auf_anderen_Stra%C3%9Fen_au%C3%9Ferhalb_der_Autobahn%2C_StVO_2017.svg.png",
+      "id": 228
+    },
+    {
+      "title": "AusfahrtExit\n",
+      "img": "120px-Zeichen_333.1_-_Ausfahrt_von_anderen_Stra%C3%9Fen_au%C3%9Ferhalb_der_Autobahn%2C_StVO_2017.svg.png",
+      "id": 229
+    },
+    {
+      "title": "Signpost at junction leading onto a main road\n",
+      "img": "120px-Zeichen_415-10_-_Wegweiser_auf_Bundesstra%C3%9Fen_%28linksweisend%29%2C_StVO_1992.svg.png",
+      "id": 230
+    },
+    {
+      "title": "Signpost at junction leading onto a minor road\n",
+      "img": "120px-Zeichen_418-10_-_Wegweiser_auf_sonstigen_Stra%C3%9Fen_mit_gr%C3%B6%C3%9Ferer_Verkehrsbedeutung_%28linksweisend%29%2C_StVO_1992.svg.png",
+      "id": 231
+    },
+    {
+      "title": "Signpost at junction\n",
+      "img": "120px-Zeichen_419-20_%E2%80%93_Pfeilwegweiser_auf_sonstigen_Stra%C3%9Fen_mit_geringerer_Verkehrsbedeutung%2C_StVO_2013.svg.png",
+      "id": 232
+    },
+    {
+      "title": "Sign on approaches to junctions\n",
+      "img": "120px-Zeichen_434_-_Tabellenwegweiser%2C_StVO_1992.svg.png",
+      "id": 233
+    },
+    {
+      "title": "Sign on approaches to junctions\n",
+      "img": "87px-Zeichen_438%2C_StVO_2009.svg.png",
+      "id": 234
+    },
+    {
+      "title": "Sign on approaches to junctions (lanes)\n",
+      "img": "120px-Zeichen_439_-_Vorwegweiser%2C_StVO_2013.svg.png",
+      "id": 235
+    },
+    {
+      "title": "Route for Lkw/Kfz\n",
+      "img": "120px-Zeichen_421-20_-_Wegweiser_f%C3%BCr_Lastkraftwagen_%28rechtsweisend%29%2C_StVO_1992.svg.png",
+      "id": 236
+    },
+    {
+      "title": "Route for Lkw/Kfz\n",
+      "img": "81px-Zeichen_422.svg.png",
+      "id": 237
+    },
+    {
+      "title": "Lkw/Kfz geradeausGo Straight Ahead\n",
+      "img": "80px-Zeichen_422-30_-_Wegweiser_f%C3%BCr_bestimmte_Verkehrsarten_%E2%80%9EKFZ_mit_einer_zul%C3%A4ssigen_Gesamtmasse_%C3%BCber_3%2C5_t%E2%80%9C_-_geradeaus%3B_StVO_2013.svg.png",
+      "id": 238
+    },
+    {
+      "title": "Lkw/Kfz abbiegen rectsTurn Right Ahead\n",
+      "img": "80px-Zeichen_442-20_-_Vorwegweiser_f%C3%BCr_bestimmte_Verkehrsarten_%E2%80%9EKFZ_mit_einer_zul%C3%A4ssigen_Gesamtmasse_%C3%BCber_3%2C5_t%E2%80%9C_%28rechtsausweisend%29%2C_StVO_2017.svg.png",
+      "id": 239
+    },
+    {
+      "title": "Lkw/Kfz abbiegen linksTurn Left Ahead\n",
+      "img": "80px-Zeichen_442-10_-_Vorwegweiser_f%C3%BCr_bestimmte_Verkehrsarten_%E2%80%9EKFZ_mit_einer_zul%C3%A4ssigen_Gesamtmasse_%C3%BCber_3%2C5_t%E2%80%9C_-_linksweisend%3B_StVO_2017.svg.png",
+      "id": 240
+    },
+    {
+      "title": "Hazardous Cargos - Go Straight Ahead\n",
+      "img": "80px-Zeichen_422-34_-_Wegweiser_f%C3%BCr_bestimmte_Verkehrsarten_%E2%80%9EFahrzeuge_mit_wassergef%C3%A4hrdender_Ladung%E2%80%9C_-_geradeaus%3B_StVO_2017.svg.png",
+      "id": 241
+    },
+    {
+      "title": "Hazardous Cargos - Go Right Ahead\n",
+      "img": "80px-Zeichen_442-22_-_Vorwegweiser_f%C3%BCr_bestimmte_Verkehrsarten_%E2%80%9EFahrzeuge_mit_wassergef%C3%A4hrdender_Ladung%E2%80%9C_%28rechtsweisend%29%2C_StVO_2017.svg.png",
+      "id": 242
+    },
+    {
+      "title": "Hazardous Cargos - Go Left Ahead\n",
+      "img": "80px-Zeichen_442-12_-_Wegweiser_f%C3%BCr_bestimmte_Verkehrsarten_%E2%80%9EFahrzeuge_mit_wassergef%C3%A4hrdender_Ladung%E2%80%9C_-_linksweisend%3B_StVO_2017.svg.png",
+      "id": 243
+    },
+    {
+      "title": "RadverkehrBicycles Go Straight Ahead\n",
+      "img": "80px-Zeichen_422-36_-_Wegweiser_f%C3%BCr_bestimmte_Verkehrsarten_%E2%80%9ERadverkehr%E2%80%9C_-_geradeaus%3B_StVO_2017.svg.png",
+      "id": 244
+    },
+    {
+      "title": "RadverkehrBicycles Turn Right Ahead\n",
+      "img": "80px-Zeichen_442-23_-_Vorwegweiser_f%C3%BCr_bestimmte_Verkehrsarten_%E2%80%9ERadverkehr%E2%80%9C_%28rechtsweisend%29%2C_StVO_2017.svg.png",
+      "id": 245
+    },
+    {
+      "title": "RadverkehrBicycles Turn Left Ahead\n",
+      "img": "80px-Zeichen_442-13_-_Wegweiser_f%C3%BCr_bestimmte_Verkehrsarten_%E2%80%9ERadverkehr%E2%80%9C_-_linksweisend%3B_StVO_2017.svg.png",
+      "id": 246
+    },
+    {
+      "title": "Detour signpost\n",
+      "img": "120px-Zeichen_454-20_%E2%80%93_Umleitungswegweiser_%28rechtsweisend%29%2C_StVO_1992.svg.png",
+      "id": 247
+    },
+    {
+      "title": "Detour sign (U3)\n",
+      "img": "80px-Zeichen_455.1-30_-_Ank%C3%BCndigung_oder_Fortsetzung_der_Umleitung%2C_Vorank%C3%BCndigung_geradeaus%2C_StVO_2013.svg.png",
+      "id": 248
+    },
+    {
+      "title": "UmleitungDetour sign\n",
+      "img": "120px-Zeichen_457_-_Umleitungsank%C3%BCndigung%2C_StVO_1992.svg.png",
+      "id": 249
+    },
+    {
+      "title": "End of Detour\n",
+      "img": "120px-Zeichen_459_-_Ende_einer_Umleitung%2C_StVO_1992.svg.png",
+      "id": 250
+    },
+    {
+      "title": "PlanskizzeLayout of Detour route\n",
+      "img": "94px-Zeichen_458_-_Planskizze%2C_StVO_2013.svg.png",
+      "id": 251
+    },
+    {
+      "title": "Umlenkungspfeil (Streckenempfehlung)Existing alternate Autobahn route\n",
+      "img": "120px-Zeichen_467.1-20_-_Umlenkungspfeil_%28Streckenempfehlung%29_rechtsweisend%2C_StVO_2013.svg.png",
+      "id": 252
+    },
+    {
+      "title": "End of detour (symbol)\n",
+      "img": "77px-Zeichen_467.2_-_Umlenkungspfeil_Ende_%28Ende_einer_Streckenempfehlung%29%2C_StVO_2013.svg.png",
+      "id": 253
+    },
+    {
+      "title": "Complicated traffic touring (if turning left is forbidden)\n",
+      "img": "120px-Zeichen_590-10_-_Blockumfahrung_rechts%2C_links%2C_links_%28600x600%29%2C_StVO_2009.svg.png",
+      "id": 254
+    },
+    {
+      "title": "European road number sign (E 36)\n",
+      "img": "120px-Zeichen_410_-_Nummernschild_f%C3%BCr_Europastra%C3%9Fen%2C_StVO_1992.svg.png",
+      "id": 255
+    },
+    {
+      "title": "StraßennameStreet name sign\n",
+      "img": "120px-Zeichen_437.svg.png",
+      "id": 256
+    },
+    {
+      "title": "Direction to BahnhofTrainstation/ Railway Station\n",
+      "img": "120px-Zeichen_432-20_-_Wegweiser_zu_inner%C3%B6rtlichen_Zielen_und_zu_Einrichtungen_mit_erheblicher_Verkehrsbedeutung_%28rechtsweisend%2C_nach_RWB%29%2C_StVO_1992.svg.png",
+      "id": 257
+    },
+    {
+      "title": "Start Urban Area (50 km/h speed limit)\n",
+      "img": "120px-Zeichen_310-50_-_Ortstafel_%28Vorderseite%29_mit_Kreis%2C_StVO_1992.svg.png",
+      "id": 258
+    },
+    {
+      "title": "Town sign: End of Urban Area (here with distance to next town)\n",
+      "img": "120px-Zeichen_311-50_-_Ortstafel_einseitig%2C_StVO_1992.svg.png",
+      "id": 259
+    }
+  ]
+}

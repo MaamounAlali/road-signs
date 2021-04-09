@@ -1,0 +1,34 @@
+{
+  "prioritySigns": [
+    {
+      "title": "einseitig (links) verengte FahrbahnRoad narrows on the left, 1-Way Zipper Rule Applies, 2-Way Oncoming Traffic Yields to You)\n",
+      "img": "120px-Zeichen_121-20_-_einseitig_%28links%29_verengte_Fahrbahn%2C_StVO_1992.svg.png",
+      "id": 96
+    },
+    {
+      "title": "Verengte FahrbahnNarrow Roadway Ahead, 1-Way Zipper Rule Applies\n",
+      "img": "120px-Zeichen_120_-_Verengte_Fahrbahn%2C_StVO_1970.svg.png",
+      "id": 97
+    },
+    {
+      "title": "einseitig (rechts) verengte FahrbahnRoad narrows on the right, 1-Way Zipper Rule Applies, 2-Way Yield to Oncoming Traffic\n",
+      "img": "120px-Zeichen_121-10_-_einseitig_%28rechts%29_verengte_Fahrbahn%2C_StVO_1992.svg.png",
+      "id": 98
+    },
+    {
+      "title": "Two way traffic ahead (Red indicates who must yield)\n",
+      "img": "120px-Zeichen_125_-_Gegenverkehr%2C_StVO_1992.svg.png",
+      "id": 99
+    },
+    {
+      "title": "Oncoming Traffic (Red indicates who must yield)\n",
+      "img": "120px-Zeichen_208_-_Dem_Gegenverkehr_Vorrang_gew%C3%A4hren%21_600x600%2C_StVO_1992.svg.png",
+      "id": 100
+    },
+    {
+      "title": "Vorrang vor dem GegenverkehrPriority over oncoming vehicles\n",
+      "img": "120px-Zeichen_308_-_Vorrang_vor_dem_Gegenverkehr%2C_StVO_1992.svg.png",
+      "id": 101
+    }
+  ]
+}

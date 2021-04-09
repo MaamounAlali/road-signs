@@ -1,0 +1,235 @@
+{
+  "categories": {
+    "ar": [
+      {
+        "id": "a",
+        "title": "NR شاخصات التحذير",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/A1-1.png?raw=true"
+      },
+      {
+        "id": "b",
+        "title": "شاخصات الأولوية",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/B1-1.png?raw=true"
+      },
+      {
+        "id": "c",
+        "title": "شاخصات المنع",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/C1-1.png?raw=true"
+      },
+      {
+        "id": "d",
+        "title": "شاخصات إلزامية",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/D1-1.png?raw=true"
+      },
+      {
+        "id": "e",
+        "title": "شاخصات إرشادية",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/E1-1.png?raw=true"
+      },
+      {
+        "id": "f",
+        "title": "شاخصات التوجيه",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/F1-1.png?raw=true"
+      },
+      {
+        "id": "j",
+        "title": "شاخصات معلومات",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/G1-1.png?raw=true"
+      },
+      {
+        "id": "s",
+        "title": "رموز",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/S1-1.png?raw=true"
+      },
+      {
+        "id": "t",
+        "title": "شاخصات ملحقة",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/T1-1.png?raw=true"
+      },
+      {
+        "id": "sig",
+        "title": "الإشارات الضوئية",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/SIG1-1.png?raw=true"
+      },
+      {
+        "id": "m",
+        "title": "العلامات الأرضية",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/M1-1.png?raw=true"
+      },
+      {
+        "id": "x",
+        "title": "شاخصات أخرى",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/X1-1.png?raw=true"
+      },
+      {
+        "id": "y",
+        "title": "الإشارات الضوئية في التقاطع مع السكك الحديدية و الترام",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/Y1-1.png?raw=true"
+      },
+      {
+        "id": "v",
+        "title": "إشارات الحارس",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/V1-1.png?raw=true"
+      },
+      {
+        "id": "p",
+        "title": "إشارات ضابط مرور",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/P1-1.png?raw=true"
+      }
+    ],
+    "nr": [
+      {
+        "id": "a",
+        "title": "Varningsmärken NR",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/A1-1.png?raw=true"
+      },
+      {
+        "id": "b",
+        "title": "Väjningspliktsmärken",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/B1-1.png?raw=true"
+      },
+      {
+        "id": "c",
+        "title": "Förbudsmärken",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/C1-1.png?raw=true"
+      },
+      {
+        "id": "d",
+        "title": "Påbudsmärken",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/D1-1.png?raw=true"
+      },
+      {
+        "id": "e",
+        "title": "Anvisningsmärken",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/E1-1.png?raw=true"
+      },
+      {
+        "id": "f",
+        "title": "Lokaliseringsmärken",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/F1-1.png?raw=true"
+      },
+      {
+        "id": "j",
+        "title": "Upplysningsmärken",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/G1-1.png?raw=true"
+      },
+      {
+        "id": "s",
+        "title": "Symboler",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/S1-1.png?raw=true"
+      },
+      {
+        "id": "t",
+        "title": "Tilläggstavlor",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/T1-1.png?raw=true"
+      },
+      {
+        "id": "sig",
+        "title": "Trafiksignaler",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/SIG1-1.png?raw=true"
+      },
+      {
+        "id": "m",
+        "title": "Vägmarkeringar",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/M1-1.png?raw=true"
+      },
+      {
+        "id": "x",
+        "title": "Andra anordningar för anvisningar för trafiken",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/X1-1.png?raw=true"
+      },
+      {
+        "id": "y",
+        "title": "Signaler vid korsning med järnväg eller spårväg",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/Y1-1.png?raw=true"
+      },
+      {
+        "id": "v",
+        "title": "Tecken av vakt",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/V1-1.png?raw=true"
+      },
+      {
+        "id": "p",
+        "title": "Tecken av polis med flera",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/P1-1.png?raw=true"
+      }
+    ],
+    "en": [
+      {
+        "id": "a",
+        "title": "warning signs NR",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/A1-1.png?raw=true"
+      },
+      {
+        "id": "b",
+        "title": "priority signs",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/B1-1.png?raw=true"
+      },
+      {
+        "id": "c",
+        "title": "prohibitory signs",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/C1-1.png?raw=true"
+      },
+      {
+        "id": "d",
+        "title": "mandatory signs",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/D1-1.png?raw=true"
+      },
+      {
+        "id": "e",
+        "title": "instruction signs",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/E1-1.png?raw=true"
+      },
+      {
+        "id": "f",
+        "title": "direction signs",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/F1-1.png?raw=true"
+      },
+      {
+        "id": "j",
+        "title": "informationSigns",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/G1-1.png?raw=true"
+      },
+      {
+        "id": "s",
+        "title": "symbols",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/S1-1.png?raw=true"
+      },
+      {
+        "id": "t",
+        "title": "additional panels",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/T1-1.png?raw=true"
+      },
+      {
+        "id": "sig",
+        "title": "traffic signals",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/SIG1-1.png?raw=true"
+      },
+      {
+        "id": "m",
+        "title": "road markings",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/M1-1.png?raw=true"
+      },
+      {
+        "id": "x",
+        "title": "other signs",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/X1-1.png?raw=true"
+      },
+      {
+        "id": "y",
+        "title": "signals railway crossings",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/Y1-1.png?raw=true"
+      },
+      {
+        "id": "v",
+        "title": "traffic officer",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/V1-1.png?raw=true"
+      },
+      {
+        "id": "p",
+        "title": "police officers",
+        "imgs": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/P1-1.png?raw=true"
+      }
+    ]
+  }
+}

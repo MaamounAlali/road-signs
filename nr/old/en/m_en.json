@@ -1,0 +1,174 @@
+{
+  "road-markings": [
+    {
+      "title": "Centre line (M1)",
+      "desc": "",
+      "imgs": "M1-1.png"
+    },
+    {
+      "title": "Edge line (M2)",
+      "desc": "",
+      "imgs": "M2-1.png"
+    },
+    {
+      "title": "Warning line (M3)",
+      "desc": "A warning line is used to indicate that it is inappropriate to cross over it due to the traffic conditions. The marking indicates the boundary between lanes intended for travel in opposite directions. The marking has the distance ratio 3:1 between dashes and spaces.",
+      "imgs": "M3-1.png"
+    },
+    {
+      "title": "Guide line (M4)",
+      "desc": "The marking indicates the appropriate route for traffic in complicated junctions. The marking is also used in other cases where there is a need for guidance. The marking has a distance ratio of 1:1 between the dashes and spaces.",
+      "imgs": "M4-1.png"
+    },
+    {
+      "title": "Bicycle path line (M5)",
+      "desc": "",
+      "imgs": "M5-1.png"
+    },
+    {
+      "title": "Line for vehicles operating a regular service, etc. (M6)",
+      "desc": "The marking indicates the boundary between a lane for vehicles operating a regular service, etc. and another lane. The marking has a distance ratio of 1:1 between the dashes and spaces.",
+      "imgs": "M6-1.png"
+    },
+    {
+      "title": "Reversible lane (M7)",
+      "desc": "The marking indicates a lane that may be used for alternating direction of traffic flow. The marking has a distance ratio of 1:1 between the dashes and spaces.",
+      "imgs": "M7-1.png"
+    },
+    {
+      "title": "Solid line (M8)",
+      "desc": "A solid line indicates that the provisions of Chapter 3, Section 11 or Section 12, paragraph 3 of the Road Traffic Ordinance (1998:1276), or provisions stipulated pursuant to that ordinance apply. A solid centre line can appear in both single and double form. In case of a double solid line, the distance between the lines may vary.",
+      "imgs": "M8-1.png"
+    },
+    {
+      "title": "Obstruction marking (M9)",
+      "desc": "The marking indicates an area where vehicles may not drive according to Chapter 3, Section 11 of the Road Traffic Ordinance. The marking consists of angled or oblique lines depending on the conditions at the location. Part or all of the area can be painted white.",
+      "imgs": "M9-1.png"
+    },
+    {
+      "title": "Centre line and solid line (M10)",
+      "desc": "",
+      "imgs": "M10-1.png"
+    },
+    {
+      "title": "Warning line and solid line (M11)",
+      "desc": "This marking is used where it is not permitted for a vehicle on the side of the solid line to change lanes. The marking can also be used to indicate an oncoming solid line on the side where there is a warning line.",
+      "imgs": "M11-1.png"
+    },
+    {
+      "title": "Centre line and warning line (M12)",
+      "desc": "",
+      "imgs": "M12-1.png"
+    },
+    {
+      "title": "Stop line (M13)",
+      "desc": "The marking indicates where a vehicle should be stopped according to a road sign or traffic signal.",
+      "imgs": "M13-1.png"
+    },
+    {
+      "title": "Give way line (M14)",
+      "desc": "This marking indicates the line that a vehicle should not pass when the driver is observing the obligation to give way.",
+      "imgs": "M14-1.png"
+    },
+    {
+      "title": "Pedestrian crossing (M15)",
+      "desc": "",
+      "imgs": "M15-1.png"
+    },
+    {
+      "title": "Bicycle passage or bicycle crossing (M16)",
+      "desc": "",
+      "imgs": "M16-1.png"
+    },
+    {
+      "title": "Speed bump (M17)",
+      "desc": "This marking indicates a speed bump, gutter or similar obstacle.",
+      "imgs": "M17-1.png"
+    },
+    {
+      "title": "Preparatory information regarding the obligation to give way or to stop (M18)",
+      "desc": "This marking indicates that there is an obligation to give way or to stop further down the road.",
+      "imgs": "M18-1.png"
+    },
+    {
+      "title": "Lane selection arrows (M19)",
+      "desc": "The marking indicates, for the nearest junction, the appropriate route in the designated lane. If the lane is demarcated with a solid lane line, the driver is to follow the direction or directions indicated by the arrow.",
+      "imgs": "M19-1.png"
+    },
+    {
+      "title": "Change of lanes (M20)",
+      "desc": "",
+      "imgs": "M20-1.png"
+    },
+    {
+      "title": "No stopping and parking (M21)",
+      "desc": "The marking indicates it is prohibited to stop or park a vehicle and it is placed at the edge of the carriageway. No other colour may be used.",
+      "imgs": "M21-1.png"
+    },
+    {
+      "title": "No parking (M22)",
+      "desc": "The marking indicates it is prohibited to park a vehicle and it is placed at the edge of the carriageway. The marking also indicates the extent of a bus stop. The marking has the distance ratio 1:1 between dashes and spaces. No other colour may be used.",
+      "imgs": "M22-1.png"
+    },
+    {
+      "title": "No stopping and parking or no parking (M23)",
+      "desc": "",
+      "imgs": "M23-1.png"
+    },
+    {
+      "title": "Parking space (M24)",
+      "desc": "The marking indicates the boundary of a vehicle parking space. The marking can have a broken line.",
+      "imgs": "M24-1.png"
+    },
+    {
+      "title": "Pedestrian and bicycle arrow (M25)",
+      "desc": "",
+      "imgs": "M25-1.png"
+    },
+    {
+      "title": "Bicycle (M26)",
+      "desc": "",
+      "imgs": "M26-1.png"
+    },
+    {
+      "title": "Pedestrians (M27)",
+      "desc": "",
+      "imgs": "M27-1.png"
+    },
+    {
+      "title": "Bus (M28)",
+      "desc": "The road marking indicates that the lane is intended for vehicles operating a regular service etc.",
+      "imgs": "M28-1.png"
+    },
+    {
+      "title": "Speed (M29)",
+      "desc": "The marking indicates the maximum permitted speed.",
+      "imgs": "M29-1.png"
+    },
+    {
+      "title": "Route number (M30)",
+      "desc": "",
+      "imgs": "M30-1.png"
+    },
+    {
+      "title": "Specific purpose area (M31)",
+      "desc": "",
+      "imgs": "M31-1.png"
+    },
+    {
+      "title": "Stop (M32)",
+      "desc": "",
+      "imgs": "M32-1.png"
+    },
+    {
+      "title": "Disabled (M33)",
+      "desc": "",
+      "imgs": "M33-1.png"
+    },
+    {
+      "title": "Information (M34)",
+      "desc": "The marking provides information, warning or instruction of importance to the road user.",
+      "imgs": "M34-1.png"
+    }
+  ]
+}

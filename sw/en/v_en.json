@@ -1,0 +1,19 @@
+{
+  "traffic-officer": [
+    {
+      "title": "Stop (V1)",
+      "desc": "The car shows your direction of travel.",
+      "imgs": "V1-1.png"
+    },
+    {
+      "title": "Drive on (V2)",
+      "desc": "The car shows your direction of travel.",
+      "imgs": "V2-1.png"
+    },
+    {
+      "title": "Identification mark (V3)",
+      "desc": "",
+      "imgs": "V3-1.png"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "informationSigns": [
+    {
+      "title": "Parking place\n",
+      "img": "120px-Zeichen_314-50_-_Parkplatz%2C_StVO_2013.svg.png",
+      "id": 0
+    },
+    {
+      "title": "Parkplatz (Anfang)Parking place (start)\n",
+      "img": "120px-Zeichen_314-10_-_Parkplatz_%28Anfang%29%2C_StVO_1992.svg.png",
+      "id": 1
+    },
+    {
+      "title": "Parking place (end)\n",
+      "img": "120px-Zeichen_314-20_-_Parkplatz_%28Ende%29%2C_StVO_1992.svg.png",
+      "id": 2
+    },
+    {
+      "title": "Beginn einer ParkraumbewirtschaftungszoneStart of Parking management area, only parking with parking disc or parking ticket\n",
+      "img": "120px-Zeichen_314.1_-_Beginn_einer_Parkraumbewirtschaftungszone%2C_StVO_2009.svg.png",
+      "id": 3
+    },
+    {
+      "title": "End of Parking management area\n",
+      "img": "120px-Zeichen_314.2_-_Ende_einer_Parkraumbewirtschaftungszone%2C_StVO_2009.svg.png",
+      "id": 4
+    },
+    {
+      "title": "Car park, parking garage\n",
+      "img": "120px-Zeichen_314-50_-_Parkhaus%2C_Parkgarage%2C_StVO_2017.svg.png",
+      "id": 5
+    },
+    {
+      "title": "WasserschutzgebietWater protection zone\n",
+      "img": "80px-Zeichen_354_-_Wasserschutzgebiet%2C_StVO_1988.svg.png",
+      "id": 6
+    },
+    {
+      "title": "Place name (information only, does not imply a speed limit)\n",
+      "img": "120px-Zeichen_385-50_-_Ortshinweistafel%2C_einzeilig_%28einseitig%29%2C_StVO_1992.svg.png",
+      "id": 7
+    },
+    {
+      "title": "Tourist attraction\n",
+      "img": "120px-Zeichen_386.1_-_Touristischer_Hinweis_%28333x1000%29%2C_StVO_2013.svg.png",
+      "id": 8
+    },
+    {
+      "title": "Tourist route\n",
+      "img": "120px-Zeichen_386.1-21_-_Touristischer_Hinweis_als_Wegweiser_-_Vorwegweiser_rechtsweisend%2C_StVO_2017.svg.png",
+      "id": 9
+    },
+    {
+      "title": "Tourist route\n",
+      "img": "120px-Zeichen_386.1-51_-_Touristischer_Hinweis_mit_Bezugsziel_-_Variante_%E2%80%9Evia%E2%80%9C%2C_StVO_2017.svg.png",
+      "id": 10
+    },
+    {
+      "title": "Tourist sign (here: river or channel)\n",
+      "img": "120px-Zeichen_386.1-53_-_Touristischer_Hinweis_Fluss_oder_Kanal%2C_600x900%3B_StVO_2017.svg.png",
+      "id": 11
+    },
+    {
+      "title": "Tourist route\n",
+      "img": "120px-Zeichen_386.2-12_-_Touristische_Route%2C_Pfeilwegweiser_linksweisend%2C_StVO_2017.svg.png",
+      "id": 12
+    },
+    {
+      "title": "Tourist route\n",
+      "img": "120px-Zeichen_386.2-52_-_Touristischer_Hinweis_mit_Bezugsziel_%E2%80%9ERichtung%E2%80%9C%2C_StVO_2017.svg.png",
+      "id": 13
+    },
+    {
+      "title": "Tourist route\n",
+      "img": "120px-Zeichen_386.2_-_touristische_Unterrichtungstafel%2C_StVO_2009.svg.png",
+      "id": 14
+    },
+    {
+      "title": "Tourist sign (here: referring to the former East-West German border)\n",
+      "img": "120px-Zeichen_386.3-50_-_Touristische_Unterrichtungstafel%2C_Erinnerungstafel_gem%C3%A4%C3%9F_%E2%80%9EBrocken-Erkl%C3%A4rung%E2%80%9C%3B_StVO_2008.svg.png",
+      "id": 15
+    },
+    {
+      "title": "Toll road for heavy lorries\n",
+      "img": "120px-Zeichen_390_-_Mautpflicht_nach_dem_Bundesfernstra%C3%9Fenmautgesetz%2C_StVO_2004.svg.png",
+      "id": 16
+    },
+    {
+      "title": "End of toll road for heavy lorries\n",
+      "img": "120px-Zeichen_390.2_-_Ende_der_Mautpflicht_nach_dem_Bundesfernstra%C3%9Fenmautgesetz%2C_StVO_2015.svg.png",
+      "id": 17
+    },
+    {
+      "title": "Toll road\n",
+      "img": "120px-Zeichen_391_-_Mautpflichtige_Strecke%2C_StVO_2003.svg.png",
+      "id": 18
+    },
+    {
+      "title": "Stop - customs\n",
+      "img": "120px-Zeichen_392_-_Zollstelle%2C_StVO_1970.svg.png",
+      "id": 19
+    }
+  ]
+}

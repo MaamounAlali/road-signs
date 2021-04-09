@@ -1,0 +1,59 @@
+{
+  "roadMarkingsLines": [
+    {
+      "title": "HaltlinieStop line\n",
+      "img": "120px-Zeichen_294_-_Haltlinie%2C_StVO_1970.svg.png",
+      "id": 0
+    },
+    {
+      "title": "FußgängerüberwegPedestrian crossing\n",
+      "img": "120px-Zeichen_293_-_Fu%C3%9Fg%C3%A4nger%C3%BCberweg%2C_StVO_1970.svg.png",
+      "id": 1
+    },
+    {
+      "title": "WartelinieYield line\n",
+      "img": "120px-Zeichen_341_%E2%80%93_Wartelinie%2C_StVO_1970.svg.png",
+      "id": 2
+    },
+    {
+      "title": "Fahrstreifenbegrenzung und FahrbahnbegrenzungSolid Travel Lane (middle) & Travel Lane Boundary (right) - Crossing Not Permitted\n",
+      "img": "120px-Zeichen_295_-_Fahrstreifenbegrenzung_und_Fahrbahnbegrenzung%2C_StVO_1970.svg.png",
+      "id": 3
+    },
+    {
+      "title": "LeitlinieGuide (Dividing) Line - Crossing/Overtaking Permitted\n",
+      "img": "120px-Zeichen_340_%E2%80%93_Leitlinie%2C_StVO_1970.svg.png",
+      "id": 4
+    },
+    {
+      "title": "Einseitige FahrstreifenbegrenzungTraffic on Solid Side May Not Cross Line.  Traffic on Divided Side May Cross Line.\n",
+      "img": "120px-Zeichen_296_-_Einseitige_Fahrstreifenbegrenzung%2C_StVO_1970.svg.png",
+      "id": 5
+    },
+    {
+      "title": "Direction arrows (no stopping or parking allowed)\n",
+      "img": "120px-Zeichen_297_-_Richtungspfeile%2C_StVO_1970.svg.png",
+      "id": 6
+    },
+    {
+      "title": "Advance notice arrow\n",
+      "img": "101px-Zeichen_297.1_-_Vorank%C3%BCndigungspfeil%2C_StVO_1992.svg.png",
+      "id": 7
+    },
+    {
+      "title": "Advance notice arrow to indicate a lane end\n",
+      "img": "113px-Zeichen_297.1-21_-_Vorank%C3%BCndigungspfeil_zur_Anzeige_eines_Fahrstreifenendes%2C_StVO_2017.svg.png",
+      "id": 8
+    },
+    {
+      "title": "SperrflächenOccupying this area not permitted\n",
+      "img": "120px-Zeichen_298_-_Sperrfl%C3%A4chen%2C_StVO_1970.svg.png",
+      "id": 9
+    },
+    {
+      "title": "Grenzmarkierung für Halt- und ParkverboteNo Parking or Waiting Area\n",
+      "img": "120px-Zeichen_299_-_Grenzmarkierung_f%C3%BCr_Halt-_und_Parkverbote%2C_StVO_1992.svg.png",
+      "id": 10
+    }
+  ]
+}

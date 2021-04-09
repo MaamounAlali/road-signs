@@ -1,0 +1,298 @@
+{
+  "warning-signs": [
+    {
+      "title": "Dangerous curve",
+      "imgs": "180px-Norwegian-road-sign-100.1.svg.png",
+      "desc": "Right.",
+      "id": 0
+    },
+    {
+      "title": "Dangerous curve",
+      "imgs": "180px-Norwegian-road-sign-100.2.svg.png",
+      "desc": "Left.",
+      "id": 1
+    },
+    {
+      "title": "Dangerous curves",
+      "imgs": "180px-Norwegian-road-sign-102.1.svg.png",
+      "desc": "First to the right.",
+      "id": 2
+    },
+    {
+      "title": "Dangerous curves",
+      "imgs": "180px-Norwegian-road-sign-102.2.svg.png",
+      "desc": "First to the left.",
+      "id": 3
+    },
+    {
+      "title": "Steep hill",
+      "imgs": "180px-Norwegian-road-sign-104.1.svg.png",
+      "desc": "Upwards.",
+      "id": 4
+    },
+    {
+      "title": "Steep hill",
+      "imgs": "180px-Norwegian-road-sign-104.2.svg.png",
+      "desc": "Downwards.",
+      "id": 5
+    },
+    {
+      "title": "Road narrows",
+      "imgs": "180px-Norwegian-road-sign-106.1.svg.png",
+      "desc": "On both sides.",
+      "id": 6
+    },
+    {
+      "title": "Road narrows",
+      "imgs": "180px-Norwegian-road-sign-106.2.svg.png",
+      "desc": "On right side.",
+      "id": 7
+    },
+    {
+      "title": "Road narrows",
+      "imgs": "180px-Norwegian-road-sign-106.3.svg.png",
+      "desc": "On left side.",
+      "id": 8
+    },
+    {
+      "title": "Uneven road",
+      "imgs": "180px-Norwegian-road-sign-108.0.svg.png",
+      "desc": "",
+      "id": 9
+    },
+    {
+      "title": "Speed bump",
+      "imgs": "180px-Norwegian-road-sign-109.0.svg.png",
+      "desc": "",
+      "id": 10
+    },
+    {
+      "title": "Road works",
+      "imgs": "180px-Norwegian-road-sign-110.0.svg.png",
+      "desc": "",
+      "id": 11
+    },
+    {
+      "title": "Loose chippings",
+      "imgs": "180px-Norwegian-road-sign-112.0.svg.png",
+      "desc": "",
+      "id": 12
+    },
+    {
+      "title": "Landslides",
+      "imgs": "180px-Norwegian-road-sign-114.1.svg.png",
+      "desc": "Warns that rocks, soil or snow may slide onto the road, but also that chunks may be present from previous landslides.",
+      "id": 13
+    },
+    {
+      "title": "Landslides",
+      "imgs": "180px-Norwegian-road-sign-114.2.svg.png",
+      "desc": "",
+      "id": 14
+    },
+    {
+      "title": "Slippery road",
+      "imgs": "180px-Norwegian-road-sign-116.0.svg.png",
+      "desc": "Road is known to be especially slippery under special conditions, like rainfall.",
+      "id": 15
+    },
+    {
+      "title": "Dangerous shoulder",
+      "imgs": "180px-Norwegian-road-sign-117.0.svg.png",
+      "desc": "",
+      "id": 16
+    },
+    {
+      "title": "Opening or swing bridge",
+      "imgs": "180px-Norwegian-road-sign-118.0.svg.png",
+      "desc": "",
+      "id": 17
+    },
+    {
+      "title": "Quayside or river bank",
+      "imgs": "180px-Norwegian-road-sign-120.0.svg.png",
+      "desc": "",
+      "id": 18
+    },
+    {
+      "title": "Tunnel",
+      "imgs": "180px-Norwegian-road-sign-122.0.svg.png",
+      "desc": "",
+      "id": 19
+    },
+    {
+      "title": "Crossroads",
+      "imgs": "120px-Norwegian-road-sign-124.0.svg.png",
+      "desc": "Warns about dangerous crossroads which have normal rules for traffic priority.",
+      "id": 20
+    },
+    {
+      "title": "Roundabout",
+      "imgs": "180px-Norwegian-road-sign-126.0.svg.png",
+      "desc": "",
+      "id": 21
+    },
+    {
+      "title": "Traffic signals",
+      "imgs": "180px-Norwegian-road-sign-132.0.svg.png",
+      "desc": "",
+      "id": 22
+    },
+    {
+      "title": "Level crossing with a gate or barrier",
+      "imgs": "Norwegian-road-sign-134.0.svg.png",
+      "desc": "",
+      "id": 23
+    },
+    {
+      "title": "Level crossing without a gate or barrier",
+      "imgs": "180px-Norwegian-road-sign-135.0.svg.png",
+      "desc": "",
+      "id": 24
+    },
+    {
+      "title": "Countdown marker",
+      "imgs": "31px-Norwegian-road-sign-136.1.svg.png",
+      "desc": "These signs may be used to represent the distance to a level crossing in three equal parts. Closest to the crossing.",
+      "id": 25
+    },
+    {
+      "title": "Countdown marker",
+      "imgs": "31px-Norwegian-road-sign-136.2.svg.png",
+      "desc": "Between other countdown markers.",
+      "id": 26
+    },
+    {
+      "title": "Countdown marker",
+      "imgs": "31px-Norwegian-road-sign-136.3.svg.png",
+      "desc": "Furthest from the crossing.",
+      "id": 27
+    },
+    {
+      "title": "Level crossing",
+      "imgs": "180px-Norwegian-road-sign-138.1.svg.png",
+      "desc": "Single track: Placed at the crossing.",
+      "id": 28
+    },
+    {
+      "title": "Level crossing",
+      "imgs": "180px-Norwegian-road-sign-138.2.svg.png",
+      "desc": "Multiple tracks: Placed at the crossing.",
+      "id": 29
+    },
+    {
+      "title": "Tramway",
+      "imgs": "180px-Norwegian-road-sign-139.0.svg.png",
+      "desc": "",
+      "id": 30
+    },
+    {
+      "title": "Distance to pedestrian crossing",
+      "imgs": "180px-Norwegian-road-sign-140.0.svg.png",
+      "desc": "Distance represented with supplementary sign",
+      "id": 31
+    },
+    {
+      "title": "Children",
+      "imgs": "180px-Norwegian-road-sign-142.0.svg.png",
+      "desc": "Warns that children often traverse or walk on the roads due to a nearby school, child-care center, playground or similar.",
+      "id": 32
+    },
+    {
+      "title": "Cyclist",
+      "imgs": "180px-Norwegian-road-sign-144.0.svg.png",
+      "desc": "Warns that cyclists often traverse or travel on the roads.",
+      "id": 33
+    },
+    {
+      "title": "Moose",
+      "imgs": "180px-Norwegian-road-sign-146.1.svg.png",
+      "desc": "Warns that moose often traverse or travel on the roads.",
+      "id": 34
+    },
+    {
+      "title": "Reindeer",
+      "imgs": "180px-Norwegian-road-sign-146.2.svg.png",
+      "desc": "Warns that reindeer often traverse or travel on the roads.",
+      "id": 35
+    },
+    {
+      "title": "Deer",
+      "imgs": "Norwegian-road-sign-146.3.svg.png",
+      "desc": "Warns that deer often traverse or travel on the roads.",
+      "id": 36
+    },
+    {
+      "title": "Cattle",
+      "imgs": "Norwegian-road-sign-146.4.svg.png",
+      "desc": "Warns that cattle often traverse or travel on the roads.",
+      "id": 37
+    },
+    {
+      "title": "Sheep",
+      "imgs": "Norwegian-road-sign-146.5.svg.png",
+      "desc": "Warns that sheep often traverse or travel on the roads.",
+      "id": 38
+    },
+    {
+      "title": "Two-way traffic",
+      "imgs": "180px-Norwegian-road-sign-148.0.svg.png",
+      "desc": "Warning of two-way traffic on the road ahead",
+      "id": 39
+    },
+    {
+      "title": "Traffic queues likely",
+      "imgs": "180px-Norwegian-road-sign-149.0.svg.png",
+      "desc": "",
+      "id": 40
+    },
+    {
+      "title": "Low-flying aircraft",
+      "imgs": "180px-Norwegian-road-sign-150.0.svg.png",
+      "desc": "",
+      "id": 41
+    },
+    {
+      "title": "Military activity",
+      "imgs": "180px-Norwegian-road-sign-151.jpg",
+      "desc": "",
+      "id": 42
+    },
+    {
+      "title": "Crosswinds",
+      "imgs": "180px-Norwegian-road-sign-152.0.svg.png",
+      "desc": "",
+      "id": 43
+    },
+    {
+      "title": "Traffic accident",
+      "imgs": "180px-Norwegian-road-sign-153.png",
+      "desc": "",
+      "id": 44
+    },
+    {
+      "title": "Skiers",
+      "imgs": "180px-Norwegian-road-sign-154.0.svg.png",
+      "desc": "Warns that skiers often traverse or travel on the roads.",
+      "id": 45
+    },
+    {
+      "title": "Riders",
+      "imgs": "180px-Norwegian-road-sign-155.0.svg.png",
+      "desc": "Warns that riders often traverse or travel on the roads.",
+      "id": 46
+    },
+    {
+      "title": "Other danger",
+      "imgs": "180px-Norwegian-road-sign-156.0.svg.png",
+      "desc": "Details are written on a supplementary sign.",
+      "id": 47
+    },
+    {
+      "title": "(1) Polar bear,(2) Snowmobiles",
+      "imgs": "180px-Longyearbyen_traffic_signs.jpg",
+      "desc": "(1) Warns that polar bears may be present.(2) Warns that people on snowmobiles may traverse the roads.",
+      "id": 48
+    }
+  ]
+}

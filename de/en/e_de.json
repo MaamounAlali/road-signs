@@ -1,0 +1,29 @@
+{
+  "environmentalFactors": [
+    {
+      "title": "SteinschlagPossible Rockfall in Road (No braking, slowing, stopping or parking)\n",
+      "img": "120px-Zeichen_101-15_-_Steinschlag%2C_StVO_2017.svg.png",
+      "id": 102
+    },
+    {
+      "title": "Schnee- oder EisglätteSnow or Ice possible ahead (road freezes easily, no sudden braking or turning)\n",
+      "img": "120px-Zeichen_101-51_-_Schnee-_oder_Eisgl%C3%A4tte%2C_StVO_2017.svg.png",
+      "id": 103
+    },
+    {
+      "title": "Splitt, SchotterLoose chippings\n",
+      "img": "120px-Zeichen_101-52_-_Splitt%2C_Schotter%2C_StVO_2017.svg.png",
+      "id": 104
+    },
+    {
+      "title": "Unebene FahrbahnUneven surfaces ahead, bumpy road\n",
+      "img": "120px-Zeichen_112_%E2%80%93_Unebene_Fahrbahn%2C_StVO_1970.svg.png",
+      "id": 105
+    },
+    {
+      "title": "Schleuder- oder RutschgefahrSlippery road (water, ice, snow, oil or dirt)\n",
+      "img": "120px-Zeichen_114_-_Schleuder-_oder_Rutschgefahr%2C_StVO_2013.svg.png",
+      "id": 106
+    }
+  ]
+}

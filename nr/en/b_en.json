@@ -1,0 +1,46 @@
+{
+  "priority-signs": [
+    {
+      "title": "Yield (Give way)",
+      "imgs": "180px-Norwegian-road-sign-202.0.svg.png",
+      "desc": "",
+      "id": 49
+    },
+    {
+      "title": "Stop",
+      "imgs": "Norwegian-road-sign-204.0.svg.png",
+      "desc": "It is mandatory to stop completely at the stop line, or if not available, as close to the crossing road or railway track as possible, before continuing. Vehicles must also give way to other traffic, or trains.",
+      "id": 50
+    },
+    {
+      "title": "Priority road",
+      "imgs": "Norwegian-road-sign-206.0.svg.png",
+      "desc": "Priority at all following crossroads up to an end of priority road, give way or stop sign.",
+      "id": 51
+    },
+    {
+      "title": "End of priority road",
+      "imgs": "Norwegian-road-sign-208.0.svg.png",
+      "desc": "",
+      "id": 52
+    },
+    {
+      "title": "Priority crossroads",
+      "imgs": "180px-Norwegian-road-sign-210.0.svg.png",
+      "desc": "Warns about dangerous crossroads where the road this sign is placed on has priority. Crossing roads have give way or stop signs.",
+      "id": 53
+    },
+    {
+      "title": "Give way for oncoming traffic",
+      "imgs": "120px-Norwegian-road-sign-212.0.svg.png",
+      "desc": "",
+      "id": 54
+    },
+    {
+      "title": "Priority over oncoming traffic",
+      "imgs": "120px-Norwegian-road-sign-214.0.svg.png",
+      "desc": "",
+      "id": 55
+    }
+  ]
+}

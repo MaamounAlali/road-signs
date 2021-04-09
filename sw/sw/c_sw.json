@@ -1,0 +1,234 @@
+{
+  "prohibitory-signs": [
+    {
+      "title": "Förbud mot infart med fordon (C1)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "C1-1.png"
+    },
+    {
+      "title": "Förbud mot trafik med fordon (C2)",
+      "desc": "Märket avser trafik med fordon i båda riktningarna.",
+      "imgs": "C2-1.png"
+    },
+    {
+      "title": "Förbud mot trafik med annat motordrivet fordon än moped klass II (C3)",
+      "desc": "Avser förbudet även moped klass II anges detta på en tilläggstavla.",
+      "imgs": "C3-1.png"
+    },
+    {
+      "title": "Förbud mot trafik med motordrivet fordon med fler än två hjul (C4)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "C4-1.png"
+    },
+    {
+      "title": "Förbud mot trafik med motorcykel och moped klass I (C5)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "C5-1.png"
+    },
+    {
+      "title": "Förbud mot trafik med motordrivet fordon med tillkopplad släpvagn (C6)",
+      "desc": "Märket anger förbud mot trafik med motordrivet fordon med tillkopplad släpvagn av annat slag än påhängsvagn eller släpkärra. Avser förbudet även trafik med motordrivet fordon med tillkopplad påhängsvagn eller släpkärra anges det på en tilläggstavla. Avser förbudet endast fordonståg med släpvagn vars totalvikt överstiger visst tontal anges det på tilläggstavla T5, totalvikt.",
+      "imgs": "C6-1.png"
+    },
+    {
+      "title": "Förbud mot trafik med tung lastbil (C7)",
+      "desc": "Avser förbudet även trafik med lätt lastbil anges det på en tilläggstavla.",
+      "imgs": "C7-1.png"
+    },
+    {
+      "title": "Förbud mot trafik med traktor och motorredskap klass II (C8)",
+      "desc": "Avser förbudet även trafik med motorredskap klass I anges det på en tilläggstavla.",
+      "imgs": "C8-1.png"
+    },
+    {
+      "title": "Förbud mot trafik med fordon lastat med farligt gods (C9)",
+      "desc": "Märket anger förbud mot trafik med fordon med sådan last som omfattas av krav på märkning med orangefärgad skylt enligt föreskrifter som har meddelats med stöd av lagen (2006:263) om transport av farligt gods. Tillsammans med tilläggstavla T23, tunnelkategori, anger märket tunnelkategori.",
+      "imgs": "C9-1.png"
+    },
+    {
+      "title": "Förbud mot trafik med cykel och moped klass II (C10)",
+      "desc": "Avser förbudet även trafik med moped klass I anges det på en tilläggstavla.",
+      "imgs": "C10-1.png"
+    },
+    {
+      "title": "Förbud mot trafik med moped klass II (C11)",
+      "desc": "Avser förbudet även trafik med moped klass I anges det på en tilläggstavla.",
+      "imgs": "C11-1.png"
+    },
+    {
+      "title": "Förbud mot trafik med fordon förspänt med dragdjur (C12)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "C12-1.png"
+    },
+    {
+      "title": "Förbud mot trafik med terräng­motorfordon och terrängsläp (C13)",
+      "desc": "Gäller förbudet inte terrängvagn anges det på en tilläggstavla.",
+      "imgs": "C13-1.png"
+    },
+    {
+      "title": "Förbud mot ridning (C14)",
+      "desc": "Avser förbudet även ledande av riddjur anges det på en tilläggstavla.",
+      "imgs": "C14-1.png"
+    },
+    {
+      "title": "Förbud mot gångtrafik (C15)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "C15-1.png"
+    },
+    {
+      "title": "Begränsad fordonsbredd (C16)",
+      "desc": "Märket anger förbud mot trafik med fordon över en viss bredd. Största tillåtna bredd anges på märket.",
+      "imgs": "C16-1.png"
+    },
+    {
+      "title": "Begränsad fordonshöjd (C17)",
+      "desc": "Märket anger förbud mot trafik med fordon över en viss höjd om den fria höjden är lägre än 4,5 meter. Högsta tillåtna fordonshöjd anges på märket.",
+      "imgs": "C17-1.png"
+    },
+    {
+      "title": "Begränsad fordonslängd (C18)",
+      "desc": "Märket anger förbud mot trafik med fordon eller fordonståg över en viss längd. Längsta tillåtna längd anges på märket.",
+      "imgs": "C18-1.png"
+    },
+    {
+      "title": "Minsta avstånd (C19)",
+      "desc": "Märket anger förbud mot att hålla kortare avstånd till framförvarande motordrivna fordon i samma färdriktning än som anges på märket. Minsta tillåtna avstånd anges på märket.",
+      "imgs": "C19-1.png"
+    },
+    {
+      "title": "Begränsad bruttovikt på fordon (C20)",
+      "desc": "Högsta tillåtna bruttovikt anges på märket.",
+      "imgs": "C20-1.png"
+    },
+    {
+      "title": "Begränsad bruttovikt på fordon och fordonståg (C21)",
+      "desc": "Högsta tillåtna bruttovikt anges på märket.",
+      "imgs": "C21-1.png"
+    },
+    {
+      "title": "Bärighetsklass (C22)",
+      "desc": "Vägens bärighetsklass anges på märket.",
+      "imgs": "C22-1.png"
+    },
+    {
+      "title": "Begränsat axeltryck (C23)",
+      "desc": "Högsta tillåtna axeltryck anges på märket.",
+      "imgs": "C23-1.png"
+    },
+    {
+      "title": "Begränsat boggitryck (C24)",
+      "desc": "Högsta tillåtna boggitryck anges på märket.",
+      "imgs": "C24-1.png"
+    },
+    {
+      "title": "Förbud mot sväng i korsning (C25)",
+      "desc": "Förbudet gäller den korsning eller motsvarande som märket är placerat i eller före. Märket kan avse flera korsningar. Sträckans längd anges då på en tilläggstavla. Symbolen är anpassad efter förhållandena på platsen.",
+      "imgs": "C25-1.png"
+    },
+    {
+      "title": "Förbud mot U-sväng (C26)",
+      "desc": "Förbudet gäller den korsning eller motsvarande som märket är placerat i eller före. Märket kan avse flera korsningar. Sträckans längd anges då på en tilläggstavla. Symbolen är anpassad efter förhållandena på platsen.",
+      "imgs": "C26-1.png"
+    },
+    {
+      "title": "Förbud mot omkörning (C27)",
+      "desc": "Märket anger förbud mot att köra om andra motordrivna fordon än tvåhjuliga mopeder och tvåhjuliga motorcyklar utan sidvagn. Förbudet gäller på den väg märket är uppsatt och till den plats där märke C28, slut på förbud mot omkörning, är uppsatt.",
+      "imgs": "C27-1.png"
+    },
+    {
+      "title": "Slut på förbud mot omkörning (C28)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "C28-1.png"
+    },
+    {
+      "title": "Förbud mot omkörning med tung lastbil (C29)",
+      "desc": "Märket anger förbud mot att med en tung lastbil köra om andra motordrivna fordon än tvåhjuliga mopeder och tvåhjuliga motorcyklar utan sidvagn. Förbudet gäller på den väg märket är uppsatt till den plats där märke C30, slut på förbud mot omkörning med tung lastbil, är uppsatt.",
+      "imgs": "C29-1.png"
+    },
+    {
+      "title": "Slut på förbud mot omkörning med tung lastbil (C30)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "C30-1.png"
+    },
+    {
+      "title": "Hastighets­begränsning (C31)",
+      "desc": "Märket anger förbud mot att föra fordon med högre hastighet än den som anges på märket. Angivelsen gäller till den plats där en annan hastighetsbegränsning anges med märket, eller där märke C32, tillfällig hastighetsbegränsning upphör, E7, gågata, eller E9, gångfartsområde, satts upp. En angivelse om en hastighetsbegränsning i föreskrifter enligt förordningen (2002:713) om försöksverksamhet med varierande högsta hastighet gäller efter en tillfällig avvikelse vars slut märkts ut med märke C32, tillfällig hastighetsbegränsning upphör. Märket behöver inte vara upprepat efter en vägkorsning om samma högsta tillåtna hastighet gäller på den korsande vägen.",
+      "imgs": "C31-1.png"
+    },
+    {
+      "title": "Tillfällig hastighets­begränsning upphör (C32)",
+      "desc": "Märket anger att en tillfällig hastighet som märkts ut med märke C31, hastighetsbegränsning, upphör.",
+      "imgs": "C32-1.png"
+    },
+    {
+      "title": "Stopp vid tull (C33)",
+      "desc": "Märket anger skyldighet att stanna för tullklarering. Fordonet skall stannas vid en stopplinje eller, om sådan saknas, vid märket. Texten under det vågräta strecket anges på det språk som är lämpligt.",
+      "imgs": "C33-1.png"
+    },
+    {
+      "title": "Stopp för angivet ändamål (C34)",
+      "desc": "Märket anger skyldighet att stanna av den anledning som anges under det vågräta strecket. Om märket är uppsatt före en trafiksignal, anger det att fordon som skall passera signalen skall stanna vid rött ljus. Fordonet skall stannas vid en stopplinje eller, om sådan saknas, vid märket.",
+      "imgs": "C34-1.png"
+    },
+    {
+      "title": "Förbud mot att parkera fordon (C35)",
+      "desc": "Märket anger förbud mot att parkera fordon. Angivelsen gäller på den sida av vägen där märket är uppsatt. Angivelsen börjar gälla där märket satts upp och gäller enligt vad som anges på en tilläggstavla, till den plats där annan bestämmelse om stannande eller parkering märkts ut, till nästa korsning med annan väg än sådan som avses i 3 kap. 21 § andra stycket trafikförordningen (1998:1276) eller till den plats dessförinnan där ett motsvarande märke med tilläggstavla T11, utsträckning, med nedåtriktad pil, har satts upp. Om en annan bestämmelse gäller på en kortare sträcka gäller angivelsen på nytt efter sträckans slut utan att det upprepas. Angivelsen gäller också på nytt utan att märket satts upp igen i det fall en parkeringsplats anordnats vid sidan av körbanan. Märket anger inte rätt att stanna där det är förbjudet att stanna eller parkera enligt trafikförordningen, om inte detta tydligt framgår av märkets placering eller anges på en tilläggstavla. Om angivelsen endast gäller för ett visst fordonsslag eller en viss trafikantgrupp anges det på en tilläggstavla.",
+      "imgs": "C35-1.png"
+    },
+    {
+      "title": "Förbud mot att parkera fordon på dag med udda datum (C36)",
+      "desc": "De närmare föreskrifterna till märke C35, förbud mot att parkera fordon, gäller även till detta märke.",
+      "imgs": "C36-1.png"
+    },
+    {
+      "title": "Förbud mot att parkera fordon på dag med jämnt datum (C37)",
+      "desc": "De närmare föreskrifterna till märke C35, förbud mot att parkera fordon, gäller även till detta märke.",
+      "imgs": "C37-1.png"
+    },
+    {
+      "title": "Datumparkering (C38)",
+      "desc": "Märket anger förbud mot att parkera fordon på dagar med jämnt datum på den sida av vägen som har jämna adressnummer och på dagar med udda datum på den sida av vägen som har udda adressnummer. De närmare föreskrifterna till märke C35, förbud mot att parkera fordon, gäller även till detta märke.",
+      "imgs": "C38-1.png"
+    },
+    {
+      "title": "Förbud mot att stanna och parkera fordon (C39)",
+      "desc": "Märket anger förbud mot att stanna och parkera fordon. De närmare föreskrifterna till märke C35, förbud mot att parkera fordon, andra till fjärde styckena gäller även till detta märke.",
+      "imgs": "C39-1.png"
+    },
+    {
+      "title": "Ändamålsplats (C40)",
+      "desc": "Har ändamålet angetts med lastplats är ändamålet lastning eller lossning av tungt eller skrymmande gods. Transportstyrelsen får meddela föreskrifter om vilka andra ändamål som får anges och hur de anges.",
+      "imgs": "C40-1.png"
+    },
+    {
+      "title": "Slut på ändamålsplats (C41)",
+      "desc": "Märket behöver inte vara uppsatt om det ändå tydligt framgår att ändamålsplatsen upphör. Märket är anpassat till märke C40, ändamålsplats.",
+      "imgs": "C41-1.png"
+    },
+    {
+      "title": "Vändplats (C42)",
+      "desc": "Märket anger en plats som är avsedd för vändning av fordon och att det är förbjudet att parkera fordon. Om i stället märke C39, förbud mot att stanna och parkera fordon, är infogat i märket anger det att det är förbjudet att stanna eller parkera fordon.",
+      "imgs": "C42-1.png"
+    },
+    {
+      "title": "Slut på vändplats (C43)",
+      "desc": "Märket behöver inte vara uppsatt om det ändå tydligt framgår att vändplatsen upphör. Märket är anpassat till märke C42, vändplats.",
+      "imgs": "C43-1.png"
+    },
+    {
+      "title": "Förbud mot trafik med annat motordrivet fordon med dubbdäck än moped klass II (C44)",
+      "desc": "Avser förbudet även moped klass II anges det på en tilläggstavla.",
+      "imgs": "C44-1.png"
+    },
+    {
+      "title": "Särskilda bestämmelser för stannande och parkering (C45)",
+      "desc": "Märket anger det förbud som anges med det infogade märket. Märket kan också ange avvikelse från den reglering som anges med det märke som den är uppsatt under. Andra förbud kan anges med märket. Transportstyrelsen får meddela föreskrifter om vilka andra förbudsmärken som får infogas. Märket är uppsatt under något av märkena C35, förbud mot att parkera fordon, C36, förbud mot att parkera fordon på dag med udda datum, C37, förbud mot att parkera fordon på dag med jämnt datum, C38, datumparkering, C39, förbud mot att stanna och parkera fordon, C40, ändamålsplats, C42, vändplats, D10, påbjudet körfält eller körbana för fordon i linjetrafik m.fl., E19, parkering eller E20, områdesmärke. Märke E20, områdesmärke, får vara infogat. Är märket infogat gäller de närmare föreskrifterna till märke E20, områdesmärke. För tid gäller de närmare föreskrifterna för tilläggstavla T6, tidsangivelse. Andra begränsningar kan endast vara angivna på märket.",
+      "imgs": "C45-1.png"
+    },
+    {
+      "title": "Begränsat trippelaxeltryck (C46)",
+      "desc": "Högsta tillåtna trippelaxeltryck anges på märket.",
+      "imgs": "C46-1.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "information-signs": [
+    {
+      "title": "Information sign (J2)",
+      "desc": "",
+      "imgs": "J2-1.png"
+    },
+    {
+      "title": "Danger, high voltage (J3)",
+      "desc": "",
+      "imgs": "J3-1.png"
+    }
+  ]
+}

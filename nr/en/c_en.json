@@ -1,0 +1,238 @@
+{
+  "prohibitory-signs": [
+    {
+      "title": "No entry",
+      "imgs": "180px-Norwegian-road-sign-302.0.svg.png",
+      "desc": "",
+      "id": 56
+    },
+    {
+      "title": "Road closed to all traffic",
+      "imgs": "180px-Norwegian-road-sign-306.0.svg.png",
+      "desc": "",
+      "id": 57
+    },
+    {
+      "title": "No motor vehicles",
+      "imgs": "180px-Norwegian-road-sign-306.1.svg.png",
+      "desc": "",
+      "id": 58
+    },
+    {
+      "title": "No tractors or motor vehicles slower than 40 km/h",
+      "imgs": "180px-Norwegian-road-sign-306.3.svg.png",
+      "desc": "",
+      "id": 59
+    },
+    {
+      "title": "No motor cycles or mopeds",
+      "imgs": "Norwegian-road-sign-306.4.svg.png",
+      "desc": "",
+      "id": 60
+    },
+    {
+      "title": "No lorries",
+      "imgs": "Norwegian-road-sign-306.5.svg.png",
+      "desc": "",
+      "id": 61
+    },
+    {
+      "title": "No cyclists",
+      "imgs": "Norwegian-road-sign-306.6.svg.png",
+      "desc": "",
+      "id": 62
+    },
+    {
+      "title": "No pedestrians",
+      "imgs": "Norwegian-road-sign-306.7.svg.png",
+      "desc": "",
+      "id": 63
+    },
+    {
+      "title": "No pedestrians or cyclists",
+      "imgs": "Norwegian-road-sign-306.8.svg.png",
+      "desc": "",
+      "id": 64
+    },
+    {
+      "title": "No riders",
+      "imgs": "Norwegian-road-sign-306.9.svg.png",
+      "desc": "",
+      "id": 65
+    },
+    {
+      "title": "No transport of dangerous goods",
+      "imgs": "Norwegian-road-sign-308.0.svg.png",
+      "desc": "",
+      "id": 66
+    },
+    {
+      "title": "Total weight limit",
+      "imgs": "Norwegian-road-sign-310.0.svg.png",
+      "desc": "Restriction is for motor vehicles with more than two wheels and an allowed total weight limit above the given weight limit.",
+      "id": 67
+    },
+    {
+      "title": "Width limit",
+      "imgs": "Norwegian-road-sign-312.0.svg.png",
+      "desc": "Restriction is for a vehicle including all of its goods.",
+      "id": 68
+    },
+    {
+      "title": "Height limit",
+      "imgs": "Norwegian-road-sign-314.0.svg.png",
+      "desc": "Restriction is for a vehicle including all of its goods.",
+      "id": 69
+    },
+    {
+      "title": "Length limit",
+      "imgs": "Norwegian-road-sign-316.0.svg.png",
+      "desc": "Restriction is for a vehicle including all of its goods.",
+      "id": 70
+    },
+    {
+      "title": "Weight limit for vehicles",
+      "imgs": "Norwegian-road-sign-318.1.svg.png",
+      "desc": "Restriction is for each vehicle in the case of a lorry.",
+      "id": 71
+    },
+    {
+      "title": "Weight limit for lorries",
+      "imgs": "Norwegian-road-sign-318.2.svg.png",
+      "desc": "Restriction is for the combined weight in the case of a lorry, though no single vehicle is permitted above the limit either.",
+      "id": 72
+    },
+    {
+      "title": "Axle weight limit",
+      "imgs": "Norwegian-road-sign-320.0.svg.png",
+      "desc": "No vehicle with weight above the given limit for each axle, and maximum 150% of the limit for each bogie.",
+      "id": 73
+    },
+    {
+      "title": "Bogie weight limit",
+      "imgs": "Norwegian-road-sign-322.0.svg.png",
+      "desc": "",
+      "id": 74
+    },
+    {
+      "title": "Stop for control",
+      "imgs": "Norwegian-road-sign-324.1.svg.png",
+      "desc": "Vehicle is not permitted to continue until the action described is done.",
+      "id": 75
+    },
+    {
+      "title": "Stop for tax",
+      "imgs": "Norwegian-road-sign-324.2.svg.png",
+      "desc": "Vehicle is not permitted to continue until the action described is done.",
+      "id": 76
+    },
+    {
+      "title": "Stop for customs",
+      "imgs": "Norwegian-road-sign-326.0.svg.png",
+      "desc": "Vehicle is not permitted to continue until the action described is done.",
+      "id": 77
+    },
+    {
+      "title": "No right turn",
+      "imgs": "Norwegian-road-sign-330.1.svg.png",
+      "desc": "For the next intersection unless otherwise stated with a supplementary sign.",
+      "id": 78
+    },
+    {
+      "title": "No left turn",
+      "imgs": "Norwegian-road-sign-330.2.svg.png",
+      "desc": "For the next intersection unless otherwise stated with a supplementary sign.",
+      "id": 79
+    },
+    {
+      "title": "No U-turn",
+      "imgs": "Norwegian-road-sign-332.0.svg.png",
+      "desc": "Until and including the next crossroads.",
+      "id": 80
+    },
+    {
+      "title": "No overtaking",
+      "imgs": "Norwegian-road-sign-334.0.svg.png",
+      "desc": "Restriction is for overtaking motor vehicles with more than two wheels. Overtaking on the right side is permitted by normal traffic rules.",
+      "id": 81
+    },
+    {
+      "title": "No overtaking for lorries",
+      "imgs": "Norwegian-road-sign-335.0.svg.png",
+      "desc": "Restriction is for lorries with a total weight above 3.500 kg overtaking motor vehicles with more than two wheels. Overtaking on the right side is permitted by normal traffic rules.",
+      "id": 82
+    },
+    {
+      "title": "End of no overtaking",
+      "imgs": "Norwegian-road-sign-336.0.svg.png",
+      "desc": "",
+      "id": 83
+    },
+    {
+      "title": "End of no overtaking for lorries",
+      "imgs": "Norwegian-road-sign-337.0.svg.png",
+      "desc": "",
+      "id": 84
+    },
+    {
+      "title": "Speed limit",
+      "imgs": "Norwegian-road-sign-362.6.svg.png",
+      "desc": "Speed limit of given km/h until new speed limit, end of special speed limit, speed limit zone or any pedestrian precinct sign",
+      "id": 85
+    },
+    {
+      "title": "End of special speed limit",
+      "imgs": "Norwegian-road-sign-364.6.svg.png",
+      "desc": "This means a general speed limit of 50 km/h in populated areas and 80 km/h in rural areas by law.",
+      "id": 86
+    },
+    {
+      "title": "Speed limit zone",
+      "imgs": "86px-Norwegian-road-sign-366.0.svg.png",
+      "desc": "Speed limit of given km/h until end of speed limit, end of speed limit zone or any pedestrian precinct sign",
+      "id": 87
+    },
+    {
+      "title": "End of speed limit zone",
+      "imgs": "86px-Norwegian-road-sign-368.0.svg.png",
+      "desc": "",
+      "id": 88
+    },
+    {
+      "title": "No stopping",
+      "imgs": "180px-Norwegian-road-sign-370.0.svg.png",
+      "desc": "No stops until the next crossing road or until another sign ends it.",
+      "id": 89
+    },
+    {
+      "title": "No parking",
+      "imgs": "180px-Norwegian-road-sign-372.0.svg.png",
+      "desc": "No parking on the side of the road where the sign is until the next crossing road or until another sign ends it.",
+      "id": 90
+    },
+    {
+      "title": "Parking zone",
+      "imgs": "89px-Norwegian-road-sign-376_1.png",
+      "desc": "Parking permitted until end of parking zone sign. Often with supplementary text about when the sign is valid.",
+      "id": 91
+    },
+    {
+      "title": "No parking zone",
+      "imgs": "90px-Norwegian-road-sign-376.2.svg.png",
+      "desc": "No parking permitted until end of parking zone sign. Often with supplementary text about when the sign is valid.",
+      "id": 92
+    },
+    {
+      "title": "End of parking zone",
+      "imgs": "90px-Norwegian-road-sign-378.1.svg.png",
+      "desc": "",
+      "id": 93
+    },
+    {
+      "title": "End of no parking zone",
+      "imgs": "90px-Norwegian-road-sign-378.2.svg.png",
+      "desc": "",
+      "id": 94
+    }
+  ]
+}

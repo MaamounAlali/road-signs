@@ -1,0 +1,39 @@
+{
+  "obsoleteSignsSince2013": [
+    {
+      "title": "Level crossing with barrier or gate ahead\n",
+      "img": "120px-Zeichen_150_-_Beschrankter_Bahn%C3%BCbergang%2C_StVO_1992.svg.png",
+      "id": 0
+    },
+    {
+      "title": "Level crossing with barrier or gate ahead\n",
+      "img": "58px-Zeichen_153_-_dreistreifige_Bake_%28links%29_vor_beschranktem_Bahn%C3%BCbergang%2C_StVO_1970.svg.png",
+      "id": 1
+    },
+    {
+      "title": "One-way traffic\n",
+      "img": "120px-Zeichen_353_-_Einbahnstra%C3%9Fe_%28600x600%29%2C_StVO_1992.svg.png",
+      "id": 2
+    },
+    {
+      "title": "Recommended speed\n",
+      "img": "120px-Zeichen_380-52_-_Richtgeschwindigkeit_80_km-h%2C_StVO_1992.svg.png",
+      "id": 3
+    },
+    {
+      "title": "End of recommended speed\n",
+      "img": "120px-Zeichen_381-52_-_Ende_der_Richtgeschwindigkeit_80_km-h%2C_StVO_1992.svg.png",
+      "id": 4
+    },
+    {
+      "title": "Soft verges\n",
+      "img": "120px-Zeichen_388_-_Seitenstreifen_f%C3%BCr_mehrspurige_Kraftfahrzeuge_nicht_befahrbar%2C_StVO_1992.svg.png",
+      "id": 5
+    },
+    {
+      "title": "Soft verges\n",
+      "img": "120px-Zeichen_389_-_Seitenstreifen_f%C3%BCr_Fahrzeuge_nicht_befahrbar%2C_StVO_1992.svg.png",
+      "id": 6
+    }
+  ]
+}

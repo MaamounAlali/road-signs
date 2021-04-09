@@ -1,0 +1,19 @@
+{
+  "traffic-officer": [
+    {
+      "title": "Stopp (V1)",
+      "desc": "Tecknet anger stopp för den trafikant vakten är vänd mot. Under mörker ges tecknet med lykta med rött ljus. Tecknet får också ges med märke C34, stopp för angivet ändamål, med texten Vakt.",
+      "imgs": "V1-1.png"
+    },
+    {
+      "title": "Kör fram (V2)",
+      "desc": "Tecknet anger att trafikanten får fortsätta framåt. Tecknet ges med en vinkande rörelse i färdriktningen.",
+      "imgs": "V2-1.png"
+    },
+    {
+      "title": "Kännetecken (V3)",
+      "desc": "Kännetecken skall bäras både framtill och baktill.",
+      "imgs": "V3-1.png"
+    }
+  ]
+}

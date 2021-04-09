@@ -1,0 +1,174 @@
+{
+  "road-markings": [
+    {
+      "title": "Mittlinje eller körfältslinje (M1)",
+      "desc": "Mittlinje anger gränsen mellan körfält avsedda för färd i motsatta färdriktningar. Körfältslinje anger gränsen mellan körfält för färd i samma riktning. Markeringen har längdförhållandet 1:3 eller 1:1 mellan dellinje och mellanrum. Mittlinje kan även ange en cykelbanas mitt och har då längdförhållandet 1:1 mellan dellinje och mellanrum.",
+      "imgs": "M1-1.png"
+    },
+    {
+      "title": "Kantlinje (M2)",
+      "desc": "Markeringen anger en körbanas yttre gräns. Markeringen har längdförhållandet 1:2 mellan dellinje och mellanrum.",
+      "imgs": "M2-1.png"
+    },
+    {
+      "title": "Varningslinje (M3)",
+      "desc": "Varningslinje används för att informera om att linjen är olämplig att överskrida på grund av trafikförhållandena. Markeringen anger gränsen mellan körfält avsedda för färd i motsatta färdriktningar. Markeringen kan även användas för att upplysa om en kommande heldragen linje. Markeringen har längdförhållandet 3:1 mellan dellinje och mellanrum.",
+      "imgs": "M3-1.png"
+    },
+    {
+      "title": "Ledlinje (M4)",
+      "desc": "Markeringen anger lämplig färdväg för trafik i komplicerade korsningar. Markeringen används även i andra fall där det finns behov av ledning. Markeringen har längdförhållandet 1:1 mellan dellinje och mellanrum.",
+      "imgs": "M4-1.png"
+    },
+    {
+      "title": "Cykelfältslinje (M5)",
+      "desc": "Markeringen anger gränsen mellan ett cykelfält och ett annat körfält. Markeringen har längdförhållandet 1:1 mellan dellinje och mellanrum.",
+      "imgs": "M5-1.png"
+    },
+    {
+      "title": "Linje för fordon i linjetrafik med flera (M6)",
+      "desc": "Markeringen anger gränsen mellan körfält för fordon i linjetrafik m.fl. och ett annat körfält. Markeringen har längdförhållandet 1:1 mellan dellinje och mellanrum.",
+      "imgs": "M6-1.png"
+    },
+    {
+      "title": "Reversibelt körfält (M7)",
+      "desc": "Markeringen avgränsar körfält som upplåts för trafik omväxlande i den ena och i den andra färdriktningen. Markeringen har längdförhållandet 1:1 mellan dellinje och mellanrum.",
+      "imgs": "M7-1.png"
+    },
+    {
+      "title": "Heldragen linje (M8)",
+      "desc": "Markeringen anger att bestämmelserna i 3 kap. 11 § eller 12 § tredje stycket trafikförordningen (1998:1276) eller föreskrifter meddelade med stöd av den förordningen är tillämpliga. Heldragen linje kan vara heldragen mittlinje, heldragen körfältslinje eller heldragen kantlinje. Heldragen körfältslinje och heldragen kantlinje är enkel. Heldragen mittlinje kan vara såväl enkel som dubbel.",
+      "imgs": "M8-1.png"
+    },
+    {
+      "title": "Spärrområde (M9)",
+      "desc": "Markeringen anger ett område där fordon inte får föras enligt 3 kap. 11 § trafikförordningen. Markeringen består av vinklade eller snedställda streck beroende på förhållandena på platsen. Del av eller hela området kan utföras i vitt.",
+      "imgs": "M9-1.png"
+    },
+    {
+      "title": "Mittlinje eller körfältslinje och heldragen linje (M10)",
+      "desc": "Markeringen används där det inte är tillåtet för fordon som befinner sig på samma sida som den heldragna linjen att byta körfält.",
+      "imgs": "M10-1.png"
+    },
+    {
+      "title": "Varningslinje och heldragen linje (M11)",
+      "desc": "Markeringen används där det inte är tillåtet för fordon som befinner sig på samma sida som den heldragna linjen att byta körfält.",
+      "imgs": "M11-1.png"
+    },
+    {
+      "title": "Mittlinje och varningslinje (M12)",
+      "desc": "Markeringen används där det är olämpligt att överskrida varningslinjen på grund av trafikförhållandena.",
+      "imgs": "M12-1.png"
+    },
+    {
+      "title": "Stopplinje (M13)",
+      "desc": "Markeringen anger var ett fordon ska stannas enligt ett vägmärke, en trafiksignal eller Y1, ljussignal.",
+      "imgs": "M13-1.png"
+    },
+    {
+      "title": "Väjningslinje (M14)",
+      "desc": "Markeringen anger den linje som fordon inte bör passera när föraren iakttar väjningsplikt.",
+      "imgs": "M14-1.png"
+    },
+    {
+      "title": "Övergångsställe (M15)",
+      "desc": "Markeringen anger ett övergångsställe och är utförd där märke B3, övergångsställe, är uppsatt.",
+      "imgs": "M15-1.png"
+    },
+    {
+      "title": "Cykelpassage eller cykelöverfart (M16)",
+      "desc": "Markeringen anger en cykelpassage eller en cykelöverfart där märke B8, cykelöverfart, är uppsatt. Om markeringen avser en cykelöverfart ska den kombineras med markeringen M14, väjningslinje.",
+      "imgs": "M16-1.png"
+    },
+    {
+      "title": "Farthinder (M17)",
+      "desc": "Markeringen anger ett farthinder i form av gupp, grop eller liknande.",
+      "imgs": "M17-1.png"
+    },
+    {
+      "title": "Förberedande upplysning om väjningsplikt eller stopplikt (M18)",
+      "desc": "Markeringen anger att väjningsplikt eller stopplikt gäller längre fram i färdriktningen.",
+      "imgs": "M18-1.png"
+    },
+    {
+      "title": "Körfältspilar (M19)",
+      "desc": "Markeringen anger, för närmaste korsning, lämplig färdväg i markerat körfält. Är körfältet avgränsat med heldragen körfältslinje skall förare följa den eller de riktningar som pilen visar. Detta gäller dock inte förare som i anslutning till korsningen färdas in i eller från ett reserverat körfält. Markeringen anger också att fordon inte får föras i motsatt riktning. Körfältspil med två pilangivelser i samma riktning upplyser om färdväg i närmaste och därpå följande korsning.",
+      "imgs": "M19-1.png"
+    },
+    {
+      "title": "Körfältsbyte (M20)",
+      "desc": "Markeringen anger att körfältsbyte snarast måste ske.",
+      "imgs": "M20-1.png"
+    },
+    {
+      "title": "Förbud mot att stanna och parkera (M21)",
+      "desc": "Markeringen anger förbud mot att stanna och parkera fordon och är placerad i körbanans kant. Avvikelse från färg får inte ske.",
+      "imgs": "M21-1.png"
+    },
+    {
+      "title": "Förbud mot att parkera (M22)",
+      "desc": "Markeringen anger förbud mot att parkera fordon och är placerad i körbanans kant. Markeringen anger även utsträckning av busshållplats. Markeringen har längdförhållandet 1:1 mellan dellinje och mellanrum. Avvikelse från färg får inte ske.",
+      "imgs": "M22-1.png"
+    },
+    {
+      "title": "Förbud mot att stanna och parkera eller att parkera (M23)",
+      "desc": "Markeringen används som förstärkning av markeringarna M21, förbud mot att stanna och parkera, och M22, förbud mot att parkera. Avvikelse från färg får inte ske.",
+      "imgs": "M23-1.png"
+    },
+    {
+      "title": "Uppställnings­plats (M24)",
+      "desc": "Markeringen anger gränsen för uppställningsplats för fordon. Markeringen kan vara utförd med bruten linje.",
+      "imgs": "M24-1.png"
+    },
+    {
+      "title": "Gång- och cykelpil (M25)",
+      "desc": "Markeringen visar lämplig färdväg för gående eller cyklande och förare av moped klass II.",
+      "imgs": "M25-1.png"
+    },
+    {
+      "title": "Cykel (M26)",
+      "desc": "Markeringen visar bana eller lämplig färdväg för cyklande och förare av moped klass II.",
+      "imgs": "M26-1.png"
+    },
+    {
+      "title": "Gående (M27)",
+      "desc": "Markeringen visar bana eller lämplig färdväg för gående.",
+      "imgs": "M27-1.png"
+    },
+    {
+      "title": "Buss (M28)",
+      "desc": "Markeringen visar att körfältet är avsett för fordon i linjetrafik m.fl.",
+      "imgs": "M28-1.png"
+    },
+    {
+      "title": "Hastighet (M29)",
+      "desc": "Markeringen upplyser om högsta tillåtna hastighet.",
+      "imgs": "M29-1.png"
+    },
+    {
+      "title": "Vägnummer (M30)",
+      "desc": "Markeringen upplyser om vägnummer.",
+      "imgs": "M30-1.png"
+    },
+    {
+      "title": "Ändamålsplats (M31)",
+      "desc": "Markeringen upplyser om en uppställningsplats som är avsedd för ett visst ändamål. Texten anpassas efter ändamålet.",
+      "imgs": "M31-1.png"
+    },
+    {
+      "title": "Stopp (M32)",
+      "desc": "Markeringen upplyser om stopplikt. Markeringen används tillsammans med märke B2, stopplikt, för att förstärka anvisningen.",
+      "imgs": "M32-1.png"
+    },
+    {
+      "title": "Rörelsehindrad (M33)",
+      "desc": "Markeringen upplyser om uppställningsplats endast för rörelsehindrade.",
+      "imgs": "M33-1.png"
+    },
+    {
+      "title": "Information (M34)",
+      "desc": "Markeringen ger upplysning, varning eller vägledning av vikt för trafikanten.",
+      "imgs": "M34-1.png"
+    }
+  ]
+}

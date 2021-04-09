@@ -1,0 +1,64 @@
+{
+  "urbanOrBuiltUpAreas": [
+    {
+      "title": "Start Urban Area (50 km/h speed limit)\n",
+      "img": "120px-Zeichen_310-50_-_Ortstafel_%28Vorderseite%29_mit_Kreis%2C_StVO_1992.svg.png",
+      "id": 258
+    },
+    {
+      "title": "Town sign: End of Urban Area (here with distance to next town)\n",
+      "img": "120px-Zeichen_311-50_-_Ortstafel_einseitig%2C_StVO_1992.svg.png",
+      "id": 259
+    },
+    {
+      "title": "Traffic Calming Zone\n",
+      "img": "120px-Zeichen_325.1_-_Beginn_eines_verkehrsberuhigten_Bereichs%2C_StVO_2009.svg.png",
+      "id": 260
+    },
+    {
+      "title": "End of Traffic Calming Zone\n",
+      "img": "120px-Zeichen_325.2_-_Ende_eines_verkehrsberuhigten_Bereichs%2C_StVO_2009.svg.png",
+      "id": 261
+    },
+    {
+      "title": "Pedestrian crossing patrol\n",
+      "img": "80px-Zeichen_356_-_Verkehrshelfer%2C_StVO_1992.svg.png",
+      "id": 262
+    },
+    {
+      "title": "Sidewalk parking for vehicles with a gross vehicle weight up to 2.8 metric tons\n",
+      "img": "80px-Zeichen_315-55_-_Parken_halb_auf_Gehwegen_in_Fahrtrichtung_rechts%2C_StVO_1992.svg.png",
+      "id": 263
+    },
+    {
+      "title": "Parking disc\n",
+      "img": "88px-Zeichen_318_-_Parkscheibe%2C_StVO_2013.svg.png",
+      "id": 264
+    },
+    {
+      "title": "FußgängerüberwegPedestrian crossing\n",
+      "img": "120px-Zeichen_350-10_-_Fu%C3%9Fg%C3%A4nger%C3%BCberweg_%28rechts%29%2C_StVO_1992.svg.png",
+      "id": 265
+    },
+    {
+      "title": "FußgängerüberwegPedestrian crossing\n",
+      "img": "120px-Zeichen_350-20_-_Fu%C3%9Fg%C3%A4nger%C3%BCberweg_%28Linksaufstellung%29_einseitig%2C_StVO_1992.svg.png",
+      "id": 266
+    },
+    {
+      "title": "Sackgasse  No through road\n",
+      "img": "120px-Zeichen_357_-_Sackgasse%2C_StVO_1992.svg.png",
+      "id": 267
+    },
+    {
+      "title": "Erste Hilfe oder KrankenhausFirst aid or hospital\n",
+      "img": "120px-Zeichen_358_-_Erste_Hilfe%2C_StVO_1992.svg.png",
+      "id": 268
+    },
+    {
+      "title": "Street light warning marker (lamp will not remain lit all night)\n",
+      "img": "120px-Zeichen_394_-_Schild_f%C3%BCr_Laternen%2C_StVO_1970.svg.png",
+      "id": 269
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "additional-panels": [
+    {
+      "title": "Vägsträckas längd (T1)",
+      "desc": "Tavlan anger början och slutet på en vägsträcka.",
+      "imgs": "T1-1.png"
+    },
+    {
+      "title": "Avstånd (T2)",
+      "desc": "Tavlan anger avståndet till det som vägmärket avser.",
+      "imgs": "T2-1.png"
+    },
+    {
+      "title": "Avstånd till stopplikt (T3)",
+      "desc": "Tavlan används endast under märke B1, väjningsplikt.",
+      "imgs": "T3-1.png"
+    },
+    {
+      "title": "Fri bredd (T4)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "T4-1.png"
+    },
+    {
+      "title": "Totalvikt (T5)",
+      "desc": "Tavlan anger att angivelsen på märket gäller fordon med en totalvikt som överstiger det angivna värdet.",
+      "imgs": "T5-1.png"
+    },
+    {
+      "title": "Tidsangivelse (T6)",
+      "desc": "Tavlan anger när angivelsen på vägmärket gäller. Används klockslag i kombination med andra villkor anger tavlan även när dessa villkor gäller. Svarta eller vita siffror utan parentes avser vardagar utom vardag före sön- och helgdag. Svarta eller vita siffror inom parentes avser vardag före sön- och helgdag. Röda siffror avser sön- och helgdag. Om angivelsen sträcker sig över midnatt gäller tidsperioden efter midnatt påföljande dag. Anges viss dag eller viss veckodag gäller regleringen denna dag oavsett om dagen är en vardag, söndag eller helgdag.",
+      "imgs": "T6-1.png"
+    },
+    {
+      "title": "Rörelsehindrade (T7)",
+      "desc": "Tavlan anger att angivelsen på märket gäller den som får parkera enligt ett parkeringstillstånd som avses i 13 kap. 8 eller 9 § trafikförordningen. Tavlan används endast under märke E19, parkering. Anges tid med tavla T6, tidsangivelse, gäller den kompletterande anvisningen enligt de närmare föreskrifterna till tavlan T6, tidsangivelse.",
+      "imgs": "T7-1.png"
+    },
+    {
+      "title": "Symboltavla (T8)",
+      "desc": "Tavlan anger att det märke som tavlan är uppsatt under endast gäller för det fordonsslag eller den trafikantgrupp som anges på tavlan. Fordonsslaget eller trafikantgruppen anges med symbol enligt 28 §. Anges tid enligt tavla T6, tidsangivelse, gäller den kompletterande anvisningen enligt de närmare föreskrifterna till tavlan T6, tidsangivelse.",
+      "imgs": "T8-1.png"
+    },
+    {
+      "title": "Nedsatt syn (T9)",
+      "desc": "Tavlan anger att personer med nedsatt syn är vanligt förekommande.",
+      "imgs": "T9-1.png"
+    },
+    {
+      "title": "Nedsatt hörsel (T10)",
+      "desc": "Tavlan anger att personer med nedsatt hörsel är vanligt förekommande.",
+      "imgs": "T10-1.png"
+    },
+    {
+      "title": "Utsträckning (T11)",
+      "desc": "Tavlan med dubbelriktade pilar, uppsatt vågrätt eller lodrätt, anger att angivelsen gäller på båda sidor av märket. Tavlan med nedåtriktad pil anger att angivelsen slutar. Tavlan med höger- eller vänsterriktad pil visar att angivelsen gäller åt det håll pilen visar. Används tavlan under märke E19, parkering, har den svarta tecken på vit botten utan bård. Tavlorna kan även användas fristående för att ange avgränsning av uppställningsplatser på ett område, om det vid infarten till området anges att parkering är tillåten.",
+      "imgs": "T11-1.png"
+    },
+    {
+      "title": "Riktning (T12)",
+      "desc": "Tavlan anger riktning till angivelsen på märket.",
+      "imgs": "T12-1.png"
+    },
+    {
+      "title": "Flervägsväjning (T13)",
+      "desc": "Tavlan anger att förare på samtliga tillfarter i en korsning har väjningsplikt.",
+      "imgs": "T13-1.png"
+    },
+    {
+      "title": "Flervägsstopp (T14)",
+      "desc": "Tavlan anger att förare på samtliga tillfarter i en korsning har stopplikt.",
+      "imgs": "T14-1.png"
+    },
+    {
+      "title": "Vägars fortsättning i korsning (T15)",
+      "desc": "Tavlan anger en korsning där förare på en väg som anges med smalt streck har väjningsplikt mot fordon på en väg som anges med brett streck. Symbolen är anpassad efter förhållandena på platsen.",
+      "imgs": "T15-1.png"
+    },
+    {
+      "title": "Avgift (T16)",
+      "desc": "Tavlan anger att avgift ska betalas för parkering enligt den taxa som anges på en parkeringsmätare, biljettautomat eller motsvarande och att övriga villkor för parkering som anges där ska iakttas. Anges tid enligt tavla T6, tidsangivelse, gäller den kompletterande anvisningen enligt de närmare föreskrifterna till tavlan T6, tidsangivelse.",
+      "imgs": "T16-1.png"
+    },
+    {
+      "title": "Parkeringsskiva (T17)",
+      "desc": "Tavlan anger att tiden när parkering påbörjats ska anges med en parkeringsskiva eller motsvarande. Anges tid enligt tavla T6, tidsangivelse, gäller den kompletterande anvisningen enligt de närmare föreskrifterna till tavlan T6, tidsangivelse.",
+      "imgs": "T17-1.png"
+    },
+    {
+      "title": "Tillåten tid för parkering (T18)",
+      "desc": "Tavlan anger längsta tillåten tid för parkering. Anges tid enligt tavla T6, tidsangivelse, gäller den kompletterande anvisningen enligt de närmare föreskrifterna till tavlan T6, tidsangivelse.",
+      "imgs": "T18-1.png"
+    },
+    {
+      "title": "Boende (T19)",
+      "desc": "Tavlan anger att boende i ett område, med särskilt tillstånd, får parkera enligt särskilda villkor. Texten kan vara kompletterad med områdesbeteckning eller motsvarande. Anges tid enligt tavla T6, tidsangivelse, gäller den kompletterande anvisningen enligt de närmare föreskrifterna till tavlan T6, tidsangivelse.",
+      "imgs": "T19-1.png"
+    },
+    {
+      "title": "Parkeringsbiljett (T20)",
+      "desc": "Tavlan anger att parkering är avgiftsfri men att parkeringsbiljett ska användas vid parkering. Anges tid enligt tavla T6, tidsangivelse, gäller den kompletterande anvisningen enligt de närmare föreskrifterna till tavlan T6, tidsangivelse.",
+      "imgs": "T20-1.png"
+    },
+    {
+      "title": "Uppställning av fordon (T21)",
+      "desc": "Tavlan anger hur fordon skall ställas upp på en parkeringsplats. Tavlan är anpassad efter förhållandena på platsen.",
+      "imgs": "T21-1.png"
+    },
+    {
+      "title": "Text (T22)",
+      "desc": "Tavlan ger kompletterande anvisning som inte kan ges med någon annan tilläggstavla eller kombinationer av dessa. Anges tid enligt tavla T6, tidsangivelse, gäller den kompletterande anvisningen enligt de närmare föreskrifterna till tavlan T6, tidsangivelse.",
+      "imgs": "T22-1.png"
+    },
+    {
+      "title": "Tunnelkategori (T23)",
+      "desc": "Tavlan används under märke C9, förbud mot trafik med fordon lastat med farligt gods. Bokstaven B, C, D eller E anger tunnelns kategori. Klockslag kan anges på tavlan enligt de närmare föreskrifterna till tilläggstavla T6, tidsangivelse.",
+      "imgs": "T23-1.png"
+    },
+    {
+      "title": "Laddplats (T24)",
+      "desc": "Tavlan anger en plats för extern laddning av elektricitet för fordons framdrivning. Tavlan används under märke E19, parkering, och anger att endast fordon med möjlighet till extern laddning av elektricitet för fordonets framdrivning får parkera.",
+      "imgs": "T24-1.png"
+    },
+    {
+      "title": "Öppet dygnet runt (T25)",
+      "desc": "Tavlan anger att en servering eller restaurang är öppen dygnet runt. Tavlan används under något av märkena H5, servering, eller H6, restaurang.",
+      "imgs": "T25-1.png"
+    }
+  ]
+}

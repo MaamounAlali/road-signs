@@ -1,0 +1,89 @@
+{
+  "otherFactors": [
+    {
+      "title": "Stau/VerkehrstauTraffic jams/queues possible\n",
+      "img": "120px-Zeichen_124_-_Stau%2C_StVO_1992.svg.png",
+      "id": 0
+    },
+    {
+      "title": "KurveDangerous curve to the left (Slow & stay to the right)\n",
+      "img": "120px-Zeichen_103-10_-_Kurve_%28links%29%2C_StVO_1992.svg.png",
+      "id": 1
+    },
+    {
+      "title": "KurveDangerous curve to the right (Slow & stay to the right)\n",
+      "img": "120px-Zeichen_103-20_-_Kurve_%28rechts%29%2C_StVO_1992.svg.png",
+      "id": 2
+    },
+    {
+      "title": "DoppelkurveDouble curves, first to left (Slow & stay to the right)\n",
+      "img": "120px-Zeichen_105-10_-_Doppelkurve_%28zun%C3%A4chst_links%29%2C_StVO_1992.svg.png",
+      "id": 3
+    },
+    {
+      "title": "DoppelkurveDouble curves, first to right (Slow & stay to the right)\n",
+      "img": "120px-Zeichen_105-20_-_Doppelkurve_%28zun%C3%A4chst_rechts%29%2C_StVO_1992.svg.png",
+      "id": 4
+    },
+    {
+      "title": "GefälleSteep Grade/Hill Down (10%)\n",
+      "img": "120px-Zeichen_108-10_-_Gef%C3%A4lle%2C_StVO_2017.svg.png",
+      "id": 5
+    },
+    {
+      "title": "SteigungSteep Grade/Hill Up (12%)\n",
+      "img": "120px-Zeichen_110-12_-_Steigung%2C_StVO_2017.svg.png",
+      "id": 6
+    },
+    {
+      "title": "FlugbetriebLow-flying aircraft, Aircraft noise & lights may distract drivers\n",
+      "img": "120px-Zeichen_101-10_-_Flugbetrieb%2C_Aufstellung_rechts%2C_StVO_2017.svg.png",
+      "id": 7
+    },
+    {
+      "title": "SeitenwindCrosswinds from the right possible\n",
+      "img": "120px-Zeichen_117-10_-_Seitenwind_von_rechts%2C_StVO_1992.svg.png",
+      "id": 8
+    },
+    {
+      "title": "SeitenwindCrosswind from the left possible\n",
+      "img": "120px-Zeichen_117-20_-_Seitenwind_von_links%2C_StVO_1992.svg.png",
+      "id": 9
+    },
+    {
+      "title": "UferRoad may end suddenly in a water area (quay or ferry slip ahead)\n",
+      "img": "120px-Zeichen_101-53_-_Ufer%2C_StVO_2017.svg.png",
+      "id": 10
+    },
+    {
+      "title": "Unzureichendes LichtraumprofilNarrowed clearance by trees\n",
+      "img": "120px-Zeichen_101-54_-_Unzureichendes_Lichtraumprofil%2C_StVO_2017.svg.png",
+      "id": 11
+    },
+    {
+      "title": "Bewegliche BrückeOpening or swing bridge ahead\n",
+      "img": "120px-Zeichen_101-55_-_Bewegliche_Br%C3%BCcke%2C_StVO_2017.svg.png",
+      "id": 12
+    },
+    {
+      "title": "ViehtriebCattle possible\n",
+      "img": "120px-Zeichen_101-12_-_Viehtrieb%2C_StVO_2017.svg.png",
+      "id": 13
+    },
+    {
+      "title": "ReiterEquestrians possible\n",
+      "img": "120px-Zeichen_101-13_-_Reiter%2C_StVO_2017.svg.png",
+      "id": 14
+    },
+    {
+      "title": "AmphibienwanderungFrogs & Toads possible\n",
+      "img": "120px-Zeichen_101-14_-_Amphibienwanderung%2C_StVO_2017.svg.png",
+      "id": 15
+    },
+    {
+      "title": "WildwechselWild animals possible[6]\n",
+      "img": "120px-Zeichen_142-10_-_Wildwechsel%2C_Aufstellung_rechts%2C_StVO_1992.svg.png",
+      "id": 16
+    }
+  ]
+}

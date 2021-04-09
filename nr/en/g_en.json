@@ -1,0 +1,454 @@
+{
+  "direction-signs": [
+    {
+      "title": "Orientation board",
+      "imgs": "180px-Norwegian-road-sign-701.svg.png",
+      "desc": "",
+      "id": 196
+    },
+    {
+      "title": "Diagram orientation board",
+      "imgs": "180px-Norwegian-road-sign-703.svg.png",
+      "desc": "",
+      "id": 197
+    },
+    {
+      "title": "Exit board",
+      "imgs": "180px-Norwegian-road-sign-705.svg.png",
+      "desc": "",
+      "id": 198
+    },
+    {
+      "title": "Lane orientation board",
+      "imgs": "180px-Norwegian-road-sign-707.svg.png",
+      "desc": "Shows number of lanes towards an intersection, and which directions or destinations each of them are intended for.",
+      "id": 199
+    },
+    {
+      "title": "Portal orientation board",
+      "imgs": "180px-Norwegian-road-sign-709.svg.png",
+      "desc": "Used on portals. Shows which directions or destinations a lane is intended for.",
+      "id": 200
+    },
+    {
+      "title": "Board guide",
+      "imgs": "Norwegian-road-sign-711.svg.png",
+      "desc": "",
+      "id": 201
+    },
+    {
+      "title": "Regular destination guide",
+      "imgs": "180px-Norwegian-road-sign-713.svg.png",
+      "desc": "",
+      "id": 202
+    },
+    {
+      "title": "Exit guide",
+      "imgs": "Norwegian-road-sign-715a.png",
+      "desc": "",
+      "id": 203
+    },
+    {
+      "title": "Lane guide",
+      "imgs": "180px-Norwegian-road-sign-717.svg.png",
+      "desc": "Shows which destination a lane is intended for.",
+      "id": 204
+    },
+    {
+      "title": "Portal guide",
+      "imgs": "180px-Norwegian-road-sign-719.svg.png",
+      "desc": "Used on portals. Shows which destination a lane is intended for.",
+      "id": 205
+    },
+    {
+      "title": "European route",
+      "imgs": "180px-Norwegian-road-sign-723.11.svg.png",
+      "desc": "Signifies a route that leads to the given route.",
+      "id": 206
+    },
+    {
+      "title": "European route",
+      "imgs": "180px-Norwegian-road-sign-723.12.svg.png",
+      "desc": "",
+      "id": 207
+    },
+    {
+      "title": "Trunk road",
+      "imgs": "180px-Norwegian-road-sign-723.13.svg.png",
+      "desc": "Signifies a route that leads to the given route.",
+      "id": 208
+    },
+    {
+      "title": "Trunk road",
+      "imgs": "Norwegian-road-sign-723.14.svg.png",
+      "desc": "",
+      "id": 209
+    },
+    {
+      "title": "Numbered province road",
+      "imgs": "180px-Norwegian-road-sign-723.15.svg.png",
+      "desc": "Signifies a route that leads to the given route.",
+      "id": 210
+    },
+    {
+      "title": "Numbered province road",
+      "imgs": "Norwegian-road-sign-723.16.svg.png",
+      "desc": "",
+      "id": 211
+    },
+    {
+      "title": "Ring road",
+      "imgs": "Norwegian-road-sign-723.21.svg.png",
+      "desc": "",
+      "id": 212
+    },
+    {
+      "title": "Ring road",
+      "imgs": "Norwegian-road-sign-723.22.svg.png",
+      "desc": "Signifies a route that leads to the given ring road.",
+      "id": 213
+    },
+    {
+      "title": "National tourist road",
+      "imgs": "Norwegian-road-sign-723.31.svg.png",
+      "desc": "Symbol may be used on service signs.",
+      "id": 214
+    },
+    {
+      "title": "Detour for large vehicles",
+      "imgs": "Norwegian-road-sign-723.41.svg.png",
+      "desc": "",
+      "id": 215
+    },
+    {
+      "title": "Route for vehicles with dangerous goods",
+      "imgs": "Norwegian-road-sign-723.51.svg.png",
+      "desc": "",
+      "id": 216
+    },
+    {
+      "title": "Miscellaneous detour",
+      "imgs": "Norwegian-road-sign-723.61.svg.png",
+      "desc": "Signifies a detour where use of road names is not viable. One symbol is used for the entire route, so that different symbols may be used in the event of multiple routes. The line is generally used.",
+      "id": 217
+    },
+    {
+      "title": "Miscellaneous detour",
+      "imgs": "Norwegian-road-sign-723.62.svg.png",
+      "desc": "",
+      "id": 218
+    },
+    {
+      "title": "Miscellaneous detour",
+      "imgs": "180px-Norwegian-road-sign-723.63.svg.png",
+      "desc": "",
+      "id": 219
+    },
+    {
+      "title": "Miscellaneous detour",
+      "imgs": "180px-Norwegian-road-sign-723.64.svg.png",
+      "desc": "",
+      "id": 220
+    },
+    {
+      "title": "Miscellaneous detour",
+      "imgs": "180px-Norwegian-road-sign-723.65.svg.png",
+      "desc": "Generally only used under special circumstances, as some countries use this symbol on detours for vehicles with dangerous goods.",
+      "id": 221
+    },
+    {
+      "title": "Miscellaneous detour",
+      "imgs": "180px-Norwegian-road-sign-723.66.svg.png",
+      "desc": "Different arrows may be used to show the right direction.",
+      "id": 222
+    },
+    {
+      "title": "Intersection number",
+      "imgs": "180px-Norwegian-road-sign-723.71.svg.png",
+      "desc": "Blue for motorways with multiple lanes. Intended solely for orientation.",
+      "id": 223
+    },
+    {
+      "title": "Intersection number",
+      "imgs": "180px-Norwegian-road-sign-723.72.svg.png",
+      "desc": "Yellow for general roads with multiple lanes.",
+      "id": 224
+    },
+    {
+      "title": "Intersection number",
+      "imgs": "180px-Norwegian-road-sign-723.73.svg.png",
+      "desc": "Yellow for general roads with a single lane.",
+      "id": 225
+    },
+    {
+      "title": "Distance board",
+      "imgs": "Noimage.svg.png",
+      "desc": "Shows distance in km to given destination, crossroads or exit.",
+      "id": 226
+    },
+    {
+      "title": "Region name sign",
+      "imgs": "180px-Norwegian-road-sign-727.1.png",
+      "desc": "City/urban area",
+      "id": 227
+    },
+    {
+      "title": "Region name sign",
+      "imgs": "180px-Norwegian-road-sign-727.3k.png",
+      "desc": "Administrative border",
+      "id": 228
+    },
+    {
+      "title": "Region name sign",
+      "imgs": "180px-Norwegian-road-sign-727.2.png",
+      "desc": "Place name of significance to orientation.",
+      "id": 229
+    },
+    {
+      "title": "Region name sign",
+      "imgs": "77px-Norwegian-road-sign-727.3R.svg.png",
+      "desc": "Country border. Bilingual Bokmål and Sami in Troms og Finnmark, bilingual Bokmål and Nynorsk in other counties.",
+      "id": 230
+    },
+    {
+      "title": "Tunnel name sign",
+      "imgs": "180px-Norwegian-road-sign-727.4.png",
+      "desc": "Placed at the entrance to the tunnel. The length is also written on the sign.",
+      "id": 231
+    },
+    {
+      "title": "Street sign",
+      "imgs": "180px-Norwegian-road-sign-729_0.png",
+      "desc": "",
+      "id": 232
+    },
+    {
+      "title": "Collective guide sign",
+      "imgs": "88px-Norwegian-road-sign-731.svg.png",
+      "desc": "Shows destinations that may be reached through the same road at the next crossroads or exit.",
+      "id": 233
+    },
+    {
+      "title": "Detour for certain vehicles",
+      "imgs": "79px-Norwegian-road-sign-741.svg.png",
+      "desc": "",
+      "id": 234
+    },
+    {
+      "title": "Temporary detour",
+      "imgs": "81px-Norwegian-road-sign-743.1.svg.png",
+      "desc": "",
+      "id": 235
+    },
+    {
+      "title": "Temporary detour",
+      "imgs": "80px-Norwegian-road-sign-743.2.svg.png",
+      "desc": "",
+      "id": 236
+    },
+    {
+      "title": "End of temporary detour",
+      "imgs": "90px-Norwegian-road-sign-745.0.svg.png",
+      "desc": "",
+      "id": 237
+    },
+    {
+      "title": "Guide for pedestrians",
+      "imgs": "Norwegian-road-sign-749.svg.png",
+      "desc": "",
+      "id": 238
+    },
+    {
+      "title": "Guide for bicycle route",
+      "imgs": "180px-Norwegian-road-sign-751.svg.png",
+      "desc": "",
+      "id": 239
+    },
+    {
+      "title": "Board guide for bicycle route",
+      "imgs": "81px-Norwegian-road-sign-753.svg.png",
+      "desc": "",
+      "id": 240
+    },
+    {
+      "title": "Bicycle route",
+      "imgs": "180px-Norwegian-road-sign-755.svg.png",
+      "desc": "",
+      "id": 241
+    },
+    {
+      "title": "Distance sign for bicycle route",
+      "imgs": "Norwegian-road-sign-757.svg.png",
+      "desc": "",
+      "id": 242
+    },
+    {
+      "title": "Motorway",
+      "imgs": "180px-Norwegian-road-sign-761.0.svg.png",
+      "desc": "",
+      "id": 243
+    },
+    {
+      "title": "Motor traffic road",
+      "imgs": "180px-Norwegian-road-sign-763.0.svg.png",
+      "desc": "",
+      "id": 244
+    },
+    {
+      "title": "Toll road",
+      "imgs": "180px-Norwegian-road-sign-765.0.svg.png",
+      "desc": "",
+      "id": 245
+    },
+    {
+      "title": "Parking",
+      "imgs": "180px-Norwegian-road-sign-767.0.svg.png",
+      "desc": "",
+      "id": 246
+    },
+    {
+      "title": "Multistory car park",
+      "imgs": "180px-Norwegian-road-sign-769.0.svg.png",
+      "desc": "",
+      "id": 247
+    },
+    {
+      "title": "Airport",
+      "imgs": "Norwegian-road-sign-771.0.svg.png",
+      "desc": "",
+      "id": 248
+    },
+    {
+      "title": "Helipad",
+      "imgs": "Norwegian-road-sign-772.0.svg.png",
+      "desc": "",
+      "id": 249
+    },
+    {
+      "title": "Bus station/terminal",
+      "imgs": "Norwegian-road-sign-773.0.svg.png",
+      "desc": "",
+      "id": 250
+    },
+    {
+      "title": "Train station/terminal",
+      "imgs": "Norwegian-road-sign-774.0.svg.png",
+      "desc": "",
+      "id": 251
+    },
+    {
+      "title": "Ferry",
+      "imgs": "180px-Norwegian-road-sign-775.0.svg.png",
+      "desc": "",
+      "id": 252
+    },
+    {
+      "title": "Cargo port",
+      "imgs": "180px-Norwegian-road-sign-776.jpg",
+      "desc": "",
+      "id": 253
+    },
+    {
+      "title": "Suitable layby for equipping tire chains",
+      "imgs": "180px-Norwegian-road-sign-780.png",
+      "desc": "Steep hill ahead. Tire chains are required for trucks over 3,5 tonnes during severe winter conditions.",
+      "id": 254
+    },
+    {
+      "title": "Church",
+      "imgs": "Norwegian-road-sign-790.10.svg.png",
+      "desc": "",
+      "id": 255
+    },
+    {
+      "title": "Industrial area",
+      "imgs": "Norwegian-road-sign-790.15.svg.png",
+      "desc": "",
+      "id": 256
+    },
+    {
+      "title": "Shopping center",
+      "imgs": "180px-Norwegian-road-sign-790.16-Kj%C3%B8pesenter.jpg",
+      "desc": "",
+      "id": 257
+    },
+    {
+      "title": "Swimming hall",
+      "imgs": "Norwegian-road-sign-790.20.svg.png",
+      "desc": "",
+      "id": 258
+    },
+    {
+      "title": "Alpine facility",
+      "imgs": "Norwegian-road-sign-790.30.svg.png",
+      "desc": "",
+      "id": 259
+    },
+    {
+      "title": "Ski jump slope",
+      "imgs": "Norwegian-road-sign-790.31.svg.png",
+      "desc": "",
+      "id": 260
+    },
+    {
+      "title": "Ski arena",
+      "imgs": "Norwegian-road-sign-790.32.svg.png",
+      "desc": "",
+      "id": 261
+    },
+    {
+      "title": "Golf course",
+      "imgs": "Norwegian-road-sign-790.40.svg.png",
+      "desc": "",
+      "id": 262
+    },
+    {
+      "title": "Payment with electronic chip",
+      "imgs": "180px-Norwegian-road-sign-792.11.svg.png",
+      "desc": "",
+      "id": 263
+    },
+    {
+      "title": "Payment to attendant",
+      "imgs": "Norwegian-road-sign-792.12.svg.png",
+      "desc": "",
+      "id": 264
+    },
+    {
+      "title": "Payment with coins to machine",
+      "imgs": "Norwegian-road-sign-792.13.svg.png",
+      "desc": "",
+      "id": 265
+    },
+    {
+      "title": "Payment with card to machine",
+      "imgs": "180px-Norwegian-road-sign-792.14.svg.png",
+      "desc": "",
+      "id": 266
+    },
+    {
+      "title": "Payment with banknotes to machine",
+      "imgs": "Norwegian-road-sign-792.15.svg.png",
+      "desc": "",
+      "id": 267
+    },
+    {
+      "title": "Remove ticket from closed payment system",
+      "imgs": "Norwegian-road-sign-792.16.svg.png",
+      "desc": "",
+      "id": 268
+    },
+    {
+      "title": "Use ticket in closed payment system",
+      "imgs": "Norwegian-road-sign-792.17.svg.png",
+      "desc": "",
+      "id": 269
+    },
+    {
+      "title": "Automatic toll road",
+      "imgs": "Norwegian-road-sign-792.30.svg.png",
+      "desc": "",
+      "id": 270
+    }
+  ]
+}

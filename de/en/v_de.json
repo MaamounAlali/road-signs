@@ -1,0 +1,34 @@
+{
+  "dedicatedLaneUseRequired": [
+    {
+      "title": "FußwegeFootway / Pedestrian lane\n",
+      "img": "120px-Zeichen_239_-_Sonderweg_Fu%C3%9Fg%C3%A4nger%2C_StVO_1992.svg.png",
+      "id": 0
+    },
+    {
+      "title": "Gemeinsamer Fuß- und RadwegShared use path\n",
+      "img": "120px-Zeichen_240_-_Gemeinsamer_Fu%C3%9F-_und_Radweg%2C_StVO_1992.svg.png",
+      "id": 1
+    },
+    {
+      "title": "Getrennter Rad- und GehwegShared, but separated bicycle & pedestrian path\n",
+      "img": "120px-Zeichen_241-30_-_getrennter_Rad-_und_Fu%C3%9Fweg%2C_StVO_1992.svg.png",
+      "id": 2
+    },
+    {
+      "title": "RadwegBicycle lane\n",
+      "img": "120px-Zeichen_237_-_Sonderweg_Radfahrer%2C_StVO_1992.svg.png",
+      "id": 3
+    },
+    {
+      "title": "BussonderfahrstreifenBus lane\n",
+      "img": "120px-Zeichen_245_-_Bussonderfahrstreifen%2C_StVO_2013.svg.png",
+      "id": 4
+    },
+    {
+      "title": "Sonderweg ReiterBridleway\n",
+      "img": "120px-Zeichen_238_-_Sonderweg_Reiter%2C_StVO_1992.svg.png",
+      "id": 5
+    }
+  ]
+}

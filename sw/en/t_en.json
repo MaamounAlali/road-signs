@@ -1,0 +1,129 @@
+{
+  "additional-panels": [
+    {
+      "title": "Length of road section (T1)",
+      "desc": "",
+      "imgs": "T1-1.png"
+    },
+    {
+      "title": "Distance (T2)",
+      "desc": "The panel indicates the distance to that which the sign relates to.",
+      "imgs": "T2-1.png"
+    },
+    {
+      "title": "Distance to mandatory stop (T3)",
+      "desc": "",
+      "imgs": "T3-1.png"
+    },
+    {
+      "title": "Safe width (T4)",
+      "desc": "",
+      "imgs": "T4-1.png"
+    },
+    {
+      "title": "Total weight (T5)",
+      "desc": "The panel indicates that the directions of the sign apply to vehicles with a total weight exceeding that stated on the panel.",
+      "imgs": "T5-1.png"
+    },
+    {
+      "title": "Time indication (T6)",
+      "desc": "The panel indicates when the indication on the road sign applies. If times are used in combination with other conditions, the panel also indicates when these conditions apply. Black or white figures without brackets indicate weekdays, except weekdays before Sundays or public holidays. Black or white figures within brackets indicate weekdays before Sundays or public holidays. Red figures indicate Sundays or public holidays. If the time limit extends past midnight, it applies after midnight the following day. If a certain day or certain weekday is indicated, the regulation applies to this day regardless of whether the day is a weekday, Sunday or public holiday.",
+      "imgs": "T6-1.png"
+    },
+    {
+      "title": "Disabled (T7)",
+      "desc": "",
+      "imgs": "T7-1.png"
+    },
+    {
+      "title": "Symbol panel (T8)",
+      "desc": "",
+      "imgs": "T8-1.png"
+    },
+    {
+      "title": "Visual impairment (T9)",
+      "desc": "The panel indicates that people with visual impairments often use the crossing.",
+      "imgs": "T9-1.png"
+    },
+    {
+      "title": "Hearing impairment (T10)",
+      "desc": "The panel indicates that people with hearing impairments often use the crossing.",
+      "imgs": "T10-1.png"
+    },
+    {
+      "title": "Extension (T11)",
+      "desc": "The panel with arrows pointing in two directions, placed horizontally or vertically, means that the indication applies to both sides of the sign. The panel with the arrow pointing down means that the indication ends there. The panel with a right or left-pointing arrow means that the indication applies in the direction to which it points. If the panel is used under an E19 sign, parking, the black symbol is on a white background with no border. The panels can also be used independently to demarcate parking spaces in an area, if there is a sign at the entrance to the area stating that parking is permitted.",
+      "imgs": "T11-1.png"
+    },
+    {
+      "title": "Direction (T12)",
+      "desc": "The panel indicates the direction to what is stated on the sign.",
+      "imgs": "T12-1.png"
+    },
+    {
+      "title": "All-roads give way (T13)",
+      "desc": "",
+      "imgs": "T13-1.png"
+    },
+    {
+      "title": "All-roads stop (T14)",
+      "desc": "",
+      "imgs": "T14-1.png"
+    },
+    {
+      "title": "Direction of priority road (T15)",
+      "desc": "The sign indicates a junction where drivers on a road shown as a narrow line must give way to vehicles on a road shown as a bold line. The symbol is adapted to the conditions of the location.",
+      "imgs": "T15-1.png"
+    },
+    {
+      "title": "Fee (T16)",
+      "desc": "",
+      "imgs": "T16-1.png"
+    },
+    {
+      "title": "Parking disc (T17)",
+      "desc": "The panel indicates that the time when parking begins shall be stated using a parking disc or some other device. For the times, the more detailed provisions relating to panel T6, Time indication, apply.",
+      "imgs": "T17-1.png"
+    },
+    {
+      "title": "Duration of parking permitted (T18)",
+      "desc": "",
+      "imgs": "T18-1.png"
+    },
+    {
+      "title": "Residents (T19)",
+      "desc": "",
+      "imgs": "T19-1.png"
+    },
+    {
+      "title": "Parking ticket (T20)",
+      "desc": "",
+      "imgs": "T20-1.png"
+    },
+    {
+      "title": "Positioning of vehicle (T21)",
+      "desc": "The panel indicates how a vehicle is to be positioned in a parking space. The panel is specific to the conditions at the location.",
+      "imgs": "T21-1.png"
+    },
+    {
+      "title": "Text (T22)",
+      "desc": "",
+      "imgs": "T22-1.png"
+    },
+    {
+      "title": "Tunnel category (T23)",
+      "desc": "",
+      "imgs": "T23-1.png"
+    },
+    {
+      "title": "Charging station (T24)",
+      "desc": "",
+      "imgs": "T24-1.png"
+    },
+    {
+      "title": "Open 24 hours a day (T25)",
+      "desc": "",
+      "imgs": "T25-1.png"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "police": [
+    {
+      "title": "Stop (P1)",
+      "desc": "The signal means stop for the road user coming head on or from behind. The signal is used in a junction and applies as long as the officer is facing in the same direction. For road users approaching from the side, the signal means that the road is free and that it is permitted to drive. The signal may be given in combination with the signal P2, stop. The signal may be given using a stop paddle.",
+      "imgs": "P1-1.png"
+    },
+    {
+      "title": "Stop (P2)",
+      "desc": "The signal means stop for the road user the palm is facing. The signal may be given using a stop paddle.",
+      "imgs": "P2-1.png"
+    },
+    {
+      "title": "Stop (P3)",
+      "desc": "The signal indicates a stop for the road user the light is facing. The sign is used when it is dark and in case of limited visibility. The light is positioned where it can most easily be detected by road users.",
+      "imgs": "P3-1.png"
+    },
+    {
+      "title": "Drive forward (P4)",
+      "desc": "The signal indicates that road users in the direction the signal is given may continue onwards. The signal is given with a waving motion in the direction of travel.",
+      "imgs": "P4-1.png"
+    },
+    {
+      "title": "Reduce speed (P5)",
+      "desc": "The signal indicates that the road user whom the officer is facing must reduce their speed. When it is dark and visibility is poor, the signal may be highlighted with a white or amber light or a reflective device that reflects white or amber light.",
+      "imgs": "P5-1.png"
+    },
+    {
+      "title": "Checkpoint (P6)",
+      "desc": "When these symbols and this text are displayed, vehicle drivers are to turn into the checkpoint for control. If symbols for a certain type or types of vehicle are shown, the obligation to go into the checkpoint only applies to these vehicles. The directions are specific to the conditions at the location.",
+      "imgs": "P6-1.png"
+    },
+    {
+      "title": "Advance information about checkpoint (P7)",
+      "desc": "",
+      "imgs": "P7-1.png"
+    },
+    {
+      "title": "Reduce speed (P8)",
+      "desc": "The signal indicates that the road user whom the officer is facing must reduce their speed. When it is dark and visibility is poor, the signal may be highlighted with a white or amber light or a reflective device that reflects white or amber light.",
+      "imgs": "P8-1.png"
+    },
+    {
+      "title": "Reduce speed (P9)",
+      "desc": "The signal indicates that road users coming towards the officer must reduce their speed. When it is dark and visibility is poor, the signal may be highlighted with a white or amber light or a reflective device that reflects white or amber light.",
+      "imgs": "P9-1.png"
+    },
+    {
+      "title": "Follow and stop behind the police vehicle (P10)",
+      "desc": "The signal indicates that the driver of the vehicle behind the police vehicle is to pull over to the side of the road and stop. The signal may be given using a stop paddle.",
+      "imgs": "P10-1.png"
+    },
+    {
+      "title": "Pull over to the side of the road and stop in front of the police vehicle (P11)",
+      "desc": "The signal indicates that the driver of the vehicle in front of the police vehicle is to pull over to the side of the road and stop. The signal is given with alternately flashing blue and red lights.",
+      "imgs": "P11-1.png"
+    }
+  ]
+}

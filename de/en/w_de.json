@@ -1,0 +1,24 @@
+{
+  "specialZones": [
+    {
+      "title": "Beginn einer FußgängerzonePedestrian zone\n",
+      "img": "120px-Zeichen_242.1_-_Beginn_einer_Fu%C3%9Fg%C3%A4ngerzone%2C_StVO_2009.svg.png",
+      "id": 0
+    },
+    {
+      "title": "Ende einer ....End of pedestrian zone\n",
+      "img": "120px-Zeichen_242.2_-_Ende_einer_Fu%C3%9Fg%C3%A4ngerzone%2C_StVO_2009.svg.png",
+      "id": 1
+    },
+    {
+      "title": "Beginn der FahrradstraßeBicyclist zone\n",
+      "img": "120px-Zeichen_244_-_Beginn_der_Fahrradstra%C3%9Fe%2C_StVO_1997.svg.png",
+      "id": 2
+    },
+    {
+      "title": "End of bicyclist zone\n",
+      "img": "120px-Zeichen_244a_-_Ende_der_Fahrradstra%C3%9Fe%2C_StVO_1997.svg.png",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "recreationalVehicles": [
+    {
+      "title": "WohnmobileMotorhomes & Campers\n",
+      "img": "120px-Zusatzzeichen_1010-67_-_Wohnmobile_%28600x330%29%2C_StVO_2017.svg.png",
+      "id": 150
+    },
+    {
+      "title": "Kraftfahrzeuge und ZügeFarm & Powered Equipment (& Trailers) with less than 25 km/h top speed\n",
+      "img": "120px-Zusatzzeichen_1010-61_-_Kraftfahrzeuge_und_Z%C3%BCge%2C_die_nicht_schneller_als_25_km-h_fahren_k%C3%B6nnen_oder_d%C3%BCrfen_%28600x330%29%2C_StVO_2017.svg.png",
+      "id": 151
+    },
+    {
+      "title": "Verbot für Kraftfahrzeuge und Züge\n",
+      "img": "120px-Zeichen_257-58_-_Verbot_f%C3%BCr_Kraftfahrzeuge_und_Z%C3%BCge%2C_die_nicht_schneller_als_25_km-h_fahren_k%C3%B6nnen_oder_d%C3%BCrfen%2C_StVO_2017.svg.png",
+      "id": 152
+    },
+    {
+      "title": "Kraftfahrzeuge und ZügeFarm & Powered Equipment (& Trailers) Permitted\n",
+      "img": "120px-Zusatzzeichen_1024-17_-_Kraftfahrzeuge_und_Z%C3%BCge%2C_die_nicht_schneller_als_25_km-h_fahren_k%C3%B6nnen_oder_d%C3%BCrfen%2C_frei%2C_StVO_1992.svg.png",
+      "id": 153
+    },
+    {
+      "title": "GespannfuhrwerkeHorse-drawn Wagon\n",
+      "img": "120px-Zusatzzeichen_1024-18_-_Gespannfuhrwerke_frei_%28450x600%29%2C_StVO_2017.svg.png",
+      "id": 154
+    },
+    {
+      "title": "Verbot für GespannfuhrwerkeNo Horse-drawn Wagons Permitted\n",
+      "img": "120px-Zeichen_257-52_-_Verbot_f%C3%BCr_Gespannfuhrwerke%2C_StVO_2017.svg.png",
+      "id": 155
+    },
+    {
+      "title": "Verbot für ViehtriebNo Cattle Permitted\n",
+      "img": "120px-Zeichen_257-53_-_Verbot_f%C3%BCr_Viehtrieb%2C_StVO_2017.svg.png",
+      "id": 156
+    },
+    {
+      "title": "Verbot für ReiterNo Equestrians/Horse Riders Permitted\n",
+      "img": "120px-Zeichen_257-51_-_Verbot_f%C3%BCr_Reiter%2C_StVO_2017.svg.png",
+      "id": 157
+    }
+  ]
+}

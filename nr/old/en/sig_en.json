@@ -1,0 +1,74 @@
+{
+  "traffic-signals": [
+    {
+      "title": "Red (SIG1)",
+      "desc": "Stop. A vehicle may not pass the stop line or, in the absence of such, the signal. A signal with an arrow outline only applies to the direction or directions indicated by the arrow.",
+      "imgs": "SIG1-1.png"
+    },
+    {
+      "title": "Red + amber (SIG2)",
+      "desc": "The change to a green signal is imminent. Otherwise, the signal has the same meaning as red.",
+      "imgs": "SIG2-1.png"
+    },
+    {
+      "title": "Green (SIG3)",
+      "desc": "Vehicles may continue on straight. A green arrow indicates that the signal applies to the direction in which the arrow points. Vehicles may be driven in the arrow’s direction even if another signal is showing at the same time.",
+      "imgs": "SIG3-1.png"
+    },
+    {
+      "title": "Amber (SIG4)",
+      "desc": "Stop. A vehicle may not pass the stop line or, if there is no such line, the signal unless it has come so far when the signal changes from green to amber that it cannot stop without risk.",
+      "imgs": "SIG4-1.png"
+    },
+    {
+      "title": "Flashing amber (SIG5)",
+      "desc": "Special caution must be observed when passing.",
+      "imgs": "SIG5-1.png"
+    },
+    {
+      "title": "Red (SIG6)",
+      "desc": "",
+      "imgs": "SIG6-1.png"
+    },
+    {
+      "title": "Green (SIG7)",
+      "desc": "",
+      "imgs": "SIG7-1.png"
+    },
+    {
+      "title": "S (SIG8)",
+      "desc": "",
+      "imgs": "SIG8-1.png"
+    },
+    {
+      "title": "S+horizontal line (SIG9)",
+      "desc": "",
+      "imgs": "SIG9-1.png"
+    },
+    {
+      "title": "Vertical line or arrow (SIG10)",
+      "desc": "",
+      "imgs": "SIG10-1.png"
+    },
+    {
+      "title": "Horizontal line (SIG11)",
+      "desc": "",
+      "imgs": "SIG11-1.png"
+    },
+    {
+      "title": "Red cross (SIG12)",
+      "desc": "The lane and where applicable the hard shoulder by the lane may not be used for traffic.",
+      "imgs": "SIG12-1.png"
+    },
+    {
+      "title": "Amber arrow or arrows (SIG13)",
+      "desc": "",
+      "imgs": "SIG13-1.png"
+    },
+    {
+      "title": "Green arrow (SIG14)",
+      "desc": "",
+      "imgs": "SIG14-1.png"
+    }
+  ]
+}

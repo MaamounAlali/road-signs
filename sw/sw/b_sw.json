@@ -1,0 +1,44 @@
+{
+  "priority-signs": [
+    {
+      "title": "Väjningsplikt (B1)",
+      "desc": "Märket anger att förare har väjningsplikt mot fordon på korsande väg eller led och att bestämmelserna i 3 kap. 5 § trafikförordningen (1998:1276) är tillämpliga. Märket kan vara uppsatt tillsammans med tilläggstavla T2, avstånd, som förberedande upplysning om väjningsplikt och tillsammans med tilläggstavla T3, avstånd till stopplikt, som förberedande upplysning om stopplikt. Om samtliga tillfarter i en korsning har väjningsplikt anges detta med tilläggstavla T13, flervägsväjning.",
+      "imgs": "B1-1.png"
+    },
+    {
+      "title": "Stopplikt (B2)",
+      "desc": "Märket anger att förare har stopplikt före infart på korsande väg, led eller spårområde och att bestämmelserna i 3 kap. 19 § trafikförordningen är tilllämpliga. Om samtliga tillfarter i en korsning har stopplikt anges detta med tilläggstavla T14, flervägsstopp.",
+      "imgs": "B2-1.png"
+    },
+    {
+      "title": "Övergångsställe (B3)",
+      "desc": "Märkena, som är likvärdiga och kan användas var för sig eller tillsammans, anger ett övergångsställe. Vid obevakade övergångsställen är för fordonsförare bestämmelserna i 3 kap. 61 § och för gående bestämmelserna i 7 kap. 4 § trafikförordningen tillämpliga.",
+      "imgs": "B3-1.png"
+    },
+    {
+      "title": "Huvudled (B4)",
+      "desc": "Märket är uppsatt vid huvudledens början och upprepat efter varje korsning med annan väg än sådan som avses i 3 kap. 21 § andra stycket trafikförordningen, om det inte ändå tydligt framgår att huvudleden fortsätter efter korsningen.",
+      "imgs": "B4-1.png"
+    },
+    {
+      "title": "Huvudled upphör (B5)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "B5-1.png"
+    },
+    {
+      "title": "Väjningsplikt mot mötande trafik (B6)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "B6-1.png"
+    },
+    {
+      "title": "Mötande trafik har väjningsplikt (B7)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "B7-1.png"
+    },
+    {
+      "title": "Cykelöverfart (B8)",
+      "desc": "Märket anger en cykelöverfart. Vid cykelöverfarter är för fordonsförare bestämmelserna i 3 kap. 61 a § och för cyklande och förare av moped klass II bestämmelserna i 6 kap. 6 § trafikförordningen tillämpliga.",
+      "imgs": "B8-1.png"
+    }
+  ]
+}

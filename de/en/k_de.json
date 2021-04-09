@@ -1,0 +1,39 @@
+{
+  "carsAutomobiles": [
+    {
+      "title": "Personenkraftwagen (Pkw)Cars\n",
+      "img": "120px-Zusatzzeichen_1010-58_-_Personenkraftwagen_%28600x330%29%2C_StVO_2017.svg.png",
+      "id": 143
+    },
+    {
+      "title": "Personenkraftwagen (Pkw)Cars Permitted\n",
+      "img": "120px-Zusatzzeichen_1024-10_-_Personenkraftwagen_frei%2C_StVO_1992.svg.png",
+      "id": 144
+    },
+    {
+      "title": "Verbot für Personenkraftwagen/Pkw\n",
+      "img": "120px-Zeichen_257-55_-_Verbot_f%C3%BCr_Personenkraftwagen%2C_StVO_2017.svg.png",
+      "id": 145
+    },
+    {
+      "title": "elektrisch betriebene FahrzeugeElectric Vehicles/Cars\n",
+      "img": "120px-Zusatzzeichen_1024-20_-_elektrisch_betriebene_Fahrzeuge_frei%2C_StVO_2015.svg.png",
+      "id": 146
+    },
+    {
+      "title": "Pkw mit AnhängerCars with Trailer\n",
+      "img": "120px-Zusatzzeichen_1010-59_-_Personenkraftwagen_mit_Anh%C3%A4nger%2C_StVO_2017.svg.png",
+      "id": 147
+    },
+    {
+      "title": "Pkw mit Anhänger\n",
+      "img": "120px-Zusatzzeichen_1024-11_-_PKW_mit_Anh%C3%A4nger_frei%2C_StVO_1992.svg.png",
+      "id": 148
+    },
+    {
+      "title": "Verbot für Pkw mit Anhänger\n",
+      "img": "120px-Zeichen_257-56_-_Verbot_f%C3%BCr_Personenkraftwagen_mit_Anh%C3%A4nger%2C_StVO_2017.svg.png",
+      "id": 149
+    }
+  ]
+}

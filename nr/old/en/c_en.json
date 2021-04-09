@@ -1,0 +1,234 @@
+{
+  "prohibitory-signs": [
+    {
+      "title": "No entry (C1)",
+      "desc": "",
+      "imgs": "C1-1.png"
+    },
+    {
+      "title": "No vehicles (C2)",
+      "desc": "The sign refers to traffic with vehicles in both directions.",
+      "imgs": "C2-1.png"
+    },
+    {
+      "title": "No motor vehicles other than class II mopeds (C3)",
+      "desc": "If the prohibition also applies to class II mopeds, this is indicated on an additional panel.",
+      "imgs": "C3-1.png"
+    },
+    {
+      "title": "No motor vehicles with more than two wheels (C4)",
+      "desc": "",
+      "imgs": "C4-1.png"
+    },
+    {
+      "title": "No motorcycles or class I mopeds (C5)",
+      "desc": "",
+      "imgs": "C5-1.png"
+    },
+    {
+      "title": "No motor vehicles with a connected trailer (C6)",
+      "desc": "The sign indicates a prohibition against motor vehicles with a connected trailer of a type other than semi-trailer or centre axle trailer. If the prohibition also applies to motor vehicles with a connected semi-trailer or centre axle trailer, this will be indicated on an additional panel. If the prohibition only refers to vehicle combinations with a trailer whose total weight exceeds a certain tonnage, this will be indicated on additional panel T5, total weight.",
+      "imgs": "C6-1.png"
+    },
+    {
+      "title": "No heavy trucks (C7)",
+      "desc": "If the prohibition also applies to light trucks, this is indicated on an additional panel.",
+      "imgs": "C7-1.png"
+    },
+    {
+      "title": "No tractors or motorised equipment class II (C8)",
+      "desc": "",
+      "imgs": "C8-1.png"
+    },
+    {
+      "title": "No vehicles carrying dangerous goods (C9)",
+      "desc": "The sign indicates a prohibition against traffic with vehicles carrying loads that are subject to the labelling requirement of an orange sign according to provisions stipulated pursuant to Act on the Transport of Dangerous Goods (2006:263).",
+      "imgs": "C9-1.png"
+    },
+    {
+      "title": "No bicycles or class II mopeds (C10)",
+      "desc": "If the prohibition also applies to class I mopeds, this is indicated on an additional panel.",
+      "imgs": "C10-1.png"
+    },
+    {
+      "title": "No class II mopeds (C11)",
+      "desc": "If the prohibition also applies to class I mopeds, this is indicated on a supplementary plate.",
+      "imgs": "C11-1.png"
+    },
+    {
+      "title": "No horse-drawn vehicles (C12)",
+      "desc": "",
+      "imgs": "C12-1.png"
+    },
+    {
+      "title": "No off-road motor vehicles or off-road trailers (C13)",
+      "desc": "",
+      "imgs": "C13-1.png"
+    },
+    {
+      "title": "No horse-riding (C14)",
+      "desc": "",
+      "imgs": "C14-1.png"
+    },
+    {
+      "title": "No pedestrians (C15)",
+      "desc": "",
+      "imgs": "C15-1.png"
+    },
+    {
+      "title": "Restricted vehicle width (C16)",
+      "desc": "The sign indicates that traffic with vehicles over a certain width is prohibited. The greatest permitted width is indicated on the sign.",
+      "imgs": "C16-1.png"
+    },
+    {
+      "title": "Restricted vehicle height (C17)",
+      "desc": "The sign indicates that traffic with vehicles over a certain height is prohibited if the free height is lower than 4.5 metres. The greatest permitted vehicle height is indicated on the sign.",
+      "imgs": "C17-1.png"
+    },
+    {
+      "title": "Restricted vehicle length (C18)",
+      "desc": "The sign indicates that traffic with vehicles or a vehicle/trailer combination over a certain length is prohibited. The greatest permitted length is indicated on the sign.",
+      "imgs": "C18-1.png"
+    },
+    {
+      "title": "Minimum distance between motor vehicles (C19)",
+      "desc": "",
+      "imgs": "C19-1.png"
+    },
+    {
+      "title": "Restricted gross weight of vehicle (C20)",
+      "desc": "Maximum permitted gross weight is indicated on the sign.",
+      "imgs": "C20-1.png"
+    },
+    {
+      "title": "Restricted gross weight of vehicle and vehicle combination (C21)",
+      "desc": "Maximum permitted gross weight is indicated on the sign.",
+      "imgs": "C21-1.png"
+    },
+    {
+      "title": "Carrying capacity classification (C22)",
+      "desc": "",
+      "imgs": "C22-1.png"
+    },
+    {
+      "title": "Restricted weight on one axle (C23)",
+      "desc": "Maximum permitted weight on an axle is indicated on the sign.",
+      "imgs": "C23-1.png"
+    },
+    {
+      "title": "Restricted weight on tandem axle (C24)",
+      "desc": "Maximum permitted weight on a tandem axle is indicated on the sign.",
+      "imgs": "C24-1.png"
+    },
+    {
+      "title": "No left/right turn in the junction (C25)",
+      "desc": "This prohibition applies to the junction or similar location before or in which the sign is erected. The sign may relate to several junctions. In that case the distance is indicated on an additional panel. The symbol is specific to the conditions at the location.",
+      "imgs": "C25-1.png"
+    },
+    {
+      "title": "No U-turn (C26)",
+      "desc": "This prohibition applies to the junction or similar location before or in which the sign is erected. The sign may relate to several junctions. In that case the distance is indicated on an additional panel. The symbol is specific to the conditions at the location.",
+      "imgs": "C26-1.png"
+    },
+    {
+      "title": "No overtaking (C27)",
+      "desc": "The sign indicates a prohibition on overtaking motor vehicles other than two-wheeled mopeds and two-wheeled motorcycles without a sidecar. The prohibition applies on the road where the sign is erected and up to the place where sign C28, End of overtaking restriction, is erected.",
+      "imgs": "C27-1.png"
+    },
+    {
+      "title": "End of overtaking restriction (C28)",
+      "desc": "",
+      "imgs": "C28-1.png"
+    },
+    {
+      "title": "No overtaking with a heavy truck (C29)",
+      "desc": "The sign indicates a prohibition on heavy trucks overtaking motor vehicles other than two-wheeled mopeds and two-wheeled motorcycles without a sidecar. The prohibition applies on the road where the sign is erected and up to the place where sign C30, End of overtaking restriction for heavy trucks, is erected.",
+      "imgs": "C29-1.png"
+    },
+    {
+      "title": "No overtaking with a heavy truck ends (C30)",
+      "desc": "",
+      "imgs": "C30-1.png"
+    },
+    {
+      "title": "Speed limit (C31)",
+      "desc": "The sign indicates that it is prohibited to drive a vehicle faster than the speed indicated on the sign.",
+      "imgs": "C31-1.png"
+    },
+    {
+      "title": "Temporary speed limit ends (C32)",
+      "desc": "",
+      "imgs": "C32-1.png"
+    },
+    {
+      "title": "Stop at customs point (C33)",
+      "desc": "",
+      "imgs": "C33-1.png"
+    },
+    {
+      "title": "Stop for stated purpose (C34)",
+      "desc": "This sign indicates the obligation to stop for the reason provided underneath the horizontal line. If the sign has been placed before a traffic light, it indicates that a vehicle passing the sign shall stop for a red light. The vehicle shall stop at the stop line or, in the absence of such a line, by the sign.",
+      "imgs": "C34-1.png"
+    },
+    {
+      "title": "Vehicle parking is prohibited (C35)",
+      "desc": "",
+      "imgs": "C35-1.png"
+    },
+    {
+      "title": "Vehicle parking is prohibited on odd-numbered dates (C36)",
+      "desc": "The more detailed provisions relating to sign C35, Vehicle parking is prohibited, also apply to this sign.",
+      "imgs": "C36-1.png"
+    },
+    {
+      "title": "Vehicle parking is prohibited on even-numbered dates (C37)",
+      "desc": "The more detailed provisions relating to sign C35, Vehicle parking is prohibited, also apply to this sign.",
+      "imgs": "C37-1.png"
+    },
+    {
+      "title": "Date parking (C38)",
+      "desc": "The sign indicates that it is prohibited to park vehicles on days with even-numbered dates on the side of the road that has even-numbered addresses and on days with odd-numbered dates on the side of the road that has odd-numbered addresses.",
+      "imgs": "C38-1.png"
+    },
+    {
+      "title": "No stopping or parking (C39)",
+      "desc": "The sign indicates it is prohibited to stop or park a vehicle. The more detailed provisions relating to sign C35, Vehicle parking is prohibited, paragraphs two to four, also apply to this sign.",
+      "imgs": "C39-1.png"
+    },
+    {
+      "title": "Purposeful location (C40)",
+      "desc": "",
+      "imgs": "C40-1.png"
+    },
+    {
+      "title": "End of purposeful location (C41)",
+      "desc": "",
+      "imgs": "C41-1.png"
+    },
+    {
+      "title": "Turning area (C42)",
+      "desc": "The sign indicates an area intended for turning a vehicle and that parking is prohibited here.",
+      "imgs": "C42-1.png"
+    },
+    {
+      "title": "Turning area ends (C43)",
+      "desc": "",
+      "imgs": "C43-1.png"
+    },
+    {
+      "title": "No traffic with other motor vehicles with studded tyres than mopeds class II (C44)",
+      "desc": "",
+      "imgs": "C44-1.png"
+    },
+    {
+      "title": "Special rules for stopping and parking (C45)",
+      "desc": "",
+      "imgs": "C45-1.png"
+    },
+    {
+      "title": "Restricted weight on triple axle (C46)",
+      "desc": "",
+      "imgs": "C46-1.png"
+    }
+  ]
+}

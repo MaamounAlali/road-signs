@@ -1,0 +1,39 @@
+{
+  "roadEquipment": [
+    {
+      "title": "Barrier board\n",
+      "img": "120px-Zeichen_600.svg.png",
+      "id": 0
+    },
+    {
+      "title": "Guiding beacon\n",
+      "img": "30px-Zeichen_605-10_-_Leitbake_%28Aufstellung_rechts%29%2C_1000x250%3B_StVO_1992.svg.png",
+      "id": 1
+    },
+    {
+      "title": "Guide cone\n",
+      "img": "88px-Zeichen_610-40_bis_43_-_Leitkegel%2C_StVO_2013.svg.png",
+      "id": 2
+    },
+    {
+      "title": "Moveable road barrier\n",
+      "img": "73px-Zeichen_615_-_fahrbare_Absperrtafel%2C_StVO_1992.svg.png",
+      "id": 3
+    },
+    {
+      "title": "Moveable road barrier with flashing arrow\n",
+      "img": "73px-Zeichen_616-30_-_fahrbare_Absperrtafel_mit_Blinkpfeil_-_gro%C3%9Fe_Ausf%C3%BChrung%2C_StVO_1997.svg.png",
+      "id": 4
+    },
+    {
+      "title": "Reflexion post (right-hand side)\n",
+      "img": "43px-Zeichen_620-40_-_Leitpfosten_%28rechts%29%2C_StVO_1992.svg.png",
+      "id": 5
+    },
+    {
+      "title": "Reflexion post (left-hand side)\n",
+      "img": "43px-Zeichen_620-41_-_Leitpfosten_%28links%29%2C_StVO_1992.svg.png",
+      "id": 6
+    }
+  ]
+}

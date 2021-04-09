@@ -1,0 +1,54 @@
+{
+  "other-signs": [
+    {
+      "title": "Arrow marker (X1)",
+      "desc": "The device indicates that motorists must make a sharp turn in the arrows direction because of, for example, a bend. If the device is used during roadworks or similar work, the background is red.",
+      "imgs": "X1-1.png"
+    },
+    {
+      "title": "Marking for obstacle (X2)",
+      "desc": "This device indicates that accessibility on the road is restricted due to an obstacle. The device can also indicate that a road is entirely or partially closed for traffic. If the device is used during roadworks or similar work, the background is red.",
+      "imgs": "X2-1.png"
+    },
+    {
+      "title": "Marking for obstacle on the side, speed bumps, etc. (X3)",
+      "desc": "This device indicates a change in conditions entailing a need to adapt your speed. It is used to mark the edge of the carriageway or lane, or to separate traffic directions on complex passages. The device is placed so that the panels lean downwards on the side where traffic must travel. If the device is used for roadworks or similar work, it is red and yellow. In that case, the panels can also be horizontal.",
+      "imgs": "X3-1.png"
+    },
+    {
+      "title": "Exit plate (X4)",
+      "desc": "The device indicates the dividing point between a main carriageway and an exit road where there is a deceleration lane.",
+      "imgs": "X4-1.png"
+    },
+    {
+      "title": "Illuminated amber arrow or arrows (X5)",
+      "desc": "",
+      "imgs": "X5-1.png"
+    },
+    {
+      "title": "Special hazard warning device (X6)",
+      "desc": "",
+      "imgs": "X6-1.png"
+    },
+    {
+      "title": "Barrier (X7)",
+      "desc": "",
+      "imgs": "X7-1.png"
+    },
+    {
+      "title": "Temporarily closed (X8)",
+      "desc": "",
+      "imgs": "X8-1.png"
+    },
+    {
+      "title": "Roundabout traffic (X9)",
+      "desc": "This device marks the centre of a roundabout around which vehicles are to be driven.",
+      "imgs": "X9-1.png"
+    },
+    {
+      "title": "Pole marker (X10)",
+      "desc": "",
+      "imgs": "X10-1.png"
+    }
+  ]
+}

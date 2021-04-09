@@ -1,0 +1,49 @@
+{
+  "busesPublicTransitRail": [
+    {
+      "title": "KraftomnibusBus\n",
+      "img": "120px-Zusatzzeichen_1010-57_-_Kraftomnibus%2C_StVO_2017.svg.png",
+      "id": 176
+    },
+    {
+      "title": "Buses permitted\n",
+      "img": "120px-Zusatzzeichen_1024-14_-_Kraftomnibusse_frei%2C_StVO_1992.svg.png",
+      "id": 177
+    },
+    {
+      "title": "Verbot für Kraftomnibusse\n",
+      "img": "120px-Zeichen_257-54_-_Verbot_f%C3%BCr_Kraftomnibusse%2C_StVO_2017.svg.png",
+      "id": 178
+    },
+    {
+      "title": "StraßenbahnStreetrail or Trams\n",
+      "img": "120px-Zusatzzeichen_1010-56_-_Stra%C3%9Fenbahn%2C_StVO_2017.svg.png",
+      "id": 179
+    },
+    {
+      "title": "Trams Permitted\n",
+      "img": "120px-Zusatzzeichen_1024-16_-_Stra%C3%9Fenbahn_frei%2C_StVO_1992.svg.png",
+      "id": 180
+    },
+    {
+      "title": "Train - Bahn/Zug\n",
+      "img": "120px-Zusatzzeichen_1048-18_-_nur_Schienenbahn_%28600x450%29%2C_StVO_1992.svg.png",
+      "id": 181
+    },
+    {
+      "title": "Schienenbahn\"Railway Traffic\", Trains - Bahn/Zug Permitted\n",
+      "img": "120px-Zusatzzeichen_1024-15_-_Schienenbahn_frei%2C_StVO_1992.svg.png",
+      "id": 182
+    },
+    {
+      "title": "Military vehicles (generally a weight rating)\n",
+      "img": "120px-Zusatzzeichen_1049-12_-_nur_milit%C3%A4rische_Kettenfahrzeuge%2C_StVO_1992.svg.png",
+      "id": 183
+    },
+    {
+      "title": "Lkw, Busses & Pkw with Trailers\n",
+      "img": "120px-Zusatzzeichen_1049-13_-_nur_Lkw_%28Zeichen_1048-12%29%2C_Kraftomnibus_%28Zeichen_1048-16%29_und_Pkw_mit_Anh%C3%A4nger_%28Zeichen_1048-11%29%2C_StVO_1992.svg.png",
+      "id": 184
+    }
+  ]
+}

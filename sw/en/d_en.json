@@ -1,0 +1,64 @@
+{
+  "mandatory-signs": [
+    {
+      "title": "Direction to be followed (D1)",
+      "desc": "The signs indicate that the vehicle may only be driven in the direction of the arrow or, in the case of two arrows, in either arrow's direction. The symbol is adapted to the conditions of the location.",
+      "imgs": "D1-1.png"
+    },
+    {
+      "title": "Keep left/right (D2)",
+      "desc": "The signs indicate that the vehicle may only drive past the sign where the arrow is pointing or, in the case of two arrows, where the arrows are indicating. The symbol is adapted to the conditions of the location.",
+      "imgs": "D2-1.png"
+    },
+    {
+      "title": "Roundabout (D3)",
+      "desc": "",
+      "imgs": "D3-1.png"
+    },
+    {
+      "title": "Track for bicycles (D4)",
+      "desc": "",
+      "imgs": "D4-1.png"
+    },
+    {
+      "title": "Foot path (D5)",
+      "desc": "This sign indicates a path intended for pedestrians only.",
+      "imgs": "D5-1.png"
+    },
+    {
+      "title": "Compulsory track for pedestrians, cyclists and moped drivers (D6)",
+      "desc": "The sign indicates a common track for pedestrians, cyclists and moped drivers. If class II mopeds may not be driven on the track, this is indicated on an additional panel.",
+      "imgs": "D6-1.png"
+    },
+    {
+      "title": "Compulsory tracks for pedestrians, cyclists and moped drivers (D7)",
+      "desc": "",
+      "imgs": "D7-1.png"
+    },
+    {
+      "title": "Track for rider on horseback (D8)",
+      "desc": "This sign also indicates that pedestrian traffic is permitted.",
+      "imgs": "D8-1.png"
+    },
+    {
+      "title": "Compulsory route for off-road motor vehicles and off-road trailers (D9)",
+      "desc": "",
+      "imgs": "D9-1.png"
+    },
+    {
+      "title": "Reserved lane or carriageway for vehicles operating a regular service, etc. (D10)",
+      "desc": "The sign also indicates that vehicles specified in Chapter 8, Section 2 of the Road Traffic Ordinance (1998:1276) are permitted to use the lane or carriageway, unless otherwise stated on an additional panel. If other vehicles are permitted to use the lane or carriageway, this is indicated through an additional panel.",
+      "imgs": "D10-1.png"
+    },
+    {
+      "title": "End of reserved carriageway, lane, road or thoroughfare (D11)",
+      "desc": "The sign indicates that the reserved carriageway, lane, road or thoroughfare indicated using one of the signs D4-D10 has ended. The sign does not have to be erected if it is otherwise clear that the reservation has ended. Other symbols for road user groups or types of vehicles may be included in the sign. The symbol included in the sign is the same as the one used on the sign designating the carriageway, lane, road or thoroughfare.",
+      "imgs": "D11-1.png"
+    },
+    {
+      "title": "Direction of travel for vehicles carrying dangerous goods (D12)",
+      "desc": "",
+      "imgs": "D12-1.png"
+    }
+  ]
+}

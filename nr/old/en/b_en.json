@@ -1,0 +1,44 @@
+{
+  "priority-signs": [
+    {
+      "title": "Give way (B1)",
+      "desc": "The sign indicates that a driver is obliged to give way to a vehicle on the intersecting road or route and that the regulations of Chapter 3, Section 5 of the Swedish Road Traffic Ordinance (1998:1276) apply. The sign can be erected together with the supplementary plate T2 – distance to – as preparatory information regarding the obligation to give way, or together with the supplementary plate T3 – stop and give way at specified distance – as preparatory information regarding the obligation to stop. If all approach roads in a junction are obliged to give way, this is indicated with the supplementary plate T13, all-way-stop-controlled junction.",
+      "imgs": "B1-1.png"
+    },
+    {
+      "title": "Obligation to stop (B2)",
+      "desc": "The sign indicates that drivers are obliged to stop before entering the intersecting road, thoroughfare or track area and that the provisions of Chapter 3, Section 18 of the Road Traffic Ordinance (1998:1276) apply. If all approaching roads in a junction have an obligation to stop, this is indicated with additional panel T14, all-way stop.",
+      "imgs": "B2-1.png"
+    },
+    {
+      "title": "Pedestrian crossing (B3)",
+      "desc": "",
+      "imgs": "B3-1.png"
+    },
+    {
+      "title": "Priority road (B4)",
+      "desc": "The sign is erected at the start of the priority road and is repeated after each junction with a road other than such as referred to in Chapter 3, Section 21, second paragraph of the Road Traffic Ordinance, if it is not otherwise clear that the priority road continues after the crossing.",
+      "imgs": "B4-1.png"
+    },
+    {
+      "title": "End of priority road (B5)",
+      "desc": "",
+      "imgs": "B5-1.png"
+    },
+    {
+      "title": "Priority for oncoming vehicles (B6)",
+      "desc": "",
+      "imgs": "B6-1.png"
+    },
+    {
+      "title": "Priority over oncoming vehicles (B7)",
+      "desc": "",
+      "imgs": "B7-1.png"
+    },
+    {
+      "title": "Bicycle crossing (B8)",
+      "desc": "",
+      "imgs": "B8-1.png"
+    }
+  ]
+}

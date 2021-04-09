@@ -1,0 +1,14 @@
+{
+  "information-signs": [
+    {
+      "title": "Upplysningsmärke (J2)",
+      "desc": "Märket ger upplysning av väsentligt intresse för framkomlighet eller säkerhet som inte kan ges på annat sätt. Varnings- eller förbudsmärke och lokaliseringsmärkena F14, vägnummer, och F15, omledning, kan vara infogade som förberedande upplysning. Upplysning med versal och gemen text kan förekomma.",
+      "imgs": "J2-1.png"
+    },
+    {
+      "title": "Livsfarlig ledning (J3)",
+      "desc": "Märket anger att det finns en elektrisk ledning över vägen eller leden som kan innebära fara.",
+      "imgs": "J3-1.png"
+    }
+  ]
+}

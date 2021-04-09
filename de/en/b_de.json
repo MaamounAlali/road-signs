@@ -1,0 +1,199 @@
+{
+  "dangerSigns": [
+    {
+      "title": "Sign 101Danger. A supplementary sign can specify the danger.\n",
+      "img": "120px-Zeichen_101_-_Gefahrstelle%2C_StVO_1970.svg.png",
+      "id": 22
+    },
+    {
+      "title": "Sign 101-10 / 101-20Aircraft\n",
+      "img": "120px-Zeichen_101-10_-_Flugbetrieb%2C_Aufstellung_rechts%2C_StVO_2017.svg.png",
+      "id": 23
+    },
+    {
+      "title": "Sign 101-11 / 101-21Pedestrian crosswalk\n",
+      "img": "120px-Zeichen_101-11_-_Fu%C3%9Fg%C3%A4nger%C3%BCberweg%2C_StVO_2017.svg.png",
+      "id": 24
+    },
+    {
+      "title": "Sign 101-12 / 101-22Cattle\n",
+      "img": "120px-Zeichen_101-12_-_Viehtrieb%2C_StVO_2017.svg.png",
+      "id": 25
+    },
+    {
+      "title": "Sign 101-13 / 101-23Equestrians\n",
+      "img": "120px-Zeichen_101-13_-_Reiter%2C_StVO_2017.svg.png",
+      "id": 26
+    },
+    {
+      "title": "Sign 101-14 / 101-24Amphibians\n",
+      "img": "120px-Zeichen_101-14_-_Amphibienwanderung%2C_StVO_2017.svg.png",
+      "id": 27
+    },
+    {
+      "title": "Sign 101-15 / 101-25Rockfall\n",
+      "img": "120px-Zeichen_101-15_-_Steinschlag%2C_StVO_2017.svg.png",
+      "id": 28
+    },
+    {
+      "title": "Sign 101-51Slipperiness due to snow or ice\n",
+      "img": "120px-Zeichen_101-51_-_Schnee-_oder_Eisgl%C3%A4tte%2C_StVO_2017.svg.png",
+      "id": 29
+    },
+    {
+      "title": "Sign 101-52Grit/gravel at the edge of the road\n",
+      "img": "120px-Zeichen_101-52_-_Splitt%2C_Schotter%2C_StVO_2017.svg.png",
+      "id": 30
+    },
+    {
+      "title": "Sign 101-53Shore or riverbank\n",
+      "img": "120px-Zeichen_101-53_-_Ufer%2C_StVO_2017.svg.png",
+      "id": 31
+    },
+    {
+      "title": "Sign 101-54Insufficient clearance\n",
+      "img": "120px-Zeichen_101-54_-_Unzureichendes_Lichtraumprofil%2C_StVO_2017.svg.png",
+      "id": 32
+    },
+    {
+      "title": "SIgn 101-55Movable bridge\n",
+      "img": "120px-Zeichen_101-55_-_Bewegliche_Br%C3%BCcke%2C_StVO_2017.svg.png",
+      "id": 33
+    },
+    {
+      "title": "Sign 102Intersection with priority to the right\n",
+      "img": "120px-Zeichen_102_-_Kreuzung_oder_Einm%C3%BCndung_mit_Vorfahrt_von_rechts%2C_StVO_1970.svg.png",
+      "id": 34
+    },
+    {
+      "title": "Sign 103-10 / 103-20Curve\n",
+      "img": "120px-Zeichen_103-10_-_Kurve_%28links%29%2C_StVO_1992.svg.png",
+      "id": 35
+    },
+    {
+      "title": "Sign 105-10 / 105-20Double curve\n",
+      "img": "120px-Zeichen_105-10_-_Doppelkurve_%28zun%C3%A4chst_links%29%2C_StVO_1992.svg.png",
+      "id": 36
+    },
+    {
+      "title": "Sign 108-10Descent\n",
+      "img": "120px-Zeichen_108-10_-_Gef%C3%A4lle%2C_StVO_2017.svg.png",
+      "id": 37
+    },
+    {
+      "title": "Sign 110-12Ascent\n",
+      "img": "120px-Zeichen_110-12_-_Steigung%2C_StVO_2017.svg.png",
+      "id": 38
+    },
+    {
+      "title": "Sign 112Uneven road\n",
+      "img": "120px-Zeichen_112_%E2%80%93_Unebene_Fahrbahn%2C_StVO_1970.svg.png",
+      "id": 39
+    },
+    {
+      "title": "Sign 114Slipperiness when road is wet or dirty\n",
+      "img": "120px-Zeichen_114_-_Schleuder-_oder_Rutschgefahr%2C_StVO_2013.svg.png",
+      "id": 40
+    },
+    {
+      "title": "Sign 117-10 / 117-20Crosswind\n",
+      "img": "120px-Zeichen_117-10_-_Seitenwind_von_rechts%2C_StVO_1992.svg.png",
+      "id": 41
+    },
+    {
+      "title": "Sign 120Road narrowing\n",
+      "img": "120px-Zeichen_120_-_Verengte_Fahrbahn%2C_StVO_1970.svg.png",
+      "id": 42
+    },
+    {
+      "title": "Sign 121-10 / 121-20One-sided road narrowing\n",
+      "img": "120px-Zeichen_121-10_-_einseitig_%28rechts%29_verengte_Fahrbahn%2C_StVO_1992.svg.png",
+      "id": 43
+    },
+    {
+      "title": "Sign 123Construction area\n",
+      "img": "120px-Zeichen_123_-_Arbeitsstelle%2C_StVO_2013.svg.png",
+      "id": 44
+    },
+    {
+      "title": "Sign 124Traffic jams\n",
+      "img": "120px-Zeichen_124_-_Stau%2C_StVO_1992.svg.png",
+      "id": 45
+    },
+    {
+      "title": "Sign 125Oncoming traffic\n",
+      "img": "120px-Zeichen_125_-_Gegenverkehr%2C_StVO_1992.svg.png",
+      "id": 46
+    },
+    {
+      "title": "Sign 131Traffic signals\n",
+      "img": "120px-Zeichen_131_-_Lichtzeichenanlage%2C_StVO_1970.svg.png",
+      "id": 47
+    },
+    {
+      "title": "Sign 133-10 / 133-20Pedestrians\n",
+      "img": "120px-Zeichen_133-10_-_Fu%C3%9Fg%C3%A4nger_%28Aufstellung_rechts%29%2C_StVO_1992.svg.png",
+      "id": 48
+    },
+    {
+      "title": "Sign 136-10 / 136-20Children\n",
+      "img": "120px-Zeichen_136-10_-_Kinder%2C_Aufstellung_rechts%2C_StVO_1992.svg.png",
+      "id": 49
+    },
+    {
+      "title": "Sign 138-10 / 138-20Cycles\n",
+      "img": "120px-Zeichen_138-10_-_Radverkehr%2C_StVO_2013.svg.png",
+      "id": 50
+    },
+    {
+      "title": "Sign 142-10 / 142-20Wild animals\n",
+      "img": "120px-Zeichen_142-10_-_Wildwechsel%2C_Aufstellung_rechts%2C_StVO_1992.svg.png",
+      "id": 51
+    },
+    {
+      "title": "Sign 151Railroad crossing\n",
+      "img": "120px-Zeichen_151_-_Bahn%C3%BCbergang%2C_StVO_2013.svg.png",
+      "id": 52
+    },
+    {
+      "title": "Sign 156-10 / 156-20Railroad crossing with three-striped warning - 240 m distance\n",
+      "img": "58px-Zeichen_156-10_-_Bahn%C3%BCbergang_mit_dreistreifiger_Bake%2C_StVO_2013.svg.png",
+      "id": 53
+    },
+    {
+      "title": "Sign 156-11 / 156-21Railroad crossing with three-striped warning - custom distance\n",
+      "img": "58px-Zeichen_156-11_-_Bahn%C3%BCbergang_mit_dreistreifiger_Bake%2C_mit_Entfernungsangabe_-_Aufstellung_rechts%3B_StVO_2013.svg.png",
+      "id": 54
+    },
+    {
+      "title": "Sign 157-10 / 157-20Three-striped warning for railroad crossing - 240 m distance\n",
+      "img": "36px-Zeichen_157-10_-_Dreistreifige_Bake_%28rechts%29%2C_StVO_1992.svg.png",
+      "id": 55
+    },
+    {
+      "title": "Sign 157-11 / 157-21Three-striped warning for railroad crossing - custom distance\n",
+      "img": "36px-Zeichen_157-11_-_dreistreifige_Bake_%28Aufstellung_rechts%29%2C_StVO_1992.svg.png",
+      "id": 56
+    },
+    {
+      "title": "Sign 159-10 / 159-20Two-striped warning for railroad crossing - 160 m distance\n",
+      "img": "36px-Zeichen_159-10_-_zweistreifige_Bake_%28Aufstellung_rechts%29%2C_StVO_1992.svg.png",
+      "id": 57
+    },
+    {
+      "title": "Sign 159-11 / 159-21Two-striped warning for railroad crossing - custom distance\n",
+      "img": "36px-Zeichen_159-11_-_zweistreifige_Bake_mit_Entfernungsangabe_%28Aufstellung_rechts%29%2C_StVO_1992.svg.png",
+      "id": 58
+    },
+    {
+      "title": "Sign 162-10 / 162-20One-striped warning for railroad crossing - 80 m distance\n",
+      "img": "36px-Zeichen_162-10_-_einstreifige_Bake_%28Aufstellung_rechts%29%2C_StVO_1992.svg.png",
+      "id": 59
+    },
+    {
+      "title": "Sign 162-11 / 162-21One-striped warning for railroad crossing - custom distance\n",
+      "img": "36px-Zeichen_162-11_-_einstreifige_Bake_mit_Entfernungsangabe_%28Aufstellung_rechts%29%2C_StVO_1992.svg.png",
+      "id": 60
+    }
+  ]
+}

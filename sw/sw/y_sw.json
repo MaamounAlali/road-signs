@@ -1,0 +1,24 @@
+{
+  "railway": [
+    {
+      "title": "Rött blinkande ljus (Y1)",
+      "desc": "Stopp. Trafikanter får inte passera stopplinjen eller, om sådan saknas, signalen. Ljussignalen består av två ljusöppningar på samma höjd som avger växelvis blinkande rött ljus och en skärm i form av en triangel med rundade hörn och med spetsen nedåt. Skärmen kan vara försedd med vit bård. Under de röda ljusöppningarna kan det finnas en cirkulär ljusöppning, från vilken det kan avges blinkande vitt ljus för att göra korsningen lättare att upptäcka.",
+      "imgs": "Y1-1.png"
+    },
+    {
+      "title": "Ljudsignal (Y2)",
+      "desc": "Stopp. Trafikanter får inte passera stopplinjen eller, om sådan saknas, signalen.",
+      "imgs": "Y2-1.png"
+    },
+    {
+      "title": "Bom (Y3)",
+      "desc": "Anordningens baksida får förses med texten ”Kör genom bommen”.",
+      "imgs": "Y3-1.png"
+    },
+    {
+      "title": "Plankorsnings­skärm (Y4)",
+      "desc": "Skärmen används för att göra en plankorsning lättare att upptäcka. Skärmen är anpassad till förhållandena på platsen och kan vara liggande.",
+      "imgs": "Y4-1.png"
+    }
+  ]
+}

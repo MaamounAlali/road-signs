@@ -1,0 +1,114 @@
+{
+  "informationalSigns": [
+    {
+      "title": "Park and Ride\n",
+      "img": "120px-Zeichen_316_-_Parken_und_Reisen%2C_StVO_1992.svg.png",
+      "id": 0
+    },
+    {
+      "title": "Park and ride\n",
+      "img": "120px-Zeichen_316-50_-_Parken_und_Mitfahren%2C_StVO_2017.svg.png",
+      "id": 1
+    },
+    {
+      "title": "Parking for hikers\n",
+      "img": "80px-Zeichen_317_-_Wandererparkplatz%2C_StVO_1992.svg.png",
+      "id": 2
+    },
+    {
+      "title": "Police station\n",
+      "img": "120px-Zeichen_363_-_Polizei%2C_StVO_1992.svg.png",
+      "id": 3
+    },
+    {
+      "title": "Telephone\n",
+      "img": "120px-Zeichen_365-50_-_Fernsprecher%2C_StVO_2013.svg.png",
+      "id": 4
+    },
+    {
+      "title": "Emergency telephone\n",
+      "img": "120px-Zeichen_365-51_-_Notrufs%C3%A4ule%2C_StVO_2006.svg.png",
+      "id": 5
+    },
+    {
+      "title": "Petrol station\n",
+      "img": "120px-Zeichen_365-52_-_Tankstelle%2C_StVO_2013.svg.png",
+      "id": 6
+    },
+    {
+      "title": "Petrol station with LPG\n",
+      "img": "120px-Zeichen_365-53_-_Autogastankstelle%2C_StVO_2006.svg.png",
+      "id": 7
+    },
+    {
+      "title": "Petrol station with CNG\n",
+      "img": "120px-Zeichen_365-54_-_Erdgastankstelle%2C_StVO_2006.svg.png",
+      "id": 8
+    },
+    {
+      "title": "Motorway hotel\n",
+      "img": "120px-Zeichen_365-55_-_Autobahnhotel%2C_StVO_2013.svg.png",
+      "id": 9
+    },
+    {
+      "title": "Road church\n",
+      "img": "120px-Zeichen_365-59_-_Autobahnkapelle%2C_StVO_2013.svg.png",
+      "id": 10
+    },
+    {
+      "title": "Information\n",
+      "img": "120px-Zeichen_365-61_-_Informationsstelle%2C_StVO_2013.svg.png",
+      "id": 11
+    },
+    {
+      "title": "Repairs\n",
+      "img": "120px-Zeichen_365-62_-_Pannenhilfe_%28600x600%29%2C_StVO_2013.svg.png",
+      "id": 12
+    },
+    {
+      "title": "Pedestrian underpass\n",
+      "img": "120px-Zeichen_365-63_-_Fu%C3%9Fg%C3%A4ngerunterf%C3%BChrung%2C_StVO_2013.svg.png",
+      "id": 13
+    },
+    {
+      "title": "Pedestrian overpass\n",
+      "img": "120px-Zeichen_365-64_-_Fu%C3%9Fg%C3%A4nger%C3%BCberf%C3%BChrung%2C_StVO_2013.svg.png",
+      "id": 14
+    },
+    {
+      "title": "Charging station for electric vehicles\n",
+      "img": "120px-Zeichen_365-65_-_Ladestation_f%C3%BCr_Elektrofahrzeuge%2C_StVO_2014.svg.png",
+      "id": 15
+    },
+    {
+      "title": "Hydrogen Station\n",
+      "img": "120px-Zeichen_365-66_-_Wasserstofftankstelle%2C_StVO_2014.svg.png",
+      "id": 16
+    },
+    {
+      "title": "Motor caravan campsite\n",
+      "img": "120px-Zeichen_365-67_-_Wohnmobilplatz%2C_StVO_2017.svg.png",
+      "id": 17
+    },
+    {
+      "title": "Campsite\n",
+      "img": "120px-Zeichen_365-68_-_Wohnmobil-_und_Wohnwagenplatz%2C_StVO_2017.svg.png",
+      "id": 18
+    },
+    {
+      "title": "Motorway restaurant\n",
+      "img": "120px-Zeichen_376_-_Autobahngasthaus_%28600x600%29%2C_StVO_1992.svg.png",
+      "id": 19
+    },
+    {
+      "title": "Motorway refreshments\n",
+      "img": "120px-Zeichen_377_-_Autobahnkiosk_%28600x600%29%2C_StVO_1992.svg.png",
+      "id": 20
+    },
+    {
+      "title": "Lavatory\n",
+      "img": "120px-Zeichen_378_-_Toilette_%28600x600%29%2C_StVO_1992.svg.png",
+      "id": 21
+    }
+  ]
+}

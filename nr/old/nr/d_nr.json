@@ -1,0 +1,64 @@
+{
+  "mandatory-signs": [
+    {
+      "title": "Påbjuden körriktning (D1)",
+      "desc": "Märket anger att fordon endast får föras i pilens eller, där två pilar finns, i endera pilens riktning. Symbolen är anpassad efter förhållandena på platsen.",
+      "imgs": "D1-1.png"
+    },
+    {
+      "title": "Påbjuden körbana (D2)",
+      "desc": "Märkena anger att fordon endast får föras förbi märket där pilen visar eller, där två pilar finns, där pilarna visar. Symbolen är anpassad efter förhållandena på platsen.",
+      "imgs": "D2-1.png"
+    },
+    {
+      "title": "Cirkulationsplats (D3)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "D3-1.png"
+    },
+    {
+      "title": "Påbjuden cykelbana (D4)",
+      "desc": "Om moped klass II inte får föras på banan anges det på en tilläggstavla.",
+      "imgs": "D4-1.png"
+    },
+    {
+      "title": "Påbjuden gångbana (D5)",
+      "desc": "Märket anger bana avsedd endast för gående.",
+      "imgs": "D5-1.png"
+    },
+    {
+      "title": "Påbjuden gång- och cykelbana (D6)",
+      "desc": "Märket anger gemensam bana för gående och cyklande. Om moped klass II inte får föras på banan anges det på en tilläggstavla.",
+      "imgs": "D6-1.png"
+    },
+    {
+      "title": "Påbjudna gång- och cykelbanor (D7)",
+      "desc": "Märket anger banor som är delade genom vägmarkering, skiljeremsa eller liknande i en del för gående och en del för cyklande. Symbolernas placering på märket anger vilken del av banan som är avsedd för gående respektive cyklande. Om moped klass II inte får föras på banan anges det på en tilläggstavla.",
+      "imgs": "D7-1.png"
+    },
+    {
+      "title": "Påbjuden ridväg (D8)",
+      "desc": "Märket anger även att gångtrafik är tillåten.",
+      "imgs": "D8-1.png"
+    },
+    {
+      "title": "Påbjuden led för terrängmotorfordon och terrängsläp (D9)",
+      "desc": "Märket anger även att gångtrafik är tillåten.",
+      "imgs": "D9-1.png"
+    },
+    {
+      "title": "Påbjudet körfält eller körbana för fordon i linjetrafik m.fl. (D10)",
+      "desc": "Märket anger även att fordon som anges i 8 kap. 2 § trafikförordningen (1998:1276) får använda körfältet eller körbanan, om inte annat anges på en tilläggstavla. Om andra fordon tillåts trafikera körfältet eller körbanan anges det på en tilläggstavla.",
+      "imgs": "D10-1.png"
+    },
+    {
+      "title": "Slut på påbjuden bana, körfält, väg eller led (D11)",
+      "desc": "Märket anger att påbjuden bana, körfält, väg eller led som märkts ut med något av märkena D4–D10 upphör. Märket behöver inte sättas upp om det ändå tydligt framgår att påbudet upphör. Andra symboler för trafikantgrupper eller fordonsslag kan vara infogade i märket. Den symbol som är infogad i märket är samma som på det märke som använts för att märka ut banan, körfältet, vägen eller leden.",
+      "imgs": "D11-1.png"
+    },
+    {
+      "title": "Påbjuden körriktning för fordon lastat med farligt gods (D12)",
+      "desc": "Märket anger påbjuden körriktning för trafik med fordon med sådan last som omfattas av krav på märkning med orangefärgad skylt enligt föreskrifter som har meddelats med stöd av lagen (2006:263) om transport av farligt gods. Bokstaven på märket anger att påbudet endast avser sådana fordon som inte får framföras i en vägtunnel som tillhör den tunnelkategori som motsvarar bokstaven.",
+      "imgs": "D12-1.png"
+    }
+  ]
+}

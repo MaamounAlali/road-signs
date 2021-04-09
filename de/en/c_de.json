@@ -1,0 +1,179 @@
+{
+  "regulatorySigns": [
+    {
+      "title": "Sign 201-50 / 201-52Crossbuck. Yield the right-of-way to railborne vehicles\n",
+      "img": "79px-Germany_Railroad_Crossbuck.png",
+      "id": 61
+    },
+    {
+      "title": "Sign 201-51 / 201-53Crossbuck with lightning rod. Yield the right-of-way to railborne vehicles; the tracks possess overhead electrical wires\n",
+      "img": "80px-Bild_-_Andreaskreuz_stehend_mit_Blitzpfeil.svg.png",
+      "id": 62
+    },
+    {
+      "title": "Sign 205Yield the right-of-way\n",
+      "img": "120px-Zeichen_205_-_Vorfahrt_gew%C3%A4hren%21_StVO_1970.svg.png",
+      "id": 63
+    },
+    {
+      "title": "Sign 206Stop. Yield the right-of-way.\n",
+      "img": "120px-Zeichen_206_-_Halt%21_Vorfahrt_gew%C3%A4hren%21_StVO_1970.svg.png",
+      "id": 64
+    },
+    {
+      "title": "Sign 208Oncoming traffic has the right-of-way\n",
+      "img": "120px-Zeichen_208_-_Dem_Gegenverkehr_Vorrang_gew%C3%A4hren%21_600x600%2C_StVO_1992.svg.png",
+      "id": 65
+    },
+    {
+      "title": "Sign 209Right ahead\n",
+      "img": "120px-Zeichen_209_-_Vorgeschriebene_Fahrtrichtung%2C_rechts%2C_StVO_2017.svg.png",
+      "id": 66
+    },
+    {
+      "title": "Sign 209-10Left ahead\n",
+      "img": "120px-Zeichen_209-10_-_Vorgeschriebene_Fahrtrichtung%2C_links%2C_StVO_2017.svg.png",
+      "id": 67
+    },
+    {
+      "title": "Sign 209-30Straight ahead\n",
+      "img": "120px-Zeichen_209-30_-_Vorgeschriebene_Fahrtrichtung%2C_Geradeaus%2C_StVO_2017.svg.png",
+      "id": 68
+    },
+    {
+      "title": "Sign 211Right here\n",
+      "img": "120px-Zeichen_211_-_Vorgeschriebene_Fahrtrichtung%2C_hier_rechts%2C_StVO_2017.svg.png",
+      "id": 69
+    },
+    {
+      "title": "Sign 211-10Left here\n",
+      "img": "120px-Zeichen_211-10_-_vorgeschriebene_Fahrtrichtung_%E2%80%93_hier_links_%28k%C3%BCnftig_209-11%29%2C_StVO_1992.svg.png",
+      "id": 70
+    },
+    {
+      "title": "Sign 214Straight ahead or right ahead\n",
+      "img": "120px-Zeichen_214_-_Vorgeschriebene_Fahrtrichtung%2C_Geradeaus_oder_rechts%2C_StVO_2017.svg.png",
+      "id": 71
+    },
+    {
+      "title": "Sign 214-10Straight ahead or left ahead\n",
+      "img": "120px-Zeichen_214-10_-_Vorgeschriebene_Fahrtrichtung%2C_Geradeaus_oder_links%2C_StVO_2017.svg.png",
+      "id": 72
+    },
+    {
+      "title": "Sign 214-30Left ahead or right ahead\n",
+      "img": "120px-Zeichen_214-30_-_Vorgeschriebene_Fahrtrichtung%2C_Rechts_oder_links%2C_StVO_2017.svg.png",
+      "id": 73
+    },
+    {
+      "title": "Sign 215Roundabout\n",
+      "img": "120px-Zeichen_215_-_Kreisverkehr%2C_StVO_2000.svg.png",
+      "id": 74
+    },
+    {
+      "title": "Sign 220-10 / 220-20One-way street\n",
+      "img": "120px-Zeichen_220-10_-_Einbahnstra%C3%9Fe%2C_linksweisend%2C_StVO_2017.svg.png",
+      "id": 75
+    },
+    {
+      "title": "Sign 222Pass on the right\n",
+      "img": "120px-Zeichen_222_-_Vorgeschriebene_Vorbeifahrt%2C_Rechts_vorbei%2C_StVO_2017.svg.png",
+      "id": 76
+    },
+    {
+      "title": "Sign 222-10Pass on the left\n",
+      "img": "120px-Zeichen_222-10_-_Vorgeschriebene_Vorbeifahrt%2C_Links_vorbei%2C_StVO_2017.svg.png",
+      "id": 77
+    },
+    {
+      "title": "Sign 223.1-50 - 223.1-52Drive on the shoulder\n",
+      "img": "120px-Zeichen_223.1-50_-_Seitenstreifen_befahren%2C_2_Fahrstreifen_u._Seitenstreifen%2C_StVO_2017.svg.png",
+      "id": 78
+    },
+    {
+      "title": "Sign 223.2-50 - 223.2-52No longer drive on the shoulder\n",
+      "img": "120px-Zeichen_223.2-50_-_Seitenstreifen_nicht_mehr_befahren%2C_2_Fahrstreifen_u._Seitenstreifen%2C_StVO_2017.svg.png",
+      "id": 79
+    },
+    {
+      "title": "Sign 223.3-50 - 223.3-52Vacate the shoulder\n",
+      "img": "120px-Zeichen_223.3-50_-_Seitenstreifen_r%C3%A4umen%2C_2_Fahrstreifen_u._Seitenstreifen%2C_StVO_2017.svg.png",
+      "id": 80
+    },
+    {
+      "title": "Sign 224Bus stop\n",
+      "img": "120px-Zeichen_224_-_Haltestelle%2C_StVO_2017.svg.png",
+      "id": 81
+    },
+    {
+      "title": "Sign 224-51Bus stop for school buses during designated times\n",
+      "img": "80px-Zeichen_224-51_-_Schulbushaltestelle_%28mit_Zusatzzeichen_1042-36%29%2C_StVO_2017.svg.png",
+      "id": 82
+    },
+    {
+      "title": "Sign 229 - 229-31Taxi stand\n",
+      "img": "80px-Zeichen_229_-_Taxenstand%2C_StVO_1994.svg.png",
+      "id": 83
+    },
+    {
+      "title": "Sign 237Bicycle path\n",
+      "img": "120px-Zeichen_237_-_Sonderweg_Radfahrer%2C_StVO_1992.svg.png",
+      "id": 84
+    },
+    {
+      "title": "Sign 238Equestrian path\n",
+      "img": "120px-Zeichen_238_-_Sonderweg_Reiter%2C_StVO_1992.svg.png",
+      "id": 85
+    },
+    {
+      "title": "Sign 239Sidewalk\n",
+      "img": "120px-Zeichen_239_-_Sonderweg_Fu%C3%9Fg%C3%A4nger%2C_StVO_1992.svg.png",
+      "id": 86
+    },
+    {
+      "title": "Sign 240Combined pedestrian and bicycle path\n",
+      "img": "120px-Zeichen_240_-_Gemeinsamer_Fu%C3%9F-_und_Radweg%2C_StVO_1992.svg.png",
+      "id": 87
+    },
+    {
+      "title": "Sign 241-30 / 241-31Separated pedestrian and bicycle path\n",
+      "img": "120px-Zeichen_241-30_-_getrennter_Rad-_und_Fu%C3%9Fweg%2C_StVO_1992.svg.png",
+      "id": 88
+    },
+    {
+      "title": "Sign 242.1Begin of a pedestrian zone\n",
+      "img": "120px-Zeichen_242.1_-_Beginn_einer_Fu%C3%9Fg%C3%A4ngerzone%2C_StVO_2009.svg.png",
+      "id": 89
+    },
+    {
+      "title": "Sign 242.2End of a pedestrian zone\n",
+      "img": "120px-Zeichen_242.2_-_Ende_einer_Fu%C3%9Fg%C3%A4ngerzone%2C_StVO_2009.svg.png",
+      "id": 90
+    },
+    {
+      "title": "Sign 244.1Begin of a bicycle street\n",
+      "img": "120px-Zeichen_244.1_-_Beginn_einer_Fahrradstra%C3%9Fe%2C_StVO_2013.svg.png",
+      "id": 91
+    },
+    {
+      "title": "Sign 244.2End of a bicycle street\n",
+      "img": "120px-Zeichen_244.2_-_Ende_einer_Fahrradstra%C3%9Fe%2C_StVO_2013.svg.png",
+      "id": 92
+    },
+    {
+      "title": "Sign 244.3Begin of a bicycle zone\n",
+      "img": "120px-Zeichen_244.3_-_Beginn_einer_Fahrradzone%2C_StVO_2020.svg.png",
+      "id": 93
+    },
+    {
+      "title": "Sign 244.4End of a bicycle zone\n",
+      "img": "120px-Zeichen_244.4_-_Ende_einer_Fahrradzone%2C_StVO_2020.svg.png",
+      "id": 94
+    },
+    {
+      "title": "Sign 245Bus lane\n",
+      "img": "120px-Zeichen_245_-_Bussonderfahrstreifen%2C_StVO_2013.svg.png",
+      "id": 95
+    }
+  ]
+}

@@ -1,0 +1,1386 @@
+{
+  "graphs": [
+    {
+      "values": [
+        {
+          "title": "Dangerous curve",
+          "desc": "Right.",
+          "id": 0
+        },
+        {
+          "title": "Dangerous curve",
+          "desc": "Left.",
+          "id": 1
+        },
+        {
+          "title": "Dangerous curves",
+          "desc": "First to the right.",
+          "id": 2
+        },
+        {
+          "title": "Dangerous curves",
+          "desc": "First to the left.",
+          "id": 3
+        },
+        {
+          "title": "Steep hill",
+          "desc": "Upwards.",
+          "id": 4
+        },
+        {
+          "title": "Steep hill",
+          "desc": "Downwards.",
+          "id": 5
+        },
+        {
+          "title": "Road narrows",
+          "desc": "On both sides.",
+          "id": 6
+        },
+        {
+          "title": "Road narrows",
+          "desc": "On right side.",
+          "id": 7
+        },
+        {
+          "title": "Road narrows",
+          "desc": "On left side.",
+          "id": 8
+        },
+        {
+          "title": "Uneven road",
+          "desc": "Warns that rocks, soil or snow may slide onto the road, but also that chunks may be present from previous landslides.",
+          "id": 9
+        },
+        {
+          "title": "Speed bump",
+          "desc": "Road is known to be especially slippery under special conditions, like rainfall.",
+          "id": 10
+        },
+        {
+          "title": "Road works",
+          "desc": "Warns about dangerous crossroads which have normal rules for traffic priority.",
+          "id": 11
+        },
+        {
+          "title": "Loose chippings",
+          "desc": "These signs may be used to represent the distance to a level crossing in three equal parts. Closest to the crossing.",
+          "id": 12
+        },
+        {
+          "title": "Landslides",
+          "desc": "Between other countdown markers.",
+          "id": 13
+        },
+        {
+          "title": "Landslides",
+          "desc": "Furthest from the crossing.",
+          "id": 14
+        },
+        {
+          "title": "Slippery road",
+          "desc": "Single track: Placed at the crossing.",
+          "id": 15
+        },
+        {
+          "title": "Dangerous shoulder",
+          "desc": "Multiple tracks: Placed at the crossing.",
+          "id": 16
+        },
+        {
+          "title": "Opening or swing bridge",
+          "desc": "Distance represented with supplementary sign",
+          "id": 17
+        },
+        {
+          "title": "Quayside or river bank",
+          "desc": "Warns that children often traverse or walk on the roads due to a nearby school, child-care center, playground or similar.",
+          "id": 18
+        },
+        {
+          "title": "Tunnel",
+          "desc": "Warns that cyclists often traverse or travel on the roads.",
+          "id": 19
+        },
+        {
+          "title": "Crossroads",
+          "desc": "Warns that moose often traverse or travel on the roads.",
+          "id": 20
+        },
+        {
+          "title": "Roundabout",
+          "desc": "Warns that reindeer often traverse or travel on the roads.",
+          "id": 21
+        },
+        {
+          "title": "Traffic signals",
+          "desc": "Warns that deer often traverse or travel on the roads.",
+          "id": 22
+        },
+        {
+          "title": "Level crossing with a gate or barrier",
+          "desc": "Warns that cattle often traverse or travel on the roads.",
+          "id": 23
+        },
+        {
+          "title": "Level crossing without a gate or barrier",
+          "desc": "Warns that sheep often traverse or travel on the roads.",
+          "id": 24
+        },
+        {
+          "title": "Countdown marker",
+          "desc": "Warning of two-way traffic on the road ahead",
+          "id": 25
+        },
+        {
+          "title": "Countdown marker",
+          "desc": "Warns that skiers often traverse or travel on the roads.",
+          "id": 26
+        },
+        {
+          "title": "Countdown marker",
+          "desc": "Warns that riders often traverse or travel on the roads.",
+          "id": 27
+        },
+        {
+          "title": "Level crossing",
+          "desc": "Details are written on a supplementary sign.",
+          "id": 28
+        },
+        {
+          "title": "Level crossing",
+          "desc": "(1) Warns that polar bears may be present.(2) Warns that people on snowmobiles may traverse the roads.",
+          "id": 29
+        },
+        {
+          "title": "Tramway",
+          "desc": "It is mandatory to stop completely at the stop line, or if not available, as close to the crossing road or railway track as possible, before continuing. Vehicles must also give way to other traffic, or trains.",
+          "id": 30
+        },
+        {
+          "title": "Distance to pedestrian crossing",
+          "desc": "Priority at all following crossroads up to an end of priority road, give way or stop sign.",
+          "id": 31
+        },
+        {
+          "title": "Children",
+          "desc": "Warns about dangerous crossroads where the road this sign is placed on has priority. Crossing roads have give way or stop signs.",
+          "id": 32
+        },
+        {
+          "title": "Cyclist",
+          "desc": "Restriction is for motor vehicles with more than two wheels and an allowed total weight limit above the given weight limit.",
+          "id": 33
+        },
+        {
+          "title": "Moose",
+          "desc": "Restriction is for a vehicle including all of its goods.",
+          "id": 34
+        },
+        {
+          "title": "Reindeer",
+          "desc": "Restriction is for a vehicle including all of its goods.",
+          "id": 35
+        },
+        {
+          "title": "Deer",
+          "desc": "Restriction is for a vehicle including all of its goods.",
+          "id": 36
+        },
+        {
+          "title": "Cattle",
+          "desc": "Restriction is for each vehicle in the case of a lorry.",
+          "id": 37
+        },
+        {
+          "title": "Sheep",
+          "desc": "Restriction is for the combined weight in the case of a lorry, though no single vehicle is permitted above the limit either.",
+          "id": 38
+        },
+        {
+          "title": "Two-way traffic",
+          "desc": "No vehicle with weight above the given limit for each axle, and maximum 150% of the limit for each bogie.",
+          "id": 39
+        },
+        {
+          "title": "Traffic queues likely",
+          "desc": "Vehicle is not permitted to continue until the action described is done.",
+          "id": 40
+        },
+        {
+          "title": "Low-flying aircraft",
+          "desc": "Vehicle is not permitted to continue until the action described is done.",
+          "id": 41
+        },
+        {
+          "title": "Military activity",
+          "desc": "Vehicle is not permitted to continue until the action described is done.",
+          "id": 42
+        },
+        {
+          "title": "Crosswinds",
+          "desc": "For the next intersection unless otherwise stated with a supplementary sign.",
+          "id": 43
+        },
+        {
+          "title": "Traffic accident",
+          "desc": "For the next intersection unless otherwise stated with a supplementary sign.",
+          "id": 44
+        },
+        {
+          "title": "Skiers",
+          "desc": "Until and including the next crossroads.",
+          "id": 45
+        },
+        {
+          "title": "Riders",
+          "desc": "Restriction is for overtaking motor vehicles with more than two wheels. Overtaking on the right side is permitted by normal traffic rules.",
+          "id": 46
+        },
+        {
+          "title": "Other danger",
+          "desc": "Restriction is for lorries with a total weight above 3.500 kg overtaking motor vehicles with more than two wheels. Overtaking on the right side is permitted by normal traffic rules.",
+          "id": 47
+        },
+        {
+          "title": "(1) Polar bear",
+          "desc": "Speed limit of given km/h until new speed limit, end of special speed limit, speed limit zone or any pedestrian precinct sign",
+          "id": 48
+        },
+        {
+          "title": "(2) Snowmobiles",
+          "desc": "This means a general speed limit of 50 km/h in populated areas and 80 km/h in rural areas by law.",
+          "id": 49
+        },
+        {
+          "title": "Yield (Give way)",
+          "desc": "Speed limit of given km/h until end of speed limit, end of speed limit zone or any pedestrian precinct sign",
+          "id": 50
+        },
+        {
+          "title": "Stop",
+          "desc": "No stops until the next crossing road or until another sign ends it.",
+          "id": 51
+        },
+        {
+          "title": "Priority road",
+          "desc": "No parking on the side of the road where the sign is until the next crossing road or until another sign ends it.",
+          "id": 52
+        },
+        {
+          "title": "End of priority road",
+          "desc": "Parking permitted until end of parking zone sign. Often with supplementary text about when the sign is valid.",
+          "id": 53
+        },
+        {
+          "title": "Priority crossroads",
+          "desc": "No parking permitted until end of parking zone sign. Often with supplementary text about when the sign is valid.",
+          "id": 54
+        },
+        {
+          "title": "Give way for oncoming traffic",
+          "desc": "Speed limit is 80 km/h unless another limit is set, which it normally is. 110 km/h is the highest limit found, and is set on the highest standard motorways. Lower limits may be set on lower standard or busier roads.",
+          "id": 55
+        },
+        {
+          "title": "Priority over oncoming traffic",
+          "desc": "Speed limit is 80 km/h unless another limit is specifically set. Some are signposted to 90 km/h.",
+          "id": 56
+        },
+        {
+          "title": "No entry",
+          "desc": "Only vehicles with allowed total weight higher than indicated can use this lane.",
+          "id": 57
+        },
+        {
+          "title": "Road closed to all traffic",
+          "desc": "Only vehicles with more than indicated occupants including driver can use this lane. Buses and taxis, regardless of how many occupants can also use this lane.[b]",
+          "id": 58
+        },
+        {
+          "title": "No motor vehicles",
+          "desc": "(\"Møteplass\" in Norwegian.) Used frequently on long stretches of single-track roads. Parking forbidden.",
+          "id": 59
+        },
+        {
+          "title": "No tractors or motor vehicles slower than 40 km/h",
+          "desc": "Road physically closed",
+          "id": 60
+        },
+        {
+          "title": "No motor cycles or mopeds",
+          "desc": "Side-road physically closed",
+          "id": 61
+        },
+        {
+          "title": "No lorries",
+          "desc": "Road closed for vehicles",
+          "id": 62
+        },
+        {
+          "title": "No cyclists",
+          "desc": "Side-road closed for vehicles",
+          "id": 63
+        },
+        {
+          "title": "No pedestrians",
+          "desc": "Merging by the “zipper method”.",
+          "id": 64
+        },
+        {
+          "title": "No pedestrians or cyclists",
+          "desc": "Oncoming lane has to adapt. Merging by the “zipper method”.",
+          "id": 65
+        },
+        {
+          "title": "No riders",
+          "desc": "This lane has to adapt. Merging by the “zipper method”.",
+          "id": 66
+        },
+        {
+          "title": "No transport of dangerous goods",
+          "desc": "The ending lane has to give way.",
+          "id": 67
+        },
+        {
+          "title": "Total weight limit",
+          "desc": "Denotes the number of lanes and what direction they go.",
+          "id": 68
+        },
+        {
+          "title": "Width limit",
+          "desc": "May be used in conjunction with road works.",
+          "id": 69
+        },
+        {
+          "title": "Height limit",
+          "desc": "The speed limit is \"walking speed.\"",
+          "id": 70
+        },
+        {
+          "title": "Length limit",
+          "desc": "Motor vehicles are normally prohibited in pedestrian zone. If exemption is granted by a supplementary sign, the speed limit is \"walking speed.\"",
+          "id": 71
+        },
+        {
+          "title": "Weight limit for vehicles",
+          "desc": "To be used only in case of vehicle breakdown or other emergency.",
+          "id": 72
+        },
+        {
+          "title": "Weight limit for lorries",
+          "desc": "A flashing yellow indicator is also placed at the end of speed measurement zone. This will flash if the vehicle's measured average speed exceeded the speed limit.",
+          "id": 73
+        },
+        {
+          "title": "Axle weight limit",
+          "desc": "Alternative: 1Sign 560 may provide information about miscellaneous traffic conditions. May have a brown background if the information is specifically aimed at tourists. Must have a yellow background if it's a temporary sign, or an orange background if it provides information about detours.",
+          "id": 74
+        },
+        {
+          "title": "Bogie weight limit",
+          "desc": "Information board posted on border crossings on Norwegian national roads, Norwegian county roads and ferry terminals.",
+          "id": 75
+        },
+        {
+          "title": "Stop for control",
+          "desc": "On motorways and motor traffic roads",
+          "id": 76
+        },
+        {
+          "title": "Stop for tax",
+          "desc": "For tunnels.",
+          "id": 77
+        },
+        {
+          "title": "Stop for customs",
+          "desc": "For tunnels.",
+          "id": 78
+        },
+        {
+          "title": "No right turn",
+          "desc": " DAB digital radio relays special traffic announcement messages.",
+          "id": 79
+        },
+        {
+          "title": "No left turn",
+          "desc": "Text vary. LPG is replaced by fuel type e.g. CNG.",
+          "id": 80
+        },
+        {
+          "title": "No U-turn",
+          "desc": "For caravans, buses, etc.",
+          "id": 81
+        },
+        {
+          "title": "No overtaking",
+          "desc": "Symbol may be replaced by a representation of the attraction.",
+          "id": 82
+        },
+        {
+          "title": "No overtaking for lorries",
+          "desc": "Shows number of lanes towards an intersection, and which directions or destinations each of them are intended for.",
+          "id": 83
+        },
+        {
+          "title": "End of no overtaking",
+          "desc": "Used on portals. Shows which directions or destinations a lane is intended for.",
+          "id": 84
+        },
+        {
+          "title": "End of no overtaking for lorries",
+          "desc": "Alternative: 1",
+          "id": 85
+        },
+        {
+          "title": "Speed limit",
+          "desc": "Shows which destination a lane is intended for.",
+          "id": 86
+        },
+        {
+          "title": "End of special speed limit",
+          "desc": "Used on portals. Shows which destination a lane is intended for.",
+          "id": 87
+        },
+        {
+          "title": "Speed limit zone",
+          "desc": "Signifies a route that leads to the given route.",
+          "id": 88
+        },
+        {
+          "title": "End of speed limit zone",
+          "desc": "Signifies a route that leads to the given route.",
+          "id": 89
+        },
+        {
+          "title": "No stopping",
+          "desc": "Signifies a route that leads to the given route.",
+          "id": 90
+        },
+        {
+          "title": "No parking",
+          "desc": "Signifies a route that leads to the given ring road.",
+          "id": 91
+        },
+        {
+          "title": "Parking zone",
+          "desc": "Symbol may be used on service signs.",
+          "id": 92
+        },
+        {
+          "title": "No parking zone",
+          "desc": "Signifies a detour where use of road names is not viable. One symbol is used for the entire route, so that different symbols may be used in the event of multiple routes. The line is generally used.",
+          "id": 93
+        },
+        {
+          "title": "End of parking zone",
+          "desc": "Generally only used under special circumstances, as some countries use this symbol on detours for vehicles with dangerous goods.",
+          "id": 94
+        },
+        {
+          "title": "End of no parking zone",
+          "desc": "Different arrows may be used to show the right direction.",
+          "id": 95
+        },
+        {
+          "title": "Proceed right",
+          "desc": "Blue for motorways with multiple lanes. Intended solely for orientation.",
+          "id": 96
+        },
+        {
+          "title": "Proceed left",
+          "desc": "Yellow for general roads with multiple lanes.",
+          "id": 97
+        },
+        {
+          "title": "Proceed straight",
+          "desc": "Yellow for general roads with a single lane.",
+          "id": 98
+        },
+        {
+          "title": "Turn right",
+          "desc": "Shows distance in km to given destination, crossroads or exit.",
+          "id": 99
+        },
+        {
+          "title": "Turn left",
+          "desc": "City/urban area",
+          "id": 100
+        },
+        {
+          "title": "Drive straight or turn right",
+          "desc": "Administrative border",
+          "id": 101
+        },
+        {
+          "title": "Drive straight or turn left",
+          "desc": "Place name of significance to orientation.",
+          "id": 102
+        },
+        {
+          "title": "Turn right or left",
+          "desc": "Country border. Bilingual Bokmål and Sami in Troms og Finnmark, bilingual Bokmål and Nynorsk in other counties.",
+          "id": 103
+        },
+        {
+          "title": "Pass on right",
+          "desc": "Placed at the entrance to the tunnel. The length is also written on the sign.",
+          "id": 104
+        },
+        {
+          "title": "Pass on left",
+          "desc": "Shows destinations that may be reached through the same road at the next crossroads or exit.",
+          "id": 105
+        },
+        {
+          "title": "Roundabout",
+          "desc": "Steep hill ahead. Tire chains are required for trucks over 3,5 tonnes during severe winter conditions.",
+          "id": 106
+        },
+        {
+          "title": "Mandatory direction in roundabout",
+          "desc": "No stopping required.",
+          "id": 107
+        },
+        {
+          "title": "Motorway",
+          "desc": "Advance warning about where the main sign goes into effect, or where a corresponding sign is set up.",
+          "id": 108
+        },
+        {
+          "title": "Motor traffic road",
+          "desc": "Main sign is in effect for the given distance.",
+          "id": 109
+        },
+        {
+          "title": "End of motorway",
+          "desc": "Main sign is only in effect between given times. Black numbers in parenthesis apply on Saturdays, and red numbers apply on Sundays and official holidays.",
+          "id": 110
+        },
+        {
+          "title": "End of motor traffic road",
+          "desc": "Main sign applies to this type of vehicle.",
+          "id": 111
+        },
+        {
+          "title": "Heavy traffic lane",
+          "desc": "Requires a visible parking permit for handicapped drivers.",
+          "id": 112
+        },
+        {
+          "title": "End of heavy traffic lane",
+          "desc": "Used when there are no symbols that represent the regulation or information. Depicted sign is common and says: “Does not apply to buses and taxis”.",
+          "id": 113
+        },
+        {
+          "title": "Bus lane",
+          "desc": "Arrows vary. Main sign applies after the turn.",
+          "id": 114
+        },
+        {
+          "title": "Bus and taxi lane",
+          "desc": "Symbol varies.",
+          "id": 115
+        },
+        {
+          "title": "Car-pool lane",
+          "desc": "Symbol varies. Priority road is represented by the thick line. Roads represented by thin lines have give way or stop signs for the priority road.",
+          "id": 116
+        },
+        {
+          "title": "End of bus lane",
+          "desc": "Indicates that parking is only allowed by given regulations when a valid parking ticket or disc is placed highly visible inside the windshield.",
+          "id": 117
+        },
+        {
+          "title": "End of bus and taxi lane",
+          "desc": "In this example, the times written only applies for cars.",
+          "id": 118
+        },
+        {
+          "title": "End of car-pool lane",
+          "desc": "Used on long or dangerous bends.",
+          "id": 119
+        },
+        {
+          "title": "Bus stop",
+          "desc": "Used on long or dangerous bends.",
+          "id": 120
+        },
+        {
+          "title": "Tram stop",
+          "desc": "Keep left of the sign.",
+          "id": 121
+        },
+        {
+          "title": "Taxi stop",
+          "desc": "Keep right of the sign.",
+          "id": 122
+        },
+        {
+          "title": "Pedestrian crossing",
+          "desc": "Pass on either side.",
+          "id": 123
+        },
+        {
+          "title": "Pedestrian crossing",
+          "desc": "Used mainly on high-speed roads.",
+          "id": 124
+        },
+        {
+          "title": "Pedestrian way",
+          "desc": "Indicates the distance to each exit.",
+          "id": 125
+        },
+        {
+          "title": "Cycle track",
+          "id": 126
+        },
+        {
+          "title": "Cycle lane (Edge)",
+          "id": 127
+        },
+        {
+          "title": "Cycle lane (Centered)",
+          "id": 128
+        },
+        {
+          "title": "Shared-use footway",
+          "id": 129
+        },
+        {
+          "title": "Passing place",
+          "id": 130
+        },
+        {
+          "title": "One-way",
+          "id": 131
+        },
+        {
+          "title": "One-way",
+          "id": 132
+        },
+        {
+          "title": "Dead end",
+          "id": 133
+        },
+        {
+          "title": "Dead end",
+          "id": 134
+        },
+        {
+          "title": "Dead end",
+          "id": 135
+        },
+        {
+          "title": "Dead end",
+          "id": 136
+        },
+        {
+          "title": "Free choice of lane",
+          "id": 137
+        },
+        {
+          "title": "Merging lanes",
+          "id": 138
+        },
+        {
+          "title": "Merging roads with speed regulation lane",
+          "id": 139
+        },
+        {
+          "title": "Merging roads with speed regulation lane",
+          "id": 140
+        },
+        {
+          "title": "End of lane",
+          "id": 141
+        },
+        {
+          "title": "New lane starts",
+          "id": 142
+        },
+        {
+          "title": "Added lane with oncoming traffic",
+          "id": 143
+        },
+        {
+          "title": "Lane division",
+          "id": 144
+        },
+        {
+          "title": "Changed driving pattern",
+          "id": 145
+        },
+        {
+          "title": "Living street",
+          "id": 146
+        },
+        {
+          "title": "End of living street",
+          "id": 147
+        },
+        {
+          "title": "Pedestrian zone",
+          "id": 148
+        },
+        {
+          "title": "End of pedestrian zone",
+          "id": 149
+        },
+        {
+          "title": "Parking",
+          "id": 150
+        },
+        {
+          "title": "Emergency layby",
+          "id": 151
+        },
+        {
+          "title": "Speed limit enforced by automatic camera",
+          "id": 152
+        },
+        {
+          "title": "Speed limit enforced by automatic camera - average speed measurement",
+          "id": 153
+        },
+        {
+          "title": "Video surveillance",
+          "id": 154
+        },
+        {
+          "title": "Information board",
+          "id": 155
+        },
+        {
+          "title": "General speed limits",
+          "id": 156
+        },
+        {
+          "title": "Pedestrians and cyclist prohibited",
+          "id": 157
+        },
+        {
+          "title": "Speed measuring",
+          "id": 158
+        },
+        {
+          "title": "Wrong way",
+          "id": 159
+        },
+        {
+          "title": "Emergency exit",
+          "id": 160
+        },
+        {
+          "title": "Direction and distance to emergency exit",
+          "id": 161
+        },
+        {
+          "title": "Radio channel",
+          "id": 162
+        },
+        {
+          "title": "First aid",
+          "id": 163
+        },
+        {
+          "title": "Emergency phone",
+          "id": 164
+        },
+        {
+          "title": "Fire extinguisher",
+          "id": 165
+        },
+        {
+          "title": "Automobile repair shop",
+          "id": 166
+        },
+        {
+          "title": "Electric vehicle fast charging station",
+          "id": 167
+        },
+        {
+          "title": "Petrol station",
+          "id": 168
+        },
+        {
+          "title": "Fuel",
+          "id": 169
+        },
+        {
+          "title": "Toilet emptying facility",
+          "id": 170
+        },
+        {
+          "title": "Toilet",
+          "id": 171
+        },
+        {
+          "title": "Rest stop",
+          "id": 172
+        },
+        {
+          "title": "Rest stop with toilet",
+          "id": 173
+        },
+        {
+          "title": "Simple dining",
+          "id": 174
+        },
+        {
+          "title": "Dining",
+          "id": 175
+        },
+        {
+          "title": "Camp site",
+          "id": 176
+        },
+        {
+          "title": "Caravan park",
+          "id": 177
+        },
+        {
+          "title": "Camping park",
+          "id": 178
+        },
+        {
+          "title": "Hostel",
+          "id": 179
+        },
+        {
+          "title": "Bed & Breakfast",
+          "id": 180
+        },
+        {
+          "title": "Hotel",
+          "id": 181
+        },
+        {
+          "title": "Information",
+          "id": 182
+        },
+        {
+          "title": "Tourist information office",
+          "id": 183
+        },
+        {
+          "title": "Attraction",
+          "id": 184
+        },
+        {
+          "title": "Museum or Art gallery",
+          "id": 185
+        },
+        {
+          "title": "Viewpoint",
+          "id": 186
+        },
+        {
+          "title": "Protected natural area",
+          "id": 187
+        },
+        {
+          "title": "World heritage",
+          "id": 188
+        },
+        {
+          "title": "National fortifications",
+          "id": 189
+        },
+        {
+          "title": "Activities, outdoor recreation, etc.",
+          "id": 190
+        },
+        {
+          "title": "Fishing area",
+          "id": 191
+        },
+        {
+          "title": "Hiking trail",
+          "id": 192
+        },
+        {
+          "title": "Ski trail",
+          "id": 193
+        },
+        {
+          "title": "Bicycle trail",
+          "id": 194
+        },
+        {
+          "title": "Traditional food and rural tourism",
+          "id": 195
+        },
+        {
+          "title": "Olavsrosa",
+          "id": 196
+        },
+        {
+          "title": "Orientation board",
+          "id": 197
+        },
+        {
+          "title": "Diagram orientation board",
+          "id": 198
+        },
+        {
+          "title": "Exit board",
+          "id": 199
+        },
+        {
+          "title": "Lane orientation board",
+          "id": 200
+        },
+        {
+          "title": "Portal orientation board",
+          "id": 201
+        },
+        {
+          "title": "Board guide",
+          "id": 202
+        },
+        {
+          "title": "Regular destination guide",
+          "id": 203
+        },
+        {
+          "title": "Exit guide",
+          "id": 204
+        },
+        {
+          "title": "Lane guide",
+          "id": 205
+        },
+        {
+          "title": "Portal guide",
+          "id": 206
+        },
+        {
+          "title": "European route",
+          "id": 207
+        },
+        {
+          "title": "European route",
+          "id": 208
+        },
+        {
+          "title": "Trunk road",
+          "id": 209
+        },
+        {
+          "title": "Trunk road",
+          "id": 210
+        },
+        {
+          "title": "Numbered province road",
+          "id": 211
+        },
+        {
+          "title": "Numbered province road",
+          "id": 212
+        },
+        {
+          "title": "Ring road",
+          "id": 213
+        },
+        {
+          "title": "Ring road",
+          "id": 214
+        },
+        {
+          "title": "National tourist road",
+          "id": 215
+        },
+        {
+          "title": "Detour for large vehicles",
+          "id": 216
+        },
+        {
+          "title": "Route for vehicles with dangerous goods",
+          "id": 217
+        },
+        {
+          "title": "Miscellaneous detour",
+          "id": 218
+        },
+        {
+          "title": "Miscellaneous detour",
+          "id": 219
+        },
+        {
+          "title": "Miscellaneous detour",
+          "id": 220
+        },
+        {
+          "title": "Miscellaneous detour",
+          "id": 221
+        },
+        {
+          "title": "Miscellaneous detour",
+          "id": 222
+        },
+        {
+          "title": "Miscellaneous detour",
+          "id": 223
+        },
+        {
+          "title": "Intersection number",
+          "id": 224
+        },
+        {
+          "title": "Intersection number",
+          "id": 225
+        },
+        {
+          "title": "Intersection number",
+          "id": 226
+        },
+        {
+          "title": "Distance board",
+          "id": 227
+        },
+        {
+          "title": "Region name sign",
+          "id": 228
+        },
+        {
+          "title": "Region name sign",
+          "id": 229
+        },
+        {
+          "title": "Region name sign",
+          "id": 230
+        },
+        {
+          "title": "Region name sign",
+          "id": 231
+        },
+        {
+          "title": "Tunnel name sign",
+          "id": 232
+        },
+        {
+          "title": "Street sign",
+          "id": 233
+        },
+        {
+          "title": "Collective guide sign",
+          "id": 234
+        },
+        {
+          "title": "Detour for certain vehicles",
+          "id": 235
+        },
+        {
+          "title": "Temporary detour",
+          "id": 236
+        },
+        {
+          "title": "Temporary detour",
+          "id": 237
+        },
+        {
+          "title": "End of temporary detour",
+          "id": 238
+        },
+        {
+          "title": "Guide for pedestrians",
+          "id": 239
+        },
+        {
+          "title": "Guide for bicycle route",
+          "id": 240
+        },
+        {
+          "title": "Board guide for bicycle route",
+          "id": 241
+        },
+        {
+          "title": "Bicycle route",
+          "id": 242
+        },
+        {
+          "title": "Distance sign for bicycle route",
+          "id": 243
+        },
+        {
+          "title": "Motorway",
+          "id": 244
+        },
+        {
+          "title": "Motor traffic road",
+          "id": 245
+        },
+        {
+          "title": "Toll road",
+          "id": 246
+        },
+        {
+          "title": "Parking",
+          "id": 247
+        },
+        {
+          "title": "Multistory car park",
+          "id": 248
+        },
+        {
+          "title": "Airport",
+          "id": 249
+        },
+        {
+          "title": "Helipad",
+          "id": 250
+        },
+        {
+          "title": "Bus station/terminal",
+          "id": 251
+        },
+        {
+          "title": "Train station/terminal",
+          "id": 252
+        },
+        {
+          "title": "Ferry",
+          "id": 253
+        },
+        {
+          "title": "Cargo port",
+          "id": 254
+        },
+        {
+          "title": "Suitable layby for equipping tire chains",
+          "id": 255
+        },
+        {
+          "title": "Church",
+          "id": 256
+        },
+        {
+          "title": "Industrial area",
+          "id": 257
+        },
+        {
+          "title": "Shopping center",
+          "id": 258
+        },
+        {
+          "title": "Swimming hall",
+          "id": 259
+        },
+        {
+          "title": "Alpine facility",
+          "id": 260
+        },
+        {
+          "title": "Ski jump slope",
+          "id": 261
+        },
+        {
+          "title": "Ski arena",
+          "id": 262
+        },
+        {
+          "title": "Golf course",
+          "id": 263
+        },
+        {
+          "title": "Payment with electronic chip",
+          "id": 264
+        },
+        {
+          "title": "Payment to attendant",
+          "id": 265
+        },
+        {
+          "title": "Payment with coins to machine",
+          "id": 266
+        },
+        {
+          "title": "Payment with card to machine",
+          "id": 267
+        },
+        {
+          "title": "Payment with banknotes to machine",
+          "id": 268
+        },
+        {
+          "title": "Remove ticket from closed payment system",
+          "id": 269
+        },
+        {
+          "title": "Use ticket in closed payment system",
+          "id": 270
+        },
+        {
+          "title": "Automatic toll road",
+          "id": 271
+        },
+        {
+          "title": "Distance",
+          "id": 272
+        },
+        {
+          "title": "Stretch",
+          "id": 273
+        },
+        {
+          "title": "Time",
+          "id": 274
+        },
+        {
+          "title": "Car",
+          "id": 275
+        },
+        {
+          "title": "Goods van, lorry and tractor unit",
+          "id": 276
+        },
+        {
+          "title": "Bus",
+          "id": 277
+        },
+        {
+          "title": "Tractor-trailer",
+          "id": 278
+        },
+        {
+          "title": "Trailer furnished for camping (Caravan)",
+          "id": 279
+        },
+        {
+          "title": "Bicycle",
+          "id": 280
+        },
+        {
+          "title": "Motorcycle and moped",
+          "id": 281
+        },
+        {
+          "title": "Handicapped driver",
+          "id": 282
+        },
+        {
+          "title": "Vehicle furnished for camping (Motorhome)",
+          "id": 283
+        },
+        {
+          "title": "Text",
+          "id": 284
+        },
+        {
+          "title": "Turn arrow",
+          "id": 285
+        },
+        {
+          "title": "Recommended speed",
+          "id": 286
+        },
+        {
+          "title": "Uphill inclination",
+          "id": 287
+        },
+        {
+          "title": "Inclination",
+          "id": 288
+        },
+        {
+          "title": "Actual available width",
+          "id": 289
+        },
+        {
+          "title": "Crossing lumber transport",
+          "id": 290
+        },
+        {
+          "title": "Particular danger of accident",
+          "id": 291
+        },
+        {
+          "title": "Course of priority road",
+          "id": 292
+        },
+        {
+          "title": "Advance warning for stop sign",
+          "id": 293
+        },
+        {
+          "title": "Bicycle traffic in both directions",
+          "id": 294
+        },
+        {
+          "title": "Direction for a stop or parking regulation sign",
+          "id": 295
+        },
+        {
+          "title": "Direction for a stop or parking regulation sign",
+          "id": 296
+        },
+        {
+          "title": "Direction for a stop or parking regulation sign",
+          "id": 297
+        },
+        {
+          "title": "Arrangement for parked vehicles",
+          "id": 298
+        },
+        {
+          "title": "Parking board",
+          "id": 299
+        },
+        {
+          "title": "Combined regulation",
+          "id": 300
+        },
+        {
+          "title": "Directional marker",
+          "id": 301
+        },
+        {
+          "title": "Directional marker",
+          "id": 302
+        },
+        {
+          "title": "Obstacle marker",
+          "id": 303
+        },
+        {
+          "title": "Obstacle marker",
+          "id": 304
+        },
+        {
+          "title": "Obstacle marker",
+          "id": 305
+        },
+        {
+          "title": "Obstacle marker",
+          "id": 306
+        },
+        {
+          "title": "Lanes diverge either side of the marker",
+          "id": 307
+        },
+        {
+          "title": "Tunnel marker",
+          "id": 308
+        },
+        {
+          "title": "Tunnel marker",
+          "id": 309
+        },
+        {
+          "title": "Distance marker for tunnels",
+          "id": 310
+        },
+        {
+          "title": "Traffic cone",
+          "id": 311
+        },
+        {
+          "title": "Traffic cylinder",
+          "id": 312
+        }
+      ]
+    }
+  ]
+}

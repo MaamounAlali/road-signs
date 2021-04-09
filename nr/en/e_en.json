@@ -1,0 +1,328 @@
+{
+  "informative-signs": [
+    {
+      "title": "Motorway",
+      "imgs": "Norwegian-road-sign-502.0.svg.png",
+      "desc": "Speed limit is 80 km/h unless another limit is set, which it normally is. 110 km/h is the highest limit found, and is set on the highest standard motorways. Lower limits may be set on lower standard or busier roads.",
+      "id": 107
+    },
+    {
+      "title": "Motor traffic road",
+      "imgs": "Norwegian-road-sign-503.0.svg.png",
+      "desc": "Speed limit is 80 km/h unless another limit is specifically set. Some are signposted to 90 km/h.",
+      "id": 108
+    },
+    {
+      "title": "End of motorway",
+      "imgs": "Norwegian-road-sign-504.0.svg.png",
+      "desc": "",
+      "id": 109
+    },
+    {
+      "title": "End of motor traffic road",
+      "imgs": "Norwegian-road-sign-505.0.svg.png",
+      "desc": "",
+      "id": 110
+    },
+    {
+      "title": "Heavy traffic lane",
+      "imgs": "180px-Norwegian-road-sign-506.jpg",
+      "desc": "Only vehicles with allowed total weight higher than indicated can use this lane.",
+      "id": 111
+    },
+    {
+      "title": "End of heavy traffic lane",
+      "imgs": "180px-Norwegian-road-sign-507.jpg",
+      "desc": "",
+      "id": 112
+    },
+    {
+      "title": "Bus lane",
+      "imgs": "Norwegian-road-sign-508.1.svg.png",
+      "desc": "",
+      "id": 113
+    },
+    {
+      "title": "Bus and taxi lane",
+      "imgs": "180px-Norwegian-road-sign-508.2.svg.png",
+      "desc": "",
+      "id": 114
+    },
+    {
+      "title": "Car-pool lane",
+      "imgs": "Norwegian-road-sign-509.0.svg.png",
+      "desc": "Only vehicles with more than indicated occupants including driver can use this lane. Buses and taxis, regardless of how many occupants can also use this lane.[b]",
+      "id": 115
+    },
+    {
+      "title": "End of bus lane",
+      "imgs": "Norwegian-road-sign-510.1.svg.png",
+      "desc": "",
+      "id": 116
+    },
+    {
+      "title": "End of bus and taxi lane",
+      "imgs": "Norwegian-road-sign-510.2.svg.png",
+      "desc": "",
+      "id": 117
+    },
+    {
+      "title": "End of car-pool lane",
+      "imgs": "Norwegian-road-sign-511.0.svg.png",
+      "desc": "",
+      "id": 118
+    },
+    {
+      "title": "Bus stop",
+      "imgs": "Norwegian-road-sign-512.0.svg.png",
+      "desc": "",
+      "id": 119
+    },
+    {
+      "title": "Tram stop",
+      "imgs": "Norwegian-road-sign-513.0.svg.png",
+      "desc": "",
+      "id": 120
+    },
+    {
+      "title": "Taxi stop",
+      "imgs": "Norwegian-road-sign-514.0.svg.png",
+      "desc": "",
+      "id": 121
+    },
+    {
+      "title": "Pedestrian crossing",
+      "imgs": "Norwegian-road-sign-516.V.svg.png",
+      "desc": "",
+      "id": 122
+    },
+    {
+      "title": "Pedestrian crossing",
+      "imgs": "180px-Norwegian-road-sign-516.H.svg.png",
+      "desc": "",
+      "id": 123
+    },
+    {
+      "title": "Pedestrian way",
+      "imgs": "Norwegian-road-sign-518.0.svg.png",
+      "desc": "",
+      "id": 124
+    },
+    {
+      "title": "Cycle track",
+      "imgs": "Norwegian-road-sign-520.0.svg.png",
+      "desc": "",
+      "id": 125
+    },
+    {
+      "title": "Cycle lane (Edge)",
+      "imgs": "Norwegian-road-sign-521.0.svg.png",
+      "desc": "",
+      "id": 126
+    },
+    {
+      "title": "Cycle lane (Centered)",
+      "imgs": "180px-Norwegian-road-sign-521.1.png",
+      "desc": "",
+      "id": 127
+    },
+    {
+      "title": "Shared-use footway",
+      "imgs": "Norwegian-road-sign-522.0.svg.png",
+      "desc": "",
+      "id": 128
+    },
+    {
+      "title": "Passing place",
+      "imgs": "Norwegian-road-sign-524.0.svg.png",
+      "desc": "Used frequently on long stretches of single-track roads. Parking forbidden.",
+      "id": 129
+    },
+    {
+      "title": "One-way",
+      "imgs": "76px-Norwegian-road-sign-526.1.svg.png",
+      "desc": "",
+      "id": 130
+    },
+    {
+      "title": "One-way",
+      "imgs": "Norwegian-road-sign-526.2.svg.png",
+      "desc": "",
+      "id": 131
+    },
+    {
+      "title": "Dead end",
+      "imgs": "100px-Norwegian-road-sign-527.1.svg.png",
+      "desc": "Road physically closed",
+      "id": 132
+    },
+    {
+      "title": "Dead end",
+      "imgs": "100px-Norwegian-road-sign-527.2.svg.png",
+      "desc": "Side-road physically closed",
+      "id": 133
+    },
+    {
+      "title": "Dead end",
+      "imgs": "100px-Norwegian-road-sign-527.3.svg.png",
+      "desc": "Road closed for vehicles",
+      "id": 134
+    },
+    {
+      "title": "Dead end",
+      "imgs": "100px-Norwegian-road-sign-527.4.svg.png",
+      "desc": "Side-road closed for vehicles",
+      "id": 135
+    },
+    {
+      "title": "Free choice of lane",
+      "imgs": "Norwegian-road-sign-528.0.svg.png",
+      "desc": "",
+      "id": 136
+    },
+    {
+      "title": "Merging lanes",
+      "imgs": "76px-Norwegian-road-sign-530.01.svg.png",
+      "desc": "Merging by the “zipper method”.",
+      "id": 137
+    },
+    {
+      "title": "Merging roads with speed regulation lane",
+      "imgs": "89px-Norwegian-road-sign-531.102.svg.png",
+      "desc": "Oncoming lane has to adapt. Merging by the “zipper method”.",
+      "id": 138
+    },
+    {
+      "title": "Merging roads with speed regulation lane",
+      "imgs": "95px-Norwegian-road-sign-531.202.svg.png",
+      "desc": "This lane has to adapt. Merging by the “zipper method”.",
+      "id": 139
+    },
+    {
+      "title": "End of lane",
+      "imgs": "118px-Norwegian-road-sign-532.h02.svg.png",
+      "desc": "The ending lane has to give way.",
+      "id": 140
+    },
+    {
+      "title": "New lane starts",
+      "imgs": "Norwegian-road-sign-534.v01.svg.png",
+      "desc": "",
+      "id": 141
+    },
+    {
+      "title": "Added lane with oncoming traffic",
+      "imgs": "89px-Norwegian-road-sign-536.101.svg.png",
+      "desc": "",
+      "id": 142
+    },
+    {
+      "title": "Lane division",
+      "imgs": "109px-Norwegian-road-sign-538.12.svg.png",
+      "desc": "Denotes the number of lanes and what direction they go.",
+      "id": 143
+    },
+    {
+      "title": "Changed driving pattern",
+      "imgs": "115px-Norwegian-road-sign-539.svg.png",
+      "desc": "May be used in conjunction with road works.",
+      "id": 144
+    },
+    {
+      "title": "Living street",
+      "imgs": "Norwegian-road-sign-540.0.svg.png",
+      "desc": "The speed limit is \"walking speed.\"",
+      "id": 145
+    },
+    {
+      "title": "End of living street",
+      "imgs": "Norwegian-road-sign-542.0.svg.png",
+      "desc": "",
+      "id": 146
+    },
+    {
+      "title": "Pedestrian zone",
+      "imgs": "Norwegian-road-sign-548.0.svg.png",
+      "desc": "Motor vehicles are normally prohibited in pedestrian zone. If exemption is granted by a supplementary sign, the speed limit is \"walking speed.\"",
+      "id": 147
+    },
+    {
+      "title": "End of pedestrian zone",
+      "imgs": "Norwegian-road-sign-550.0.svg.png",
+      "desc": "",
+      "id": 148
+    },
+    {
+      "title": "Parking",
+      "imgs": "Norwegian-road-sign-552.0.svg.png",
+      "desc": "",
+      "id": 149
+    },
+    {
+      "title": "Emergency layby",
+      "imgs": "Norwegian-road-sign-555.0.svg.png",
+      "desc": "To be used only in case of vehicle breakdown or other emergency.",
+      "id": 150
+    },
+    {
+      "title": "Speed limit enforced by automatic camera",
+      "imgs": "180px-Norwegian-road-sign-556.1.svg.png",
+      "desc": "",
+      "id": 151
+    },
+    {
+      "title": "Speed limit enforced by automatic camera - average speed measurement",
+      "imgs": "180px-Norwegian-road-sign-556.2.jpg",
+      "desc": "A flashing yellow indicator is also placed at the end of speed measurement zone. This will flash if the vehicle's measured average speed exceeded the speed limit.",
+      "id": 152
+    },
+    {
+      "title": "Video surveillance",
+      "imgs": "Norwegian-road-sign-558.0.svg.png",
+      "desc": "",
+      "id": 153
+    },
+    {
+      "title": "Information board",
+      "imgs": "118px-Norwegian-road-sign-560-Opplysningstavle.svg.png",
+      "desc": "Alternative: 1Sign 560 may provide information about miscellaneous traffic conditions. May have a brown background if the information is specifically aimed at tourists. Must have a yellow background if it's a temporary sign, or an orange background if it provides information about detours.",
+      "id": 154
+    },
+    {
+      "title": "General speed limits",
+      "imgs": "126px-Norwegian-road-sign-560.1.png",
+      "desc": "Information board posted on border crossings on Norwegian national roads, Norwegian county roads and ferry terminals.",
+      "id": 155
+    },
+    {
+      "title": "Pedestrians and cyclist prohibited",
+      "imgs": "120px-Norwegian-road-sign-560.2-Forbudt_for_gående_og_syklende_på_motorveg_og_motortrafikkveg.png",
+      "desc": "On motorways and motor traffic roads",
+      "id": 156
+    },
+    {
+      "title": "Speed measuring",
+      "imgs": "180px-Norwegian-road-sign-560.3.png",
+      "desc": "",
+      "id": 157
+    },
+    {
+      "title": "Wrong way",
+      "imgs": "119px-Norwegian-road-sign-565.png",
+      "desc": "",
+      "id": 158
+    },
+    {
+      "title": "Emergency exit",
+      "imgs": "Norwegian-road-sign-570.1H.svg.png",
+      "desc": "For tunnels.",
+      "id": 159
+    },
+    {
+      "title": "Direction and distance to emergency exit",
+      "imgs": "Norwegian-road-sign-570.2H.svg.png",
+      "desc": "For tunnels.",
+      "id": 160
+    }
+  ]
+}

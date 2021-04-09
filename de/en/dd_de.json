@@ -1,0 +1,34 @@
+{
+  "retiredSigns": [
+    {
+      "title": "Buses crossing\n",
+      "img": "120px-Zeichen_145_-_Kraftomnibusse%2C_StVO_1992.svg.png",
+      "id": 0
+    },
+    {
+      "title": "Two-way cycle route running parallel to road\n",
+      "img": "120px-Zusatzzeichen_1000-33_-_Radverkehr_im_Gegenverkehr%2C_StVO_1997.svg.png",
+      "id": 1
+    },
+    {
+      "title": "Risk of ice\n",
+      "img": "120px-Zusatzzeichen_1007-30_-_Gefahr_unerwarteter_Glatteisbildung%2C_StVO_1992.svg.png",
+      "id": 2
+    },
+    {
+      "title": "Start of restriction\n",
+      "img": "120px-Zusatzzeichen_1012-30_-_Anfang%2C_StVO_1992.svg.png",
+      "id": 3
+    },
+    {
+      "title": "Mopeds allowed\n",
+      "img": "120px-Zusatzzeichen_1026-31_-_Mofas_frei%2C_StVO_1992.svg.png",
+      "id": 4
+    },
+    {
+      "title": "Vehicles exempt from the traffic ban at an increased pollutant concentration\n",
+      "img": "120px-Zusatzzeichen_1030-10_-_Vom_Verkehrsverbot_bei_erh%C3%B6hter_Schadstoffkonzentration_ausgenommene_Fahrzeuge_frei_%28420x231%29%2C_StVO_1995.svg.png",
+      "id": 5
+    }
+  ]
+}

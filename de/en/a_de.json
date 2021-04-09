@@ -1,0 +1,114 @@
+{
+  "symbols": [
+    {
+      "title": "Multi-track motor vehicles\n",
+      "img": "120px-Sinnbild_Kfz.svg.png",
+      "id": 0
+    },
+    {
+      "title": "Motor vehicles with a maximum permissible mass above 3.5 t - including their trailer - and combination vehicles, except passenger vehicles and buses\n",
+      "img": "120px-Sinnbild_LKW.svg.png",
+      "id": 1
+    },
+    {
+      "title": "Cycles\n",
+      "img": "120px-Sinnbild_Radfahrer%2C_StVO_1992.svg.png",
+      "id": 2
+    },
+    {
+      "title": "Bicycle utilized for the transport of goods or persons - freight bicycle\n",
+      "img": "120px-Fahrrad_zum_Transport_von_G%C3%BCtern_oder_Personen_-_Lastenfahrrad%3B_Sinnbild_nach_%C2%A7_39_StVO%2C_StVO_2020.svg.png",
+      "id": 3
+    },
+    {
+      "title": "Pedestrians\n",
+      "img": "60px-Sinnbild_Fu%C3%9Fg%C3%A4nger.svg.png",
+      "id": 4
+    },
+    {
+      "title": "Equestrians\n",
+      "img": "120px-Sinnbild_Reiter%2C_StVO_1992.svg.png",
+      "id": 5
+    },
+    {
+      "title": "Cattle\n",
+      "img": "120px-Sinnbild_Viehtrieb%2C_Tiere%2C_StVO_1992.svg.png",
+      "id": 6
+    },
+    {
+      "title": "Tram\n",
+      "img": "120px-Sinnbild_Stra%C3%9Fenbahn.svg.png",
+      "id": 7
+    },
+    {
+      "title": "Bus\n",
+      "img": "120px-Sinnbild_Kraftomnibus.svg.png",
+      "id": 8
+    },
+    {
+      "title": "Passenger vehicle\n",
+      "img": "120px-Sinnbild_PKW.svg.png",
+      "id": 9
+    },
+    {
+      "title": "Passenger vehicles or motorcycles with a sidecar which are occupied by at least three persons - high occupancy vehicle\n",
+      "img": "120px-thumbnail.svg.png",
+      "id": 10
+    },
+    {
+      "title": "Passenger vehicle towing a trailer\n",
+      "img": "120px-Sinnbild_PKW_mit_Anh%C3%A4nger.svg.png",
+      "id": 11
+    },
+    {
+      "title": "Truck towing a trailer\n",
+      "img": "120px-Sinnbild_LKW_mit_Anh%C3%A4nger.svg.png",
+      "id": 12
+    },
+    {
+      "title": "Campervan\n",
+      "img": "120px-Wohnmobil%2C_Sinnbild_nach_%C2%A7_39_StVO%2C_StVO_2020.svg.png",
+      "id": 13
+    },
+    {
+      "title": "Motor vehicles and vehicle combinations which cannot or may not drive faster than 25 km/h\n",
+      "img": "120px-Sinnbild_Traktor.svg.png",
+      "id": 14
+    },
+    {
+      "title": "Motorcycles - also with a sidecar - mopeds, and motorized bicycles\n",
+      "img": "120px-Sinnbild_Kraftrad.svg.png",
+      "id": 15
+    },
+    {
+      "title": "Motorized bicycles\n",
+      "img": "120px-Sinnbild_Mofa.svg.png",
+      "id": 16
+    },
+    {
+      "title": "One-seated two-wheeled mopeds with an electric motor which automatically regulates its design speed to no more than 25 km/h - E-Bikes -\n",
+      "img": "120px-Sinnbild_E-Bikes.svg.png",
+      "id": 17
+    },
+    {
+      "title": "Small electric vehicles pursuant to the Elektrokleinstfahrzeuge-Verordnung (eKFV) (Small Electric Vehicle Act)\n",
+      "img": "120px-Elektrokleinstfahrzeuge_im_Sinne_der_Elektrokleinstfahrzeuge-Verordnung_%28eKFV%29%2C_Sinnbild_nach_%C2%A7_39_StVO%2C_StVO_2020.svg.png",
+      "id": 18
+    },
+    {
+      "title": "Drawn carriage\n",
+      "img": "120px-Sinnbild_Gespannfuhrwerk%2C_StVO_2004.svg.png",
+      "id": 19
+    },
+    {
+      "title": "Electrically powered vehicle\n",
+      "img": "120px-Sinnbild_elektrisch_betriebenes_Fahrzeug%2C_StVO_2015.svg.png",
+      "id": 20
+    },
+    {
+      "title": "Carsharing vehicles\n",
+      "img": "120px-Carsharing%2C_Sinnbilder_der_StVO_nach_%C2%A7_39%2C_Absatz_11%3B_StVO_2020.svg.png",
+      "id": 21
+    }
+  ]
+}

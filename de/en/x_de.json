@@ -1,0 +1,69 @@
+{
+  "stoppingWaitingParking": [
+    {
+      "title": "Eingeschränktes HalteverbotNo parking. Waiting is allowed.\n",
+      "img": "120px-Zeichen_286_-_Eingeschr%C3%A4nktes_Halteverbot%2C_StVO_1970.svg.png",
+      "id": 0
+    },
+    {
+      "title": "Eingeschränktes Halteverbot (Anfang)Start of Waiting Only Zone (left side)\n",
+      "img": "120px-Zeichen_286-10_-_Eingeschr%C3%A4nktes_Halteverbot_%28Anfang%29%2C_Rechtsaufstellung%2C_StVO_1992.svg.png",
+      "id": 1
+    },
+    {
+      "title": "Eingeschränktes Halteverbot (Anfang)Start of Waiting Only Zone (right side)\n",
+      "img": "120px-Zeichen_286-21_-_Eingeschr%C3%A4nktes_Halteverbot_%28Anfang%29%2C_Aufstellung_links%2C_StVO_2017.svg.png",
+      "id": 2
+    },
+    {
+      "title": "Eingeschränktes Halteverbot (Ende)End of Waiting Only Zone (right side)\n",
+      "img": "120px-Zeichen_286-20_-_Eingeschr%C3%A4nktes_Halteverbot_%28Ende%29%2C_Rechtsaufstellung%2C_StVO_1992.svg.png",
+      "id": 3
+    },
+    {
+      "title": "Continuation of Eingeschränktes Halteverbot\n",
+      "img": "120px-Zeichen_286-30_-_Eingeschr%C3%A4nktes_Halteverbot_%28Mitte%29%2C_Rechtsaufstellung%2C_StVO_1992.svg.png",
+      "id": 4
+    },
+    {
+      "title": "No parking zone\n",
+      "img": "120px-Zeichen_290.1_-_Beginn_eines_eingeschr%C3%A4nkten_Haltverbotes_f%C3%BCr_eine_Zone%2C_StVO_2009.svg.png",
+      "id": 5
+    },
+    {
+      "title": "End of no parking zone\n",
+      "img": "120px-Zeichen_290.2_-_Ende_eines_eingeschr%C3%A4nkten_Haltverbotes_f%C3%BCr_eine_Zone%2C_StVO_2009.svg.png",
+      "id": 6
+    },
+    {
+      "title": "HaltverbotAbsolutely No Stopping (on traffic lanes)\n",
+      "img": "120px-Zeichen_283_-_Haltverbot%2C_StVO_1970.svg.png",
+      "id": 7
+    },
+    {
+      "title": "Continuation of Absolutes HaltverbotTop arrow only (start of zone), Bottom arrow only (end of zone)\n",
+      "img": "120px-Zeichen_283-30_-_Absolutes_Haltverbot_%28Mitte%29%2C_Aufstellung_rechts%2C_StVO_2013.svg.png",
+      "id": 8
+    },
+    {
+      "title": "Bus or tram stop: 15 m parking prohibition prior to and behind this sign (30 m altogether)\n",
+      "img": "120px-Zeichen_224_-_Haltestelle%2C_StVO_2017.svg.png",
+      "id": 9
+    },
+    {
+      "title": "School bus stop: 15 m parking prohibition prior to and behind this sign (30 m altogether)\n",
+      "img": "80px-Zeichen_224-51_-_Schulbushaltestelle_%28mit_Zusatzzeichen_1042-36%29%2C_StVO_2017.svg.png",
+      "id": 10
+    },
+    {
+      "title": "Taxi rank (no stopping or parking allowed)\n",
+      "img": "80px-Zeichen_229_-_Taxenstand%2C_StVO_1994.svg.png",
+      "id": 11
+    },
+    {
+      "title": "End of previous limitation (i.e., speed or passing)\n",
+      "img": "120px-Zeichen_282_-_Ende_s%C3%A4mtlicher_Streckenverbote%2C_StVO_1970.svg.png",
+      "id": 12
+    }
+  ]
+}

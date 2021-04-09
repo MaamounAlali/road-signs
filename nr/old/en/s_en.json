@@ -1,0 +1,69 @@
+{
+  "symbols": [
+    {
+      "title": "Heavy lorry (S1)",
+      "desc": "",
+      "imgs": "S1-1.png"
+    },
+    {
+      "title": "Heavy lorry with trailer (S2)",
+      "desc": "",
+      "imgs": "S2-1.png"
+    },
+    {
+      "title": "Private car (S3)",
+      "desc": "",
+      "imgs": "S3-1.png"
+    },
+    {
+      "title": "Private car with trailer (S4)",
+      "desc": "",
+      "imgs": "S4-1.png"
+    },
+    {
+      "title": "Bus (S5)",
+      "desc": "",
+      "imgs": "S5-1.png"
+    },
+    {
+      "title": "Tractor and motorised equipment class II (S6)",
+      "desc": "",
+      "imgs": "S6-1.png"
+    },
+    {
+      "title": "Motorcycle (S7)",
+      "desc": "",
+      "imgs": "S7-1.png"
+    },
+    {
+      "title": "Bicycle and moped class II (S8)",
+      "desc": "",
+      "imgs": "S8-1.png"
+    },
+    {
+      "title": "Trailer (S9)",
+      "desc": "",
+      "imgs": "S9-1.png"
+    },
+    {
+      "title": "Pedestrians (S10)",
+      "desc": "",
+      "imgs": "S10-1.png"
+    },
+    {
+      "title": "Disabled (S11)",
+      "desc": "",
+      "imgs": "S11-1.png"
+    },
+    {
+      "title": "Private car class II (S12)",
+      "desc": "",
+      "imgs": "S12-1.png"
+    },
+    {
+      "title": "Passenger boat (S13)",
+      "desc": "",
+      "imgs": "S13-1.png"
+    }
+  ]
+}

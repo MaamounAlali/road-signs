@@ -1,0 +1,70 @@
+{
+  "marker-signs": [
+    {
+      "title": "Directional marker",
+      "imgs": "180px-Norwegian-road-sign-904.0H.svg.png",
+      "desc": "Used on long or dangerous bends.",
+      "id": 302
+    },
+    {
+      "title": "Directional marker",
+      "imgs": "180px-Norwegian-road-sign-904.0V.svg.png",
+      "desc": "Used on long or dangerous bends.",
+      "id": 303
+    },
+    {
+      "title": "Obstacle marker",
+      "imgs": "Norwegian-road-sign-906.0H.svg.png",
+      "desc": "Keep left of the sign.",
+      "id": 304
+    },
+    {
+      "title": "Obstacle marker",
+      "imgs": "Norwegian-road-sign-906.0V.svg.png",
+      "desc": "Keep right of the sign.",
+      "id": 305
+    },
+    {
+      "title": "Obstacle marker",
+      "imgs": "Norwegian-road-sign-906.0VH.svg.png",
+      "desc": "Pass on either side.",
+      "id": 306
+    },
+    {
+      "title": "Obstacle marker",
+      "imgs": "180px-Norwegian-road-sign-908.0.svg.png",
+      "desc": "",
+      "id": 307
+    },
+    {
+      "title": "Lanes diverge either side of the marker",
+      "imgs": "Norwegian-road-sign-912.0.svg.png",
+      "desc": "Used mainly on high-speed roads.",
+      "id": 308
+    },
+    {
+      "title": "Tunnel marker",
+      "imgs": "Norwegian-road-sign-914.H.svg.png",
+      "desc": "",
+      "id": 309
+    },
+    {
+      "title": "Tunnel marker",
+      "imgs": "Norwegian-road-sign-914.V.svg.png",
+      "desc": "",
+      "id": 310
+    },
+    {
+      "title": "Distance marker for tunnels",
+      "imgs": "Norwegian-road-sign-916.0.svg.png",
+      "desc": "Indicates the distance to each exit.",
+      "id": 311
+    },
+    {
+      "title": "Traffic cone",
+      "imgs": "137px-Norwegian-road-sign-940.jpg",
+      "desc": "",
+      "id": 312
+    }
+  ]
+}

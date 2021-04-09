@@ -1,0 +1,69 @@
+{
+  "symbols": [
+    {
+      "title": "Tung lastbil (S1)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "S1-1.png"
+    },
+    {
+      "title": "Tung lastbil med tillkopplad släpvagn (S2)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "S2-1.png"
+    },
+    {
+      "title": "Personbil (S3)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "S3-1.png"
+    },
+    {
+      "title": "Personbil med tillkopplad släpkärra (S4)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "S4-1.png"
+    },
+    {
+      "title": "Buss (S5)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "S5-1.png"
+    },
+    {
+      "title": "Traktor och motorredskap klass II (S6)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "S6-1.png"
+    },
+    {
+      "title": "Motorcykel (S7)",
+      "desc": "Symbolen anger tvåhjulig motorcykel och moped klass I utan sidvagn.",
+      "imgs": "S7-1.png"
+    },
+    {
+      "title": "Cykel och moped klass II (S8)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "S8-1.png"
+    },
+    {
+      "title": "Släpkärra (S9)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "S9-1.png"
+    },
+    {
+      "title": "Gående (S10)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "S10-1.png"
+    },
+    {
+      "title": "Rörelsehindrade (S11)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "S11-1.png"
+    },
+    {
+      "title": "Personbil klass II (S12)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "S12-1.png"
+    },
+    {
+      "title": "Personfärja (S13)",
+      "desc": "Symbolen anger ett färjeläge för personfärja eller att angivet färdmål endast kan nås med färja avsedd för persontransport.",
+      "imgs": "S13-1.png"
+    }
+  ]
+}

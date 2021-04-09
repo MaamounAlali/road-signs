@@ -1,0 +1,174 @@
+{
+  "instruction-signs": [
+    {
+      "title": "Motorväg (E1)",
+      "desc": "Används märket som förberedande upplysning om att en motorväg börjar anges avståndet på en tilläggstavla. Märket kan även vara infogat i ett lokaliseringsmärke.",
+      "imgs": "E1-1.png"
+    },
+    {
+      "title": "Motorväg upphör (E2)",
+      "desc": "Används märket som förberedande upplysning om att en motorväg upphör anges avståndet på en tilläggstavla. Märket används inte när en motorväg övergår i motortrafikled.",
+      "imgs": "E2-1.png"
+    },
+    {
+      "title": "Motortrafikled (E3)",
+      "desc": "Används märket som förberedande upplysning om att en motortrafikled börjar anges avståndet på en tilläggstavla. Märket kan även vara infogat i ett lokaliseringsmärke.",
+      "imgs": "E3-1.png"
+    },
+    {
+      "title": "Motortrafikled upphör (E4)",
+      "desc": "Används märket som förberedande upplysning om att en motortrafikled upphör anges avståndet på en tilläggstavla. Märket används inte när en motortrafikled övergår i motorväg.",
+      "imgs": "E4-1.png"
+    },
+    {
+      "title": "Tättbebyggt område (E5)",
+      "desc": "Ortnamnet kan vara infogat i märket.",
+      "imgs": "E5-1.png"
+    },
+    {
+      "title": "Tättbebyggt område upphör (E6)",
+      "desc": "Ortnamnet kan vara infogat i märket.",
+      "imgs": "E6-1.png"
+    },
+    {
+      "title": "Gågata (E7)",
+      "desc": "Märket anger att bestämmelserna i 8 kap. 1 § trafikförordningen (1998:1276) är tillämpliga. Förbud mot att föra fordon som får föras på gågata enligt 8 kap. 1 § andra stycket trafikförordningen anges på en tilläggstavla.",
+      "imgs": "E7-1.png"
+    },
+    {
+      "title": "Gågata upphör (E8)",
+      "desc": "Märket behöver inte vara uppsatt om det ändå tydligt framgår att gågatan upphör.",
+      "imgs": "E8-1.png"
+    },
+    {
+      "title": "Gångfartsområde (E9)",
+      "desc": "Märket anger att bestämmelserna i 8 kap. 1 § första stycket trafikförordningen är tillämpliga.",
+      "imgs": "E9-1.png"
+    },
+    {
+      "title": "Gångfartsområde upphör (E10)",
+      "desc": "Märket behöver inte vara uppsatt om det ändå tydligt framgår att gångfartsområdet upphör.",
+      "imgs": "E10-1.png"
+    },
+    {
+      "title": "Rekommenderad lägre hastighet (E11)",
+      "desc": "Märket anger en vägsträcka eller ett område där särskilda åtgärder vidtagits eller där förhållandena är sådana att det är lämpligt att färdas med lägre hastighet än den högsta tillåtna. Den rekommenderade lägre hastigheten anges på märket.",
+      "imgs": "E11-1.png"
+    },
+    {
+      "title": "Rekommenderad lägre hastighet upphör (E12)",
+      "desc": "Märket behöver inte vara uppsatt om det ändå tydligt framgår att sträckan upphör.",
+      "imgs": "E12-1.png"
+    },
+    {
+      "title": "Rekommenderad högsta hastighet (E13)",
+      "desc": "Märket används endast som omställbart vägmärke och anger att förhållandena tillfälligt är sådana att det inte är lämpligt att färdas med högre hastighet än den som anges på märket. Den angivna hastigheten är alltid lägre än den högsta tillåtna.",
+      "imgs": "E13-1.png"
+    },
+    {
+      "title": "Rekommenderad högsta hastighet upphör (E14)",
+      "desc": "Märket behöver inte vara uppsatt om det ändå tydligt framgår att de tillfälliga förhållandena upphört.",
+      "imgs": "E14-1.png"
+    },
+    {
+      "title": "Sammanvävning (E15)",
+      "desc": "Märket upplyser om att två körfält eller körbanor löper samman och att förarna ska anpassa sig till de nya förhållandena på platsen enligt bestämmelserna i 3 kap. 44 § trafikförordningen. Märket används även som förberedande upplysning om att två körfält eller körbanor löper samman. Avståndet anges då på en tilläggstavla.",
+      "imgs": "E15-1.png"
+    },
+    {
+      "title": "Enkelriktad trafik (E16)",
+      "desc": "Märket anger att fordonstrafiken på vägen är enkelriktad i pilens riktning. Uppåtriktad pil anger att trafiken är enkelriktad i riktning rakt fram.",
+      "imgs": "E16-1.png"
+    },
+    {
+      "title": "Återvändsväg (E17)",
+      "desc": "Märket anger att genomfart inte är möjlig. Symbolen anpassas efter förhållandena på platsen och kan vara infogad i ett lokaliseringsmärke. Om genomfart med cykel och moped klass II är möjlig anges det genom att symbol S8, cykel och moped klass II, är infogad i märket.",
+      "imgs": "E17-1.png"
+    },
+    {
+      "title": "Mötesplats (E18)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "E18-1.png"
+    },
+    {
+      "title": "Parkering (E19)",
+      "desc": "Märket anger att parkering är tillåten på en parkeringsplats eller på en sträcka på den sida av vägen där vägmärket är uppsatt. Är märket uppsatt vid en väg anger det att tillåtelsen börjar där märket har satts upp och gäller enligt vad som anges på en tilläggstavla, till den plats där en annan bestämmelse om stannande eller parkering märkts ut eller i annat fall till nästa korsning med annan väg än sådan som avses i 3 kap. 21 § andra stycket trafikförordningen. Gäller sådan annan bestämmelse på en kortare sträcka gäller dock anvisningen på nytt efter sträckans slut utan att märket upprepas. Används märket vid en särskilt anordnad parkeringsplats gäller anvisningen hela parkeringsplatsen. Märket anger inte rätt att parkera där det enligt trafikförordningen är förbjudet att stanna och parkera, om inte en sådan rätt tydligt framgår av märkets placering eller anges på en tilläggstavla. Om parkering är tillåten endast för ett visst fordonsslag eller en viss trafikantgrupp anges det på en tilläggstavla. Används märket av en markägare enligt lagen (1984:318) om kontrollavgift vid olovlig parkering anger märket att parkering är tillåten, under vardagar utom vardag före sön och helgdag, högst 24 timmar i följd, om inte annat framgår av en tilläggstavla. Märket kan vara infogat i ett lokaliseringsmärke. Om märket används som förberedande upplysning, kan uppgift om parkeringsplatsens namn, om att parkeringsplatsen är fullbelagd eller att det finns lediga platser lämnas i anslutning till märket.",
+      "imgs": "E19-1.png"
+    },
+    {
+      "title": "Områdesmärke (E20)",
+      "desc": "Märket anger att ett område börjar med de förbud eller tillåtelser som anges med det infogade märket. Avvikelser från anvisningarna på märket kan anges genom tilläggstavlor. Tidsbegränsningar kan även infogas i märket. Märket är uppsatt vid infarterna till området och gäller till den plats där tavla E21, slut på område, är uppsatt eller det på annat tydligt sätt framgår att anvisningarna på märket inte gäller. Inom området kan det förekomma avvikelser från anvisningarna på märket. Dessa avvikelser anges genom andra vägmärken och tilläggstavlor. Anvisningarna på märket gäller även efter sådan avvikelse utan att märket upprepas. Andra förbud eller tillåtelser kan anges på märket. Transportstyrelsen får meddela föreskrifter om vilka andra förbud och tillåtelser som får anges.",
+      "imgs": "E20-1.png"
+    },
+    {
+      "title": "Slut på område (E21)",
+      "desc": "Märket anger att ett område med förbud eller tillåtelser som angivits på märke E20, områdesmärke, upphör. Andra förbud eller tillåtelser kan anges på märket. Transportstyrelsen får meddela föreskrifter om vilka andra förbud och tillåtelser som får anges.",
+      "imgs": "E21-1.png"
+    },
+    {
+      "title": "Busshållplats (E22)",
+      "desc": "Märket anger en hållplats för fordon i linjetrafik och skolskjuts om inte hållplatsen tydligt framgår på annat sätt. Trots bestämmelserna i 1 kap. 5 § kan uppgifter om busslinjer, bussföretag och motsvarande förekomma på eller vid märket. Klockslag kan anges på märket.",
+      "imgs": "E22-1.png"
+    },
+    {
+      "title": "Taxi (E23)",
+      "desc": "Märket anger den, i färdriktningen, bortre gränsen för en särskild uppställningsplats för taxibilar.",
+      "imgs": "E23-1.png"
+    },
+    {
+      "title": "Automatisk trafikövervakning (E24)",
+      "desc": "Märket anger att automatisk övervakning med kamera eller motsvarande sker på en plats eller vägsträcka för övervakning av trafikregler, beskattning eller avgiftsbeläggning. Märket anger vidare att personuppgifter kan registreras enligt personuppgiftslagen (1998:201), lagen (2001:558) om vägtrafikregister eller annan registerlag. Gäller anvisningen en längre vägsträcka, anges sträckans längd på tilläggstavla T1, vägsträckas längd. Märket upprepas på lämpliga avstånd.",
+      "imgs": "E24-1.png"
+    },
+    {
+      "title": "Betalväg (E25)",
+      "desc": "Märket anger att avgift eller särskild skatt skall betalas vid färd på en viss väg eller inom ett visst område.",
+      "imgs": "E25-1.png"
+    },
+    {
+      "title": "Tunnel (E26)",
+      "desc": "Märket anger tunnel. Tunnelns längd anges och tunnelns namn kan anges på märket. Märket är upprepat efter varje kilometer och kvarvarande tunnellängd anges då på märket.",
+      "imgs": "E26-1.png"
+    },
+    {
+      "title": "Nöduppställningsplats (E27)",
+      "desc": "Märket anger plats för uppställning av fordon vid haveri, motorstopp eller liknande. Symbol för nödtelefon och brandsläckare kan vara infogad i märket. Märket är utformat efter förhållandena på platsen. Används märket som förberedande upplysning om nöduppställningsplats anges avståndet på en tilläggstavla.",
+      "imgs": "E27-1.png"
+    },
+    {
+      "title": "Nödutgång (E28)",
+      "desc": "Märket anger nödutgång för gående.",
+      "imgs": "E28-1.png"
+    },
+    {
+      "title": "Utrymningsväg (E29)",
+      "desc": "Märket anger riktning och avstånd till nödutgång eller motsvarande för gående. Märket är uppsatt med högst 25 meters mellanrum.",
+      "imgs": "E29-1.png"
+    },
+    {
+      "title": "Särskilda bestämmelser för parkering (E30)",
+      "desc": "Märket anger att parkering är tillåten med de infogade villkoren. Märket kan också ange avvikelse från den reglering som anges med det märke som den är uppsatt under. De närmare föreskrifterna för märke E19, parkering, utom sjätte och sjunde styckena, gäller även för detta märke. För tid gäller de närmare föreskrifterna för tilläggstavla T6, tidsangivelse. Andra villkor kan anges på märket. Märket används under något av märkena C35, förbud mot att parkera fordon, C36, förbud mot att parkera fordon på dag med udda datum, C37, förbud mot att parkera fordon på dag med jämnt datum, C38, datumparkering, C39, förbud mot att stanna och parkera fordon, C40, ändamålsplats, C42, vändplats, D10, påbjudet körfält eller körbana för fordon i linjetrafik m.fl., E19, parkering, eller E22, busshållplats.",
+      "imgs": "E30-1.png"
+    },
+    {
+      "title": "Miljözon (E31)",
+      "desc": "Märket anger att bestämmelserna i 4 kap. 22-24 a §§ trafikförordningen (1998:1276) är tillämpliga. Om märket används som förberedande upplysning om att en miljözon börjar, anges avståndet på en tilläggstavla. Märket kan även vara infogat i ett lokaliseringsmärke. Märket är uppsatt vid infarterna till miljözonen och gäller till den plats där ett märke E6, tättbebyggt område upphör, märke E32, slut på miljözon eller ett annat miljözonsmärke är uppsatt.",
+      "imgs": "E31-1.png"
+    },
+    {
+      "title": "Slut på miljözon (E32)",
+      "desc": "Märket anger att en miljözon slutar.",
+      "imgs": "E32-1.png"
+    },
+    {
+      "title": "Cykelgata (E33)",
+      "desc": "Märket anger att bestämmelserna i 8 kap. 1 a § trafikförordningen (1998:1276) är tillämpliga.\n\n8 kap. 1 a § trafikförordningen (1998:1276):\nPå en cykelgata gäller följande:\n1. Fordon får inte föras med högre hastighet än 30 kilometer i timmen.\n2. Fordon får inte parkeras på någon annan plats än särskilt anordnade parkeringsplatser.\n3. En förare som från en väg kör in på en väg som är cykelgata har väjningsplikt mot fordon på cykelgatan.\n4. En förare av ett motordrivet fordon ska anpassa hastigheten till cykeltrafiken. Förordning (2020:842).",
+      "imgs": "E33-1.png"
+    },
+    {
+      "title": "Cykelgata upphör (E34)",
+      "desc": "Märket anger att en cykelgata upphör.",
+      "imgs": "E34-1.png"
+    }
+  ]
+}

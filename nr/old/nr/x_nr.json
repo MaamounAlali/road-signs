@@ -1,0 +1,54 @@
+{
+  "other-signs": [
+    {
+      "title": "Markeringspil (X1)",
+      "desc": "Anordningen anger att fordonsförare måste svänga kraftigt i den gula pilens eller de gula pilarnas riktning på grund av till exempel en kurva. Antalet pilar är anpassat till förhållandena på platsen. Om anordningen används vid ett vägarbete eller tillfälligt av någon annan anledning har den röd botten.",
+      "imgs": "X1-1.png"
+    },
+    {
+      "title": "Markeringsskärm för hinder (X2)",
+      "desc": "Anordningen anger att framkomligheten på vägen är inskränkt på grund av ett hinder. Anordningen kan även ange att en väg är helt eller delvis avstängd för trafik. Antalet gula fält är anpassat till hindret eller till förhållandena på platsen. Om anordningen används vid ett vägarbete eller tillfälligt av någon annan anledning har den röd botten.",
+      "imgs": "X2-1.png"
+    },
+    {
+      "title": "Markeringsskärm för sidohinder, farthinder med mera (X3)",
+      "desc": "Anordningen anger vägens eller körbanans kant eller skiljer trafikriktningar åt vid komplicerade passager. Anordningen anger även att fordon ska föras på den sida som de gula fälten lutar ned mot. Om anordningen används vid ett vägarbete eller tillfälligt av någon annan anledning har den röd botten. De gula fälten kan då vara vågräta. Fordonen får då föras på båda sidor om anordningen.",
+      "imgs": "X3-1.png"
+    },
+    {
+      "title": "Avfartsskärm (X4)",
+      "desc": "Anordningen anger skiljepunkten mellan en huvudkörbana och en avfart där det finns ett retardationsfält.",
+      "imgs": "X4-1.png"
+    },
+    {
+      "title": "Gul ljuspil eller ljuspilar (X5)",
+      "desc": "Anordningen anger att trafikanter skall passera på den sida pilen eller pilarna visar. Pilen eller pilarna kan vara blinkande.",
+      "imgs": "X5-1.png"
+    },
+    {
+      "title": "Särskild varningsanordning (X6)",
+      "desc": "Anordningen anger att framkomligheten på en väg är inskränkt på grund av ett tillfälligt hinder eller liknande. Texten på anordningen anpassas till orsaken.",
+      "imgs": "X6-1.png"
+    },
+    {
+      "title": "Vägbom (X7)",
+      "desc": "Anordningen anger att en väg är helt eller delvis avstängd för trafik. En bom kan vara försedd med ytterligare anordningar för att öka synbarheten.",
+      "imgs": "X7-1.png"
+    },
+    {
+      "title": "Tillfällig stängning (X8)",
+      "desc": "Anordningen anger att en anvisning genom ett vägmärke om väg till ort, plats, inrättning, anläggning eller liknande tillfälligt inte gäller. Anordningen är anpassad till vägmärket.",
+      "imgs": "X8-1.png"
+    },
+    {
+      "title": "Cirkulationstrafik (X9)",
+      "desc": "Anordningen anger mittpunkten i en rondell runt vilken fordon skall föras.",
+      "imgs": "X9-1.png"
+    },
+    {
+      "title": "Stolpmarkerings­anordning (X10)",
+      "desc": "Anordningen används för att det ska vara lättare att upptäcka ett vägmärke eller en annan anordning enligt denna förordning. Anordningen är placerad på en stolpe eller motsvarande som bär upp ett vägmärke eller en annan anordning. Anordningen är anpassad till förhållandena på platsen. En stolpmarkeringsanordning har samma färgsättning som det vägmärke eller den andra anordning som den sitter under om inte Transportstyrelsen föreskriver annat.",
+      "imgs": "X10-1.png"
+    }
+  ]
+}

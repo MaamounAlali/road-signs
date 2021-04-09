@@ -1,0 +1,194 @@
+{
+  "direction-signs": [
+    {
+      "title": "Orienteringstavla (F1)",
+      "desc": "Märket är en förberedande upplysning om korsning, cirkulationsplats eller motsvarande. Om det finns särskilda skäl kan upplysning om två korsningar anges på märket.",
+      "imgs": "F1-1.png"
+    },
+    {
+      "title": "Orienteringstavla vid förbjuden sväng i korsning (F2)",
+      "desc": "Märket är en förberedande upplysning om att det är förbjudet att svänga i en korsning, men att en annan körriktning kan väljas.",
+      "imgs": "F2-1.png"
+    },
+    {
+      "title": "Tabellorienterings­tavla (F3)",
+      "desc": "Märket är en förberedande upplysning om korsning, cirkulationsplats eller motsvarande. Avståndsangivelsen på märket är anpassad till förhållandena på platsen. Samtliga färdriktningar i korsningen anges.",
+      "imgs": "F3-1.png"
+    },
+    {
+      "title": "Avfartsorienterings­tavla (F4)",
+      "desc": "Märket är en förberedande upplysning om avfart. Avståndsangivelsen på märket är anpassad till förhållandena på platsen.",
+      "imgs": "F4-1.png"
+    },
+    {
+      "title": "Vägvisare (F5)",
+      "desc": "Märket är uppsatt i anslutning till en korsning. Om avstånd anges ska det anges i hela kilometer.",
+      "imgs": "F5-1.png"
+    },
+    {
+      "title": "Tabellvägvisare (F6)",
+      "desc": "Märket kan användas i stället för märke F5, vägvisare, och är uppsatt på kort avstånd före en korsning, cirkulationsplats eller i utfarten från en cirkulationsplats. Används märket i anslutning till ett sjukhusområde, industriområde eller motsvarande får området anges överst på märket utan riktningsangivelse.",
+      "imgs": "F6-1.png"
+    },
+    {
+      "title": "Avfartsvisare (F7)",
+      "desc": "Märket är uppsatt där avfarten börjar.",
+      "imgs": "F7-1.png"
+    },
+    {
+      "title": "Körfältsvägvisare (F8)",
+      "desc": "Märket anger det eller de körfält som är lämpligt att använda för färd till målet. Märket är uppsatt över det eller de körfält det avser. Körfältsvägvisare kan även användas som förberedande upplysning om avfart. I sådana fall anges avståndet till avfarten under angivelsen för avfarten.",
+      "imgs": "F8-1.png"
+    },
+    {
+      "title": "Samlingsmärke för vägvisning (F9)",
+      "desc": "Inom klammer anges mål som nås via ett gemensamt vägval och under klammerns spets anges det gemensamma vägvalet. Avståndet till aktuell avfart eller korsning kan anges på en tilläggstavla.",
+      "imgs": "F9-1.png"
+    },
+    {
+      "title": "Platsmärke (F10)",
+      "desc": "Märket anger en ort eller annan plats av betydelse för orienteringen. Kommun-, stads- eller länsvapen kan vara infogat i märket.",
+      "imgs": "F10-1.png"
+    },
+    {
+      "title": "Vägnamn (F11)",
+      "desc": "Märket anger namn på en viss väg eller led. Avvikelse från färg får inte ske.",
+      "imgs": "F11-1.png"
+    },
+    {
+      "title": "Vattendrag (F12)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "F12-1.png"
+    },
+    {
+      "title": "Avståndstavla (F13)",
+      "desc": "Avstånd anges i hela kilometer. Vägnamn eller vägnummer kan vara infogade i märket.",
+      "imgs": "F13-1.png"
+    },
+    {
+      "title": "Vägnummer (F14)",
+      "desc": "Vägnummer anges endast för vägar i nummergruppen 1–499. Ett märke med streckad bård anger att vägen leder till den väg som vägvisas med det nummer som anges på märket.",
+      "imgs": "F14-1.png"
+    },
+    {
+      "title": "Omledning (F15)",
+      "desc": "Märket anger permanent omledningsväg för ordinarie numrerad väg. Avvikelse från färg får inte ske.",
+      "imgs": "F15-1.png"
+    },
+    {
+      "title": "Ökning av antal körfält (F16)",
+      "desc": "Märket anger att antalet körfält ökar. Märket är anpassat efter förhållandena på platsen. Symboler för fordonsslag eller vägnummer kan vara infogade i märket. Märket används även som förberedande upplysning om att antalet körfält ökar. Avståndet anges då på en tilläggstavla. Vid tillfällig trafikomläggning får märket utföras på orange botten. I övrigt får avvikelse från färg inte ske.",
+      "imgs": "F16-1.png"
+    },
+    {
+      "title": "Minskning av antal körfält (F17)",
+      "desc": "Märket anger att antalet körfält minskar. Märket är anpassat efter förhållandena på platsen. Märket används även som förberedande upplysning om att antalet körfält minskar. Avståndet anges då på en tilläggstavla. Vid tillfällig trafikomläggning får märket utföras på orange botten. I övrigt får avvikelse från färg inte ske.",
+      "imgs": "F17-1.png"
+    },
+    {
+      "title": "Körfältsindelning på sträcka (F18)",
+      "desc": "Märket anger körriktning i körfält. Märket är anpassat efter förhållandena på platsen. Symboler för fordonsslag, vägnummer eller fysisk avgränsning mellan motriktade körfält kan vara infogade i märket. Märket används även som förberedande upplysning om att körfält börjar. Avståndet anges då på en tilläggstavla. Vid tillfällig trafikomläggning kan märket vara utfört med orange botten. I övrigt får avvikelse från färg inte ske.",
+      "imgs": "F18-1.png"
+    },
+    {
+      "title": "Väganslutning med accelerationsfält (F19)",
+      "desc": "Märket är anpassat efter förhållandena på platsen. Vid tillfällig trafikomläggning kan märket vara utfört med orange botten. I övrigt får avvikelse från färg inte ske.",
+      "imgs": "F19-1.png"
+    },
+    {
+      "title": "Väganslutning med separat körfält (F20)",
+      "desc": "Märket är anpassat efter förhållandena på platsen. Vid tillfällig trafikomläggning kan märket vara utfört med orange botten. I övrigt får avvikelse från färg inte ske.",
+      "imgs": "F20-1.png"
+    },
+    {
+      "title": "Körfältsindelning före korsning (F21)",
+      "desc": "Märket visar lämpligt körfält för fortsatt färd. Märket är anpassat till förhållandena på platsen. Avvikelse från färg får inte ske.",
+      "imgs": "F21-1.png"
+    },
+    {
+      "title": "Riksmärke (F22)",
+      "desc": "Märket anger gräns mot annat EU-land. Avvikelse från färg får inte ske.",
+      "imgs": "F22-1.png"
+    },
+    {
+      "title": "Orienteringstavla för omledningsväg (F23)",
+      "desc": "Märket anger omledningsväg när ordinarie väg tillfälligt är avstängd. Avvikelse från färg får inte ske.",
+      "imgs": "F23-1.png"
+    },
+    {
+      "title": "Färdriktning vid omledning (F24)",
+      "desc": "Märket anger färdriktning vid tillfällig omledning av trafik. Avvikelse från färg får inte ske.",
+      "imgs": "F24-1.png"
+    },
+    {
+      "title": "Körfält upphör (F25)",
+      "desc": "Märket anger att ett körfält tillfälligt är avstängt och att ett annat körfält kan användas i färdriktningen. Märket är anpassat efter förhållandena på platsen. Avvikelse från färg får inte ske.",
+      "imgs": "F25-1.png"
+    },
+    {
+      "title": "Körfält avstängt (F26)",
+      "desc": "Märket anger att ett körfält tillfälligt är avstängt och att inget annat körfält i färdriktningen kan användas. Märket är anpassat efter förhållandena på platsen. Avvikelse från färg får inte ske.",
+      "imgs": "F26-1.png"
+    },
+    {
+      "title": "Trafikplatsnummer (F27)",
+      "desc": "Märket anger numret på trafikplatsen. Märket kan vara kompletterat med avfartens beteckning. Avvikelse från färg får inte ske.",
+      "imgs": "F27-1.png"
+    },
+    {
+      "title": "Parkeringshus (F28)",
+      "desc": "Upplysning om att parkeringsplatsen är fullbelagd eller om att det finns lediga platser kan lämnas i anslutning till märket. Parkeringshusets namn kan vara infogat i märket.",
+      "imgs": "F28-1.png"
+    },
+    {
+      "title": "Infartsparkering (F29)",
+      "desc": "Märket anger parkeringsplats i anslutning till kollektivtrafik. Symbolen på märket anger vilken typ av kollektivtrafik som är tillgänglig. Transportstyrelsen får meddela föreskrifter om vilka andra symboler som får användas. Parkeringsplatsens namn kan vara infogat i märket. Märket kan vara infogat i ett lokaliseringsmärke för vägvisning. Avvikelse från färg får inte ske.",
+      "imgs": "F29-1.png"
+    },
+    {
+      "title": "Lokal slinga (F30)",
+      "desc": "Märket anger ringväg eller motsvarande. Märket kan vara kompletterat med beteckning eller motsvarande. Avvikelse från färg får inte ske.",
+      "imgs": "F30-1.png"
+    },
+    {
+      "title": "Märke för visst fordonsslag eller trafikantgrupp (F31)",
+      "desc": "Fordonsslaget eller trafikantgruppen anges med symbol enligt 28 §.",
+      "imgs": "F31-1.png"
+    },
+    {
+      "title": "Farligt gods (F32)",
+      "desc": "Märket anger rekommenderad färdväg för fordon med last som omfattas av krav på märkning med orangefärgad skylt enligt föreskrifter som har meddelats med stöd av lagen (2006:263) om transport av farligt gods. Avvikelse från färg får inte ske.",
+      "imgs": "F32-1.png"
+    },
+    {
+      "title": "Räddningsplats (F33)",
+      "desc": "Märket anger en räddningsplats vid vägarbeten eller motsvarande. Avvikelse från färg får inte ske.",
+      "imgs": "F33-1.png"
+    },
+    {
+      "title": "Vägvisare (F34)",
+      "desc": "Märket anger väg till en ort, plats, anläggning eller liknande. Avstånd i kilometer kan anges. Andra symboler kan förekomma på märket. Transportstyrelsen får meddela föreskrifter om vilka symboler som får förekomma. Transportstyrelsen får också meddela föreskrifter om att det inte behöver förekomma någon symbol på märket.",
+      "imgs": "F34-1.png"
+    },
+    {
+      "title": "Tabellvägvisare (F35)",
+      "desc": "Märket anger väg till orter, platser, anläggningar eller liknande. Avståndet anges i kilometer. Andra symboler kan förekomma på märket. Transportstyrelsen får meddela föreskrifter om vilka symboler som får förekomma. Transportstyrelsen får också meddela föreskrifter om att det inte behöver förekomma någon symbol på märket.",
+      "imgs": "F35-1.png"
+    },
+    {
+      "title": "Platsmärke (F36)",
+      "desc": "Märket anger en ort eller annan plats av betydelse för orienteringen.",
+      "imgs": "F36-1.png"
+    },
+    {
+      "title": "Avståndstavla (F37)",
+      "desc": "Märket anger avståndet till angivna orter, platser, anläggningar eller liknande. Avståndet anges i kilometer. Andra symboler kan förekomma på märket. Transportstyrelsen får meddela föreskrifter om vilka symboler som får förekomma. Transportstyrelsen får också meddela föreskrifter om att det inte behöver förekomma någon symbol på märket.",
+      "imgs": "F37-1.png"
+    },
+    {
+      "title": "Cykelled (F38)",
+      "desc": "Märket anger en särskilt anordnad cykelled. Märkets färgsättning kan variera.",
+      "imgs": "F38-1.png"
+    }
+  ]
+}

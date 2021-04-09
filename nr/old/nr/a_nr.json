@@ -1,0 +1,209 @@
+{
+  "warningSigns": [
+    {
+      "title": "Varning för farlig kurva (A1)",
+      "desc": "Märket anger en farlig kurva samt kurvans riktning.",
+      "imgs": "A1-1.png"
+    },
+    {
+      "title": "Varning för flera farliga kurvor (A2)",
+      "desc": "Märket anger flera farliga kurvor samt den första farliga kurvans riktning.",
+      "imgs": "A2-1.png"
+    },
+    {
+      "title": "Varning för nedförslutning (A3)",
+      "desc": "Märket anger brant nedförslutning. Siffran anger lutningen i procent och är anpassad till förhållandena på platsen.",
+      "imgs": "A3-1.png"
+    },
+    {
+      "title": "Varning för stigning (A4)",
+      "desc": "Märket anger kraftig stigning. Siffran anger stigningen i procent och är anpassad till förhållandena på platsen.",
+      "imgs": "A4-1.png"
+    },
+    {
+      "title": "Varning för avsmalnande väg (A5)",
+      "desc": "Märket anger att vägen eller banan smalnar av. Symbolen är anpassad efter förhållandena på platsen.",
+      "imgs": "A5-1.png"
+    },
+    {
+      "title": "Varning för bro (A6)",
+      "desc": "Märket anger en öppningsbar bro.",
+      "imgs": "A6-1.png"
+    },
+    {
+      "title": "Varning för kaj (A7)",
+      "desc": "Märket anger en plats där vägen slutar mot vatten.",
+      "imgs": "A7-1.png"
+    },
+    {
+      "title": "Varning för ojämn väg (A8)",
+      "desc": "Märket anger sådana ojämnheter eller skador i vägbanan som medför att det är lämpligt att färdas med lägre hastighet än som annars skulle varit fallet.",
+      "imgs": "A8-1.png"
+    },
+    {
+      "title": "Varning för farthinder (A9)",
+      "desc": "Märkena anger upphöjning eller grop som anlagts som fartdämpande åtgärd.",
+      "imgs": "A9-1.png"
+    },
+    {
+      "title": "Varning för slirig väg (A10)",
+      "desc": "Märket anger att vägen kan vara slirig. Endast om det finns särskilda skäl används märket för att varna för halka på grund av snö eller is.",
+      "imgs": "A10-1.png"
+    },
+    {
+      "title": "Varning för stenskott (A11)",
+      "desc": "Märket anger risk för stenskott. Märket används inte på grusvägar eller liknande vägar där stenskott är vanligt förekommande.",
+      "imgs": "A11-1.png"
+    },
+    {
+      "title": "Varning för stenras (A12)",
+      "desc": "Märket anger risk för stenras och för att stenar kan förekomma på vägen på grund av stenras. Symbolen är anpassad efter förhållandena på platsen.",
+      "imgs": "A12-1.png"
+    },
+    {
+      "title": "Varning för övergångsställe (A13)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "A13-1.png"
+    },
+    {
+      "title": "Varning för gående (A14)",
+      "desc": "Märket anger en vägsträcka där gående ofta korsar eller uppehåller sig på eller vid vägen.",
+      "imgs": "A14-1.png"
+    },
+    {
+      "title": "Varning för barn (A15)",
+      "desc": "Märket anger en vägsträcka där barn ofta korsar eller uppehåller sig på eller vid vägen.",
+      "imgs": "A15-1.png"
+    },
+    {
+      "title": "Varning för cyklande och mopedförare (A16)",
+      "desc": "Märket anger en vägsträcka där cyklande eller mopedförare ofta korsar eller kör in på vägen.",
+      "imgs": "A16-1.png"
+    },
+    {
+      "title": "Varning för skidåkare (A17)",
+      "desc": "Märket anger en plats där skidåkare ofta korsar eller uppehåller sig på vägen.",
+      "imgs": "A17-1.png"
+    },
+    {
+      "title": "Varning för ridande (A18)",
+      "desc": "Märket anger en vägsträcka där ridande ofta korsar eller uppehåller sig på vägen.",
+      "imgs": "A18-1.png"
+    },
+    {
+      "title": "Varning för djur (A19)",
+      "desc": "Märket anger en plats eller vägsträcka där det finns särskild risk för djur på eller vid vägen. Andra symboler kan förekomma på märket. Transportstyrelsen får meddela föreskrifter om vilka andra symboler som får förekomma.",
+      "imgs": "A19-1.png"
+    },
+    {
+      "title": "Varning för vägarbete (A20)",
+      "desc": "Märket anger en vägsträcka där vägarbete eller liknande arbete pågår.",
+      "imgs": "A20-1.png"
+    },
+    {
+      "title": "Slut på sträcka med vägarbete (A21)",
+      "desc": "Märket anger slut på en vägsträcka med vägarbete som märkts ut med märke A20, varning för vägarbete. Märket är inte uppsatt om det ändå tydligt framgår var sträckan slutar.",
+      "imgs": "A21-1.png"
+    },
+    {
+      "title": "Varning för flerfärgssignal (A22)",
+      "desc": "Märket anger en plats där trafiken regleras med flerfärgssignal med tre ljusöppningar. Inom tättbebyggt område är märket uppsatt endast om det finns särskilda skäl för det.",
+      "imgs": "A22-1.png"
+    },
+    {
+      "title": "Varning för lågt flygande flygplan (A23)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "A23-1.png"
+    },
+    {
+      "title": "Varning för sidvind (A24)",
+      "desc": "Märket anger en vägsträcka där det ofta förekommer stark sidvind. Symbolen är anpassad efter förhållandena på platsen.",
+      "imgs": "A24-1.png"
+    },
+    {
+      "title": "Varning för mötande trafik (A25)",
+      "desc": "Märket anger att en körbana med enkelriktad trafik övergår i en körbana med trafik i båda riktningarna.",
+      "imgs": "A25-1.png"
+    },
+    {
+      "title": "Varning för tunnel (A26)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "A26-1.png"
+    },
+    {
+      "title": "Varning för svag vägkant eller hög körbanekant (A27)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "A27-1.png"
+    },
+    {
+      "title": "Varning för vägkorsning (A28)",
+      "desc": "Märket anger en vägkorsning där bestämmelserna i 3 kap. 18 § trafikförordningen (1998:1276) är tillämpliga.",
+      "imgs": "A28-1.png"
+    },
+    {
+      "title": "Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt (A29)",
+      "desc": "Märket anger en vägkorsning där förare av fordon på anslutande vägar har väjningsplikt eller stopplikt. Symbolen är anpassad efter förhållandena på platsen.",
+      "imgs": "A29-1.png"
+    },
+    {
+      "title": "Varning för cirkulationsplats (A30)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "A30-1.png"
+    },
+    {
+      "title": "Varning för långsamtgående fordon (A31)",
+      "desc": "Märket anger en plats där långsamtgående fordon ofta korsar eller kör in på vägen.",
+      "imgs": "A31-1.png"
+    },
+    {
+      "title": "Varning för fordon med förspänt dragdjur (A32)",
+      "desc": "Märket anger en vägsträcka där fordon förspända med dragdjur ofta korsar eller uppehåller sig på vägen. Andra symboler kan förekomma på märket. Transportstyrelsen får meddela föreskrifter om vilka andra symboler som får förekomma.",
+      "imgs": "A32-1.png"
+    },
+    {
+      "title": "Varning för terrängskotertrafik (A33)",
+      "desc": "Märket anger en plats där terrängskotrar ofta korsar eller kör in på vägen.",
+      "imgs": "A33-1.png"
+    },
+    {
+      "title": "Varning för kö (A34)",
+      "desc": "Märket anger en vägsträcka där det finns risk för köbildning.",
+      "imgs": "A34-1.png"
+    },
+    {
+      "title": "Varning för järnvägskorsning med bommar (A35)",
+      "desc": "Märket anger en korsning med järnväg eller spårväg där det finns bommar.",
+      "imgs": "A35-1.png"
+    },
+    {
+      "title": "Varning för järnvägskorsning utan bommar (A36)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "A36-1.png"
+    },
+    {
+      "title": "Varning för korsning med spårväg (A37)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "A37-1.png"
+    },
+    {
+      "title": "Avstånd till plankorsning (A38)",
+      "desc": "Märkena anger avståndet till en plankorsning i tredjedelar. Märket med tre markeringar är, utom tättbebyggt område, uppsatt under något av märkena A35, varning för järnvägskorsning med bommar, A36, varning för järnvägskorsning utan bommar, eller A37, varning för korsning med spårväg. Märket med två markeringar anger två tredjedels avstånd till plankorsning och märket med en markering anger den sista tredjedelen av avståndet.",
+      "imgs": "A38-1.png"
+    },
+    {
+      "title": "Kryssmärke (A39)",
+      "desc": "Märket anger en korsning med järnväg eller spårväg med ett eller flera spår. Märket är uppsatt omedelbart före en plankorsning. Det behöver inte vara uppsatt vid enskild väg med lite trafik där det kan underlåtas utan fara för trafiksäkerheten. Märket kan även vara uppsatt vid en annan korsning med järnväg eller spårväg än en plankorsning.",
+      "imgs": "A39-1.png"
+    },
+    {
+      "title": "Varning för annan fara (A40)",
+      "desc": "Märket anger annan fara än sådan som kan anges med något annat varningsmärke. Farans art anges på en tilläggstavla.",
+      "imgs": "A40-1.png"
+    },
+    {
+      "title": "Varning för olycka (A41)",
+      "desc": "Senast uppdaterad 2020-02-11.",
+      "imgs": "A41-1.png"
+    }
+  ]
+}

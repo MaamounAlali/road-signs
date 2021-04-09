@@ -1,0 +1,44 @@
+{
+  "trucksLorries": [
+    {
+      "title": "Lkw or Kfz\n",
+      "img": "120px-thumbnail.svg.png",
+      "id": 158
+    },
+    {
+      "title": "Lkw Permitted\n",
+      "img": "120px-thumbnail.svg.png",
+      "id": 159
+    },
+    {
+      "title": "No Lkw Permitted\n",
+      "img": "120px-Zeichen_253_-_Verbot_f%C3%BCr_Kraftfahrzeuge_mit_einem_zul%C3%A4ssigen_Gesamtgewicht%2C_StVO_1992.svg.png",
+      "id": 160
+    },
+    {
+      "title": "Lkw mit AnhängerTruck with trailer\n",
+      "img": "120px-Zusatzzeichen_1010-60_-_Lastkraftwagen_mit_Anh%C3%A4nger_%28600x330%29%2C_StVO_2017.svg.png",
+      "id": 161
+    },
+    {
+      "title": "Lkw with trailer permitted\n",
+      "img": "120px-Zusatzzeichen_1024-13_-_LKW_mit_Anh%C3%A4nger_frei%2C_StVO_1992.svg.png",
+      "id": 162
+    },
+    {
+      "title": "Verbot für Lastkraftwagen (Lkw) mit AnhängerNo trucks with trailer(s) permitted\n",
+      "img": "120px-Zeichen_257-57_-_Verbot_f%C3%BCr_Lastkraftwagen_mit_Anh%C3%A4nger%2C_StVO_2017.svg.png",
+      "id": 163
+    },
+    {
+      "title": "Sattelkraftfahrzeuge[11]Semi/Tractor-Trailer\n",
+      "img": "120px-Zusatzzeichen_1048-14_-_nur_Sattelkraftfahrzeuge%2C_StVO_1992.svg.png",
+      "id": 164
+    },
+    {
+      "title": "Single & Double Trailer Semis\n",
+      "img": "120px-Zusatzzeichen_1048-15_-_nur_Sattelkraftfahrzeuge_und_Z%C3%BCge_%28450x600%29%2C_StVO_1992.svg.png",
+      "id": 165
+    }
+  ]
+}

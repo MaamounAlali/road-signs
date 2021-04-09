@@ -1,0 +1,74 @@
+{
+  "traffic-signals": [
+    {
+      "title": "Röd (SIG1)",
+      "desc": "Stopp. Fordon får inte passera stopplinjen eller, om sådan saknas, signalen. Signal med konturpil gäller endast den eller de färdriktningar som anges med pilen.",
+      "imgs": "SIG1-1.png"
+    },
+    {
+      "title": "Röd + gul (SIG2)",
+      "desc": "Växling till grön signalbild är omedelbart förestående. I övrigt har signalbilden samma innebörd som röd.",
+      "imgs": "SIG2-1.png"
+    },
+    {
+      "title": "Grön (SIG3)",
+      "desc": "Fordon får fortsätta framåt. Grön pil innebär att signalen gäller den färdriktning som anges med pilen. Fordon får föras i pilens riktning även om en annan signalbild visas samtidigt.",
+      "imgs": "SIG3-1.png"
+    },
+    {
+      "title": "Gul (SIG4)",
+      "desc": "Stanna. Fordon får inte passera stopplinjen eller, om sådan saknas, signalen i annat fall än då det hunnit så långt fram när signalbilden växlar från grön till gul att det inte kan stannas utan fara. Signal med konturpil gäller endast den eller de färdriktningar som anges med pilen.",
+      "imgs": "SIG4-1.png"
+    },
+    {
+      "title": "Blinkande gul (SIG5)",
+      "desc": "Särskild försiktighet skall iakttas vid passage.",
+      "imgs": "SIG5-1.png"
+    },
+    {
+      "title": "Röd akustisk signal med långsam pulsfrekvens (SIG6)",
+      "desc": "Förbjudet att beträda en körbana, cykelbana eller järnvägs- eller spårvägskorsning. Gående som befinner sig på körbanan eller cykelbanan när signalen slår om till röd signalbild skall fortsätta till andra sidan. Finns en refug eller liknande anordning skall den gående dock stanna där.",
+      "imgs": "SIG6-1.png"
+    },
+    {
+      "title": "Grön akustisk signal med snabb pulsfrekvens (SIG7)",
+      "desc": "Körbana, cykelbana eller järnvägs- eller spårvägskorsning får beträdas.",
+      "imgs": "SIG7-1.png"
+    },
+    {
+      "title": "S (SIG8)",
+      "desc": "Stopp. Fordon och spårvagn får inte passera stopplinjen, eller om sådan saknas, signalen.",
+      "imgs": "SIG8-1.png"
+    },
+    {
+      "title": "S+vågrätt streck (SIG9)",
+      "desc": "Växling till lodrätt streck är omedelbart förestående. I övrigt har signalbilden samma innebörd som S.",
+      "imgs": "SIG9-1.png"
+    },
+    {
+      "title": "Lodrätt streck eller pil (SIG10)",
+      "desc": "Fordon och spårvagn får fortsätta framåt. Pil innebär att signalen gäller den färdriktning som anges med pilen.",
+      "imgs": "SIG10-1.png"
+    },
+    {
+      "title": "Vågrätt streck (SIG11)",
+      "desc": "Stanna. Fordon och spårvagn får inte passera stopplinjen, eller om sådan saknas, signalen i annat fall än då det hunnit så långt fram när signalen växlar från lodrätt till vågrätt streck att det inte kan stannas utan fara.",
+      "imgs": "SIG11-1.png"
+    },
+    {
+      "title": "Rött kryss (SIG12)",
+      "desc": "Körfältet och i förekommande fall vägrenen intill körfältet får inte användas för trafik.",
+      "imgs": "SIG12-1.png"
+    },
+    {
+      "title": "Gul pil eller pilar (SIG13)",
+      "desc": "Föraren skall byta körfält i den riktning pilen eller pilarna anger.",
+      "imgs": "SIG13-1.png"
+    },
+    {
+      "title": "Grön pil (SIG14)",
+      "desc": "Körfältet får användas för trafik. I stället för grön pil kan ett vägmärke förekomma.",
+      "imgs": "SIG14-1.png"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "mandatory-signs": [
+    {
+      "title": "Proceed right",
+      "imgs": "Norwegian-road-sign-402.1.svg.png",
+      "desc": "",
+      "id": 95
+    },
+    {
+      "title": "Proceed left",
+      "imgs": "Norwegian-road-sign-402.2.svg.png",
+      "desc": "",
+      "id": 96
+    },
+    {
+      "title": "Proceed straight",
+      "imgs": "Norwegian-road-sign-402.3.svg.png",
+      "desc": "",
+      "id": 97
+    },
+    {
+      "title": "Turn right",
+      "imgs": "180px-Norwegian-road-sign-402.4.svg.png",
+      "desc": "",
+      "id": 98
+    },
+    {
+      "title": "Turn left",
+      "imgs": "Norwegian-road-sign-402.5.svg.png",
+      "desc": "",
+      "id": 99
+    },
+    {
+      "title": "Drive straight or turn right",
+      "imgs": "Norwegian-road-sign-402.6.svg.png",
+      "desc": "",
+      "id": 100
+    },
+    {
+      "title": "Drive straight or turn left",
+      "imgs": "Norwegian-road-sign-402.7.svg.png",
+      "desc": "",
+      "id": 101
+    },
+    {
+      "title": "Turn right or left",
+      "imgs": "Norwegian-road-sign-402.8.svg.png",
+      "desc": "",
+      "id": 102
+    },
+    {
+      "title": "Pass on right",
+      "imgs": "Norwegian-road-sign-404.1.svg.png",
+      "desc": "",
+      "id": 103
+    },
+    {
+      "title": "Pass on left",
+      "imgs": "Norwegian-road-sign-404.2.svg.png",
+      "desc": "",
+      "id": 104
+    },
+    {
+      "title": "Roundabout",
+      "imgs": "Norwegian-road-sign-406.0.svg.png",
+      "desc": "",
+      "id": 105
+    },
+    {
+      "title": "Mandatory direction in roundabout",
+      "imgs": "180px-Norwegian-road-sign-408.jpg",
+      "desc": "",
+      "id": 106
+    }
+  ]
+}

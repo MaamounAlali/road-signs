@@ -1,0 +1,89 @@
+{
+  "primaryRoadClassificationsRelatedSigns": [
+    {
+      "title": "Verbot der EinfahrtDo Not Enter\n",
+      "img": "120px-Zeichen_267_-_Verbot_der_Einfahrt%2C_StVO_1970.svg.png",
+      "id": 185
+    },
+    {
+      "title": "Verbot des WendensNo U-turns\n",
+      "img": "120px-Zeichen_272%2C_Verbot_des_Wendens%2C_StVO_1992.svg.png",
+      "id": 186
+    },
+    {
+      "title": "Vorgeschriebene MindestgeschwindigkeitMinimum (30 km/h) Speed Required\n",
+      "img": "120px-Zeichen_275_-_Vorgeschriebene_Mindestgeschwindigkeit%2C_StVO_1992.svg.png",
+      "id": 187
+    },
+    {
+      "title": "Ende der ...End of...\n",
+      "img": "120px-Zeichen_279-30_-_Ende_der_vorgeschriebenen_Mindestgeschwindigkeit%2C_StVO_2017.svg.png",
+      "id": 188
+    },
+    {
+      "title": "Beginn einer Tempo 30-ZoneMaximum (30 km/h) Zone (still in effect after junctions)\n",
+      "img": "120px-Zeichen_274.1_-_Beginn_einer_Tempo_30-Zone%2C_StVO_2013.svg.png",
+      "id": 189
+    },
+    {
+      "title": "End of...\n",
+      "img": "120px-Zeichen_274.2_-_Ende_einer_Tempo_30-Zone_%28einseitig%29%2C_StVO_2013.svg.png",
+      "id": 190
+    },
+    {
+      "title": "Zulässige HöchstgeschwindigkeitMaximum Speed (60 km/h)\n",
+      "img": "120px-Zeichen_274-60_-_Zul%C3%A4ssige_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg.png",
+      "id": 191
+    },
+    {
+      "title": "Ende der  ...End of...\n",
+      "img": "120px-Zeichen_278-60_-_Ende_der_zul%C3%A4ssigen_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg.png",
+      "id": 192
+    },
+    {
+      "title": "Maximum (or recommended) Speeds in Germany for Developed/Urban Areas (50), Bundesstraßen (100) & Autobahn (130)\n",
+      "img": "82px-Zeichen_393_b_-_Informationstafel_an_Grenz%C3%BCberg%C3%A4ngen_%28an_sonstigen_Stra%C3%9Fen_au%C3%9Ferhalb_der_Autobahn%29%2C_StVO_1981.svg.png",
+      "id": 193
+    },
+    {
+      "title": "Überholverbot für Kraftfahrzeuge aller ArtNo Passing (for any vehicle type)\n",
+      "img": "120px-Zeichen_276_-_%C3%9Cberholverbot_f%C3%BCr_Kraftfahrzeuge_aller_Art%2C_StVO_1992.svg.png",
+      "id": 194
+    },
+    {
+      "title": "End of...\n",
+      "img": "120px-Zeichen_280_-_Ende_des_%C3%9Cberholverbotes_f%C3%BCr_Kraftfahrzeuge_aller_Art%2C_StVO_1992.svg.png",
+      "id": 195
+    },
+    {
+      "title": "No Passing (by vehicles over 3,5 t)\n",
+      "img": "120px-Zeichen_277_-_%C3%9Cberholverbot_f%C3%BCr_Kraftfahrzeuge_mit_einem_zul%C3%A4ssigen_Gesamtgewicht_%C3%BCber_2%2C8_t%2C_einschlie%C3%9Flich_ihrer_Anh%C3%A4nger%2C_StVO_1992.svg.png",
+      "id": 196
+    },
+    {
+      "title": "End of...\n",
+      "img": "120px-Zeichen_281_-_Ende_des_%C3%9Cberholverbots_f%C3%BCr_Kraftfahrzeuge_mit_einem_zul%C3%A4ssigen_Gesamtgewicht_%C3%BCber_3%2C5_t%2C_StVO_1992.svg.png",
+      "id": 197
+    },
+    {
+      "title": "UmweltLow-emission zone / Environmental Zone\n",
+      "img": "120px-Zeichen_270.1_-_Beginn_eines_Verkehrsverbots_zur_Verminderung_sch%C3%A4dlicher_Luftverunreinigungen_in_einer_Zone._I%2C_StVO_2007.svg.png",
+      "id": 198
+    },
+    {
+      "title": "End of a low-emission zone\n",
+      "img": "120px-Zeichen_270.2_-_Ende_eines_Verkehrsverbots_zur_Verminderung_sch%C3%A4dlicher_Luftverunreinigungen_in_einer_Zone%2C_StVO_2007.svg.png",
+      "id": 199
+    },
+    {
+      "title": "Lkw / Trucks / Semis must maintain minimum (70 m) spacing\n",
+      "img": "120px-Zeichen_273-70_-_Verbot_des_Unterschreitens_des_angegebenen_Mindestabstandes%2C_StVO_2017.svg.png",
+      "id": 200
+    },
+    {
+      "title": "Schneeketten sind vorgeschriebenSnow chains must be carried in vehicle\n",
+      "img": "120px-Zeichen_268_-_Schneeketten_sind_vorgeschrieben%2C_StVO_1992.svg.png",
+      "id": 201
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "supplementary-signs": [
+    {
+      "title": "Distance",
+      "imgs": "Norwegian-road-sign-802.0.svg.png",
+      "desc": "Advance warning about where the main sign goes into effect, or where a corresponding sign is set up.",
+      "id": 271
+    },
+    {
+      "title": "Stretch",
+      "imgs": "Norwegian-road-sign-804.0.svg.png",
+      "desc": "Main sign is in effect for the given distance.",
+      "id": 272
+    },
+    {
+      "title": "Time",
+      "imgs": "180px-Norwegian-road-sign-806.0.svg.png",
+      "desc": "Main sign is only in effect between given times. Black numbers in parenthesis apply on Saturdays, and red numbers apply on Sundays and official holidays.",
+      "id": 273
+    },
+    {
+      "title": "Car",
+      "imgs": "Norwegian-road-sign-807.1.svg.png",
+      "desc": "Main sign applies to this type of vehicle.",
+      "id": 274
+    },
+    {
+      "title": "Goods van, lorry and tractor unit",
+      "imgs": "Norwegian-road-sign-807.2.svg.png",
+      "desc": "",
+      "id": 275
+    },
+    {
+      "title": "Bus",
+      "imgs": "Norwegian-road-sign-807.3.svg.png",
+      "desc": "",
+      "id": 276
+    },
+    {
+      "title": "Tractor-trailer",
+      "imgs": "Norwegian-road-sign-807.4.svg.png",
+      "desc": "",
+      "id": 277
+    },
+    {
+      "title": "Trailer furnished for camping (Caravan)",
+      "imgs": "Norwegian-road-sign-807.5.svg.png",
+      "desc": "",
+      "id": 278
+    },
+    {
+      "title": "Bicycle",
+      "imgs": "Norwegian-road-sign-807.6.svg.png",
+      "desc": "",
+      "id": 279
+    },
+    {
+      "title": "Motorcycle and moped",
+      "imgs": "Norwegian-road-sign-807.7.svg.png",
+      "desc": "",
+      "id": 280
+    },
+    {
+      "title": "Handicapped driver",
+      "imgs": "Norwegian-road-sign-807.8.svg.png",
+      "desc": "Requires a visible parking permit for handicapped drivers.",
+      "id": 281
+    },
+    {
+      "title": "Vehicle furnished for camping (Motorhome)",
+      "imgs": "Norwegian-road-sign-807.9.svg.png",
+      "desc": "",
+      "id": 282
+    },
+    {
+      "title": "Text",
+      "imgs": "Norwegian-road-sign-808.42b.svg.png",
+      "desc": "Used when there are no symbols that represent the regulation or information. Depicted sign is common and says: “Does not apply to buses and taxis”.",
+      "id": 283
+    },
+    {
+      "title": "Turn arrow",
+      "imgs": "Norwegian-road-sign-810.H90.svg.png",
+      "desc": "Arrows vary. Main sign applies after the turn.",
+      "id": 284
+    },
+    {
+      "title": "Recommended speed",
+      "imgs": "Norwegian-road-sign-812.0.svg.png",
+      "desc": "",
+      "id": 285
+    },
+    {
+      "title": "Uphill inclination",
+      "imgs": "Norwegian-road-sign-813.1.svg.png",
+      "desc": "",
+      "id": 286
+    },
+    {
+      "title": "Inclination",
+      "imgs": "Norwegian-road-sign-813.2.svg.png",
+      "desc": "",
+      "id": 287
+    },
+    {
+      "title": "Actual available width",
+      "imgs": "Norwegian-road-sign-814.0.svg.png",
+      "desc": "",
+      "id": 288
+    },
+    {
+      "title": "Crossing lumber transport",
+      "imgs": "Norwegian-road-sign-816.0.svg.png",
+      "desc": "",
+      "id": 289
+    },
+    {
+      "title": "Particular danger of accident",
+      "imgs": "180px-Norwegian-road-sign-817.1.svg.png",
+      "desc": "Symbol varies.",
+      "id": 290
+    },
+    {
+      "title": "Course of priority road",
+      "imgs": "Norwegian-road-sign-822.5.svg.png",
+      "desc": "Symbol varies. Priority road is represented by the thick line. Roads represented by thin lines have give way or stop signs for the priority road.",
+      "id": 291
+    },
+    {
+      "title": "Advance warning for stop sign",
+      "imgs": "180px-Norwegian-road-sign-824_0.png",
+      "desc": "",
+      "id": 292
+    },
+    {
+      "title": "Bicycle traffic in both directions",
+      "imgs": "Norwegian-road-sign-826.0.svg.png",
+      "desc": "",
+      "id": 293
+    },
+    {
+      "title": "Direction for a stop or parking regulation sign",
+      "imgs": "Norwegian-road-sign-828.1.svg.png",
+      "desc": "",
+      "id": 294
+    },
+    {
+      "title": "Direction for a stop or parking regulation sign",
+      "imgs": "Norwegian-road-sign-828.2.svg.png",
+      "desc": "",
+      "id": 295
+    },
+    {
+      "title": "Direction for a stop or parking regulation sign",
+      "imgs": "Norwegian-road-sign-828.3.svg.png",
+      "desc": "",
+      "id": 296
+    },
+    {
+      "title": "Arrangement for parked vehicles",
+      "imgs": "Norwegian-road-sign-829.0.svg.png",
+      "desc": "",
+      "id": 297
+    },
+    {
+      "title": "Parking board",
+      "imgs": "180px-Norwegian-road-sign-831.0.svg.png",
+      "desc": "Indicates that parking is only allowed by given regulations when a valid parking ticket or disc is placed highly visible inside the windshield.",
+      "id": 298
+    },
+    {
+      "title": "Combined regulation",
+      "imgs": "Norwegian-road-sign-834.0.svg.png",
+      "desc": "In this example, the times written only applies for cars.",
+      "id": 299
+    }
+  ]
+}

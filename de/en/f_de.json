@@ -1,0 +1,79 @@
+{
+  "trafficPriority": [
+    {
+      "title": "VorfahrtstraßePriority Road\n",
+      "img": "120px-Zeichen_306_-_Vorfahrtstra%C3%9Fe%2C_StVO_1970.svg.png",
+      "id": 0
+    },
+    {
+      "title": "Course of this priority road turns left\n",
+      "img": "120px-Zusatzzeichen_1002-10_-_Verlauf_der_Vorfahrtsstra%C3%9Fe_an_Kreuzungen_%28von_unten_nach_links%29%2C_StVO_1992.svg.png",
+      "id": 1
+    },
+    {
+      "title": "Road from left and ahead has priority\n",
+      "img": "120px-Zusatzzeichen_1002-11_-_Verlauf_der_Vorfahrtsstra%C3%9Fe_an_Kreuzungen_%28von_oben_nach_links%29%2C_StVO_1992.svg.png",
+      "id": 2
+    },
+    {
+      "title": "",
+      "img": "120px-Zusatzzeichen_1002-20_-_Verlauf_der_Vorfahrtsstra%C3%9Fe_an_Kreuzungen_%28von_unten_nach_rechts%29%2C_StVO_1992.svg.png",
+      "id": 3
+    },
+    {
+      "title": "",
+      "img": "120px-Zusatzzeichen_1002-21_-_Verlauf_der_Vorfahrtsstra%C3%9Fe_an_Kreuzungen_%28von_oben_nach_rechts%29%2C_StVO_1992.svg.png",
+      "id": 4
+    },
+    {
+      "title": "",
+      "img": "120px-Zusatzzeichen_1002-12_-_Verlauf_der_Vorfahrtsstra%C3%9Fe_an_Einm%C3%BCndungen_%28von_unten_nach_links%2C_Fall_1%29%2C_StVO_1992.svg.png",
+      "id": 5
+    },
+    {
+      "title": "",
+      "img": "120px-Zusatzzeichen_1002-13_-_Verlauf_der_Vorfahrtsstra%C3%9Fe_an_Einm%C3%BCndungen_%28von_unten_nach_links%2C_Fall_2%29%2C_StVO_1992.svg.png",
+      "id": 6
+    },
+    {
+      "title": "",
+      "img": "120px-Zusatzzeichen_1002-14.svg.png",
+      "id": 7
+    },
+    {
+      "title": "",
+      "img": "120px-Zusatzzeichen_1002-22_-_Verlauf_der_Vorfahrtsstra%C3%9Fe_an_Einm%C3%BCndungen_%28von_unten_nach_rechts%2C_Fall_1%29%2C_StVO_1992.svg.png",
+      "id": 8
+    },
+    {
+      "title": "",
+      "img": "120px-Zusatzzeichen_1002-23_-_Verlauf_der_Vorfahrtsstra%C3%9Fe_an_Einm%C3%BCndungen_%28von_unten_nach_rechts%2C_Fall_2%29%2C_StVO_1992.svg.png",
+      "id": 9
+    },
+    {
+      "title": "",
+      "img": "120px-Zusatzzeichen_1002-24_-_Verlauf_der_Vorfahrtsstra%C3%9Fe_an_Einm%C3%BCndungen_%28von_oben_nach_rechts%29%2C_StVO_1992.svg.png",
+      "id": 10
+    },
+    {
+      "title": "Ende der VorfahrtsstraßeEnd of Priority Road\n",
+      "img": "120px-Zeichen_307_-_Ende_der_Vorfahrtstra%C3%9Fe%2C_StVO_1981.svg.png",
+      "id": 11
+    },
+    {
+      "title": "VorfahrtPriority to through-traffic at the next intersection/crossroads only\n",
+      "img": "120px-Zeichen_301_-_Vorfahrt%2C_StVO_1970.svg.png",
+      "id": 12
+    },
+    {
+      "title": "Kreuzung o. Einmündung mit Vorfahrt von rechtsUncontrolled Intersection Ahead\n",
+      "img": "120px-Zeichen_102_-_Kreuzung_oder_Einm%C3%BCndung_mit_Vorfahrt_von_rechts%2C_StVO_1970.svg.png",
+      "id": 13
+    },
+    {
+      "title": "Yield to cross traffic\n",
+      "img": "120px-Zeichen_205_-_Vorfahrt_gew%C3%A4hren%21_StVO_1970.svg.png",
+      "id": 14
+    }
+  ]
+}

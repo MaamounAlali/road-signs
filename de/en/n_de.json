@@ -1,0 +1,34 @@
+{
+  "restrictionsAllowancesForVehicles": [
+    {
+      "title": "MassenangabeWeight (7.5 tons)\n",
+      "img": "120px-Zusatzzeichen_1053-33_-_Massenangabe_%E2%80%93_7%2C5_t_%28420x231%29%2C_StVO_2017.svg.png",
+      "id": 166
+    },
+    {
+      "title": "Verbot für Fahrzeuge über angegebene tatsächliche MasseTotal Vehicle Weight Limit (5.5 tonnes)\n",
+      "img": "120px-Zeichen_262-5%2C5_-_Verbot_f%C3%BCr_Fahrzeuge_%C3%BCber_angegebene_tats%C3%A4chliche_Masse%2C_StVO_2017.svg.png",
+      "id": 167
+    },
+    {
+      "title": "Verbot für Fahrzeuge über angegebene tatsächliche AchslastLoad Limit per Axle (8 tonnes)\n",
+      "img": "120px-Zeichen_263-8_-_Verbot_f%C3%BCr_Fahrzeuge_%C3%BCber_angegebene_tats%C3%A4chliche_Achslast%2C_StVO_2017.svg.png",
+      "id": 168
+    },
+    {
+      "title": "Verbot für Fahrzeuge über angegebene tatsächliche BreiteWidth Limit (including wing mirrors)\n",
+      "img": "120px-Zeichen_264-2_-_Verbot_f%C3%BCr_Fahrzeuge_%C3%BCber_angegebene_tats%C3%A4chliche_Breite%2C_StVO_2017.svg.png",
+      "id": 169
+    },
+    {
+      "title": "Verbot für Fahrzeuge über angegebene tatsächliche HöheHeight Limit (3.8 meters)\n",
+      "img": "120px-Zeichen_265-3%2C8_-_Verbot_f%C3%BCr_Fahrzeuge_%C3%BCber_angegebene_tats%C3%A4chliche_H%C3%B6he%2C_StVO_2017.svg.png",
+      "id": 170
+    },
+    {
+      "title": "Verbot für Fahrzeuge über angegebene tatsächliche LängeLength Limit (10 meters)\n",
+      "img": "120px-Zeichen_266-10_-_Verbot_f%C3%BCr_Fahrzeuge_%C3%BCber_angegebene_tats%C3%A4chliche_L%C3%A4nge%2C_StVO_2017.svg.png",
+      "id": 171
+    }
+  ]
+}

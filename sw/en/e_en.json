@@ -1,0 +1,174 @@
+{
+  "instruction-signs": [
+    {
+      "title": "Motorway (E1)",
+      "desc": "If the sign is used as preparatory information indicating that a motorway is starting, the distance is given on an additional panel. The sign may also be included in a location sign.",
+      "imgs": "E1-1.png"
+    },
+    {
+      "title": "End of motorway (E2)",
+      "desc": "If the sign is used as preparatory information indicating that a motorway is ending, the distance is given on an additional panel. The sign is not used when a motorway turns into a clearway.",
+      "imgs": "E2-1.png"
+    },
+    {
+      "title": "Clearway (E3)",
+      "desc": "If the sign is used as preparatory information indicating that a clearway is starting, the distance is given on an additional panel. The sign may also be included in a location sign.",
+      "imgs": "E3-1.png"
+    },
+    {
+      "title": "End of clearway (E4)",
+      "desc": "If the sign is used as preparatory information indicating that a clearway is ending, the distance is given on an additional panel. The sign is not used when a clearway turns into a motorway.",
+      "imgs": "E4-1.png"
+    },
+    {
+      "title": "Built-up area (E5)",
+      "desc": "The place name may be included in the sign.",
+      "imgs": "E5-1.png"
+    },
+    {
+      "title": "Built-up area ends (E6)",
+      "desc": "",
+      "imgs": "E6-1.png"
+    },
+    {
+      "title": "Pedestrian street (E7)",
+      "desc": "The sign indicates that the provisions of Chapter 8, Section 1 of the Road Traffic Ordinance (1998:1276) apply. Any prohibition on driving vehicles that are permitted on a pedestrian street according to Chapter 8, Section 1, second paragraph of the Road Traffic Ordinance is indicated using an additional panel.",
+      "imgs": "E7-1.png"
+    },
+    {
+      "title": "End of pedestrian street (E8)",
+      "desc": "The sign does not need to be posted if it is otherwise clear that the pedestrian street comes to an end.",
+      "imgs": "E8-1.png"
+    },
+    {
+      "title": "Home zone (E9)",
+      "desc": "",
+      "imgs": "E9-1.png"
+    },
+    {
+      "title": "Home zone ends (E10)",
+      "desc": "",
+      "imgs": "E10-1.png"
+    },
+    {
+      "title": "Recommended lower speed (E11)",
+      "desc": "The sign indicates a stretch of road or an area where specific measures have been taken or where conditions are such that it is advisable to drive at a lower speed than the maximum permitted speed. The recommended lower speed is indicated on the sign.",
+      "imgs": "E11-1.png"
+    },
+    {
+      "title": "Recommended lower speed ends (E12)",
+      "desc": "The sign does not need to be posted if it is otherwise clear that the stretch comes to an end.",
+      "imgs": "E12-1.png"
+    },
+    {
+      "title": "Recommended maximum speed (E13)",
+      "desc": "The sign is only used as an adjustable road sign and indicates that the conditions are such that, for a limited period, it is not advisable to travel at a higher speed than the one indicated on the sign. The indicated speed is therefore lower than the maximum permitted speed.",
+      "imgs": "E13-1.png"
+    },
+    {
+      "title": "End of recommended maximum speed (E14)",
+      "desc": "The sign does not need to be posted if it is otherwise clear that the temporary circumstance comes to an end.",
+      "imgs": "E14-1.png"
+    },
+    {
+      "title": "Merge (E15)",
+      "desc": "The sign indicates that two lanes or carriageways are merging to form one and that the drivers are to adapt to the new conditions at the location, according to the provisions of Chapter 3, Section 44 of the Road Traffic Ordinance.",
+      "imgs": "E15-1.png"
+    },
+    {
+      "title": "One-way traffic (E16)",
+      "desc": "The sign indicates that vehicle traffic on the road is one-way in the direction of the arrow. An arrow pointing up indicates that the traffic is one-way in a forward direction.",
+      "imgs": "E16-1.png"
+    },
+    {
+      "title": "No through road (E17)",
+      "desc": "This sign indicates that passage is not possible.",
+      "imgs": "E17-1.png"
+    },
+    {
+      "title": "Passing place (E18)",
+      "desc": "",
+      "imgs": "E18-1.png"
+    },
+    {
+      "title": "Parking (E19)",
+      "desc": "",
+      "imgs": "E19-1.png"
+    },
+    {
+      "title": "Zone sign (E20)",
+      "desc": "The sign is erected at the entrances to the area and applies up to the point where the sign E21, end of zone, is erected or it is otherwise clearly indicated that the instructions on the sign no longer apply. Within the area, there may be deviations from the instructions on the sign. These deviations are indicated through other road signs and additional panels. The instructions on the sign also apply after such deviation without the sign being repeated.",
+      "imgs": "E20-1.png"
+    },
+    {
+      "title": "Zone ends (E21)",
+      "desc": "",
+      "imgs": "E21-1.png"
+    },
+    {
+      "title": "Bus stop (E22)",
+      "desc": "",
+      "imgs": "E22-1.png"
+    },
+    {
+      "title": "Taxi (E23)",
+      "desc": "",
+      "imgs": "E23-1.png"
+    },
+    {
+      "title": "Automatic traffic surveillance (E24)",
+      "desc": "",
+      "imgs": "E24-1.png"
+    },
+    {
+      "title": "Road charge (E25)",
+      "desc": "",
+      "imgs": "E25-1.png"
+    },
+    {
+      "title": "Tunnel (E26)",
+      "desc": "The sign indicates a tunnel. The tunnel’s length is indicated and the tunnel’s name may be given on the sign. The sign repeats after every kilometre and the remaining length of tunnel is stated on the sign.",
+      "imgs": "E26-1.png"
+    },
+    {
+      "title": "Emergency refuge area (E27)",
+      "desc": "",
+      "imgs": "E27-1.png"
+    },
+    {
+      "title": "Emergency exit (E28)",
+      "desc": "",
+      "imgs": "E28-1.png"
+    },
+    {
+      "title": "Emergency exit route (E29)",
+      "desc": "",
+      "imgs": "E29-1.png"
+    },
+    {
+      "title": "Special rules for parking (E30)",
+      "desc": "The panel indicates a deviation from the sign under which it is placed or from Chapter 3, Section 53, point 10 or Section 54 of the Road Traffic Ordinance (1998:1276). It is used beneath one of the following signs; C35, Vehicle parking is prohibited, C36, Vehicle parking is prohibited on odd-numbered dates, C37, Vehicle parking is prohibited on even-numbered dates, C38, Date parking, C39, No stopping or parking, C40, Purposeful location, C42, Turning area, D10, Reserved lane or carriageway for vehicles operating a regular service etc., E19, Parking, E20, No parking zone, or E22, Bus stop. One of these signs is depicted in miniature on the panel. For the times, the more detailed provisions relating to panel T6, Time indication, apply. The background colour on the panel is the same as the background colour on the sign depicted on the panel according to what is stated in Section 29.",
+      "imgs": "E30-1.png"
+    },
+    {
+      "title": "Environmental zone (E31)",
+      "desc": "",
+      "imgs": "E31-1.png"
+    },
+    {
+      "title": "End of environmental zone (E32)",
+      "desc": "",
+      "imgs": "E32-1.png"
+    },
+    {
+      "title": "Bicycle street (E33)",
+      "desc": "",
+      "imgs": "E33-1.png"
+    },
+    {
+      "title": "End of bicycle street (E34)",
+      "desc": "",
+      "imgs": "E34-1.png"
+    }
+  ]
+}

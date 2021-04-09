@@ -1,0 +1,129 @@
+{
+  "autobahn": [
+    {
+      "title": "Nummernschild für AutobahnenAutobahn - (limited access highway) route number (48)\n",
+      "img": "120px-Zeichen_405_-_Nummernschild_f%C3%BCr_Autobahnen%2C_StVO_1992.svg.png",
+      "id": 202
+    },
+    {
+      "title": "Knotenpunkte der AutobahnenInterchange/Exit/Ausfahrt Number (26)\n",
+      "img": "120px-Zeichen_406-50_-_Knotenpunkte_der_Autobahnen_%28ein-_oder_zweistellige_Nummer%29%2C_650x650%3B_StVO_2013.svg.png",
+      "id": 203
+    },
+    {
+      "title": "Autobahn distance sign (usually after entrance)\n",
+      "img": "120px-Zeichen_453_-_Entfernungstafel_auf_Autobahnen%2C_StVO_1992.svg.png",
+      "id": 204
+    },
+    {
+      "title": "Autobahn sign indicating next exit has a service area nearby\n",
+      "img": "120px-Zeichen_448.1_-_Autohof%2C_StVO_2000.svg.png",
+      "id": 205
+    },
+    {
+      "title": "Autobahn sign  announcing next exit\n",
+      "img": "120px-Zeichen_448_-_Ank%C3%BCndigungstafel_auf_Autobahnen%2C_StVO_1992.svg.png",
+      "id": 206
+    },
+    {
+      "title": "Autobahn reminder exit sign, showing next exit ahead\n",
+      "img": "113px-Zeichen_449_-_Vorwegweiser_auf_Autobahnen_%28nach_RWBA%29%2C_StVO_1992.svg.png",
+      "id": 207
+    },
+    {
+      "title": "Autobahn marker (300m before exit)\n",
+      "img": "65px-Zeichen_450_-_Ank%C3%BCndigungsbake_auf_Autobahnen%2C_StVO_1970.svg.png",
+      "id": 208
+    },
+    {
+      "title": "Autobahn marker (200m before exit)\n",
+      "img": "52px-Zeichen_451_-_Ank%C3%BCndigungsbake_auf_Autobahnen%2C_StVO_1970.svg.png",
+      "id": 209
+    },
+    {
+      "title": "Autobahn marker (100m before exit)\n",
+      "img": "52px-Zeichen_452_-_Ank%C3%BCndigungsbake_%28einstreifig%29%2C_StVO_1970.svg.png",
+      "id": 210
+    },
+    {
+      "title": "Autobahn Ausfahrtexit (at end of exit lane)\n",
+      "img": "120px-Zeichen_333_-_Pfeilschild_-_Ausfahrt_von_der_Autobahn%2C_StVO_1980.svg.png",
+      "id": 211
+    },
+    {
+      "title": "Begin of Autobahn (Motor vehicles capable of speeds exceeding 60 km/h only)\n",
+      "img": "120px-Zeichen_330.1_-_Autobahn%2C_StVO_2013.svg.png",
+      "id": 212
+    },
+    {
+      "title": "End of Autobahn\n",
+      "img": "120px-Zeichen_330.2_-_Ende_der_Autobahn%2C_StVO_2013.svg.png",
+      "id": 213
+    },
+    {
+      "title": "Tunnel ahead\n",
+      "img": "120px-Zeichen_327_-_Tunnel%2C_StVO_2006.svg.png",
+      "id": 214
+    },
+    {
+      "title": "Breakdown bay (used only on highways without emergency shoulder or in larger construction areas)\n",
+      "img": "120px-Zeichen_328_-_Nothalte-_und_Pannenbucht%2C_StVO_2006.svg.png",
+      "id": 215
+    },
+    {
+      "title": "Pfeilwegweiser zur AutobahnDirection towards Autobahn entrance\n",
+      "img": "120px-Zeichen_430-20_-_Pfeilwegweiser_zur_Autobahn%2C_StVO_2013.svg.png",
+      "id": 216
+    },
+    {
+      "title": "Direction Signs to Autobahn, Messe (Fair/Convention Center) & Bundesstraße (without number)\n",
+      "img": "120px-Zeichen_434-53_-_Tabellenwegweiser%2C_aufgel%C3%B6ste_Form_%28nur_innerorts%29_ohne_Bundesstra%C3%9Fennummer%3B_StVO_2013.svg.png",
+      "id": 217
+    },
+    {
+      "title": "sameBundesstraße with Number and distances to next cities\n",
+      "img": "120px-Zeichen_434-52_-_Tabellenwegweiser%2C_aufgel%C3%B6ste_Form_%28nur_innerorts%29_mit_Bundesstra%C3%9Fennummer%3B_StVO_2013.svg.png",
+      "id": 218
+    },
+    {
+      "title": "Vorwegweiser zur AutobahnAutobahn junction entrance sign\n",
+      "img": "111px-Zeichen_440_-_Vorwegweiser_zur_Autobahn_%283000x3250%29%3B_StVO_1988.svg.png",
+      "id": 219
+    },
+    {
+      "title": "Vorwegweiser zur AutobahnAutobahn junction entrance sign\n",
+      "img": "120px-Zeichen_441_-_Gegliederter_Vorwegweiser_zur_Autobahn_%283000x2750%29_-_nach_RWB%3B_StVO_2009.svg.png",
+      "id": 220
+    },
+    {
+      "title": "Autobahn Detour\n",
+      "img": "80px-Zeichen_460-30_-_Bedarfsumleitung_geradeaus%2C_StVO_1992.svg.png",
+      "id": 221
+    },
+    {
+      "title": "Autobahn Detour ahead\n",
+      "img": "94px-Zeichen_466_-_Bedarfsumleitungstafel%2C_StVO_1970.svg.png",
+      "id": 222
+    },
+    {
+      "title": "Detouring onto opposite lane (in 200 m)\n",
+      "img": "75px-Zeichen_500_-_%C3%9Cberleitungstafel_%282000x1250%29%3B_StVO_1992.svg.png",
+      "id": 223
+    },
+    {
+      "title": "End of lane\n",
+      "img": "94px-Zeichen_531-10_-_Einengungstafel%3B_Darstellung_ohne_Gegenverkehr_-_noch_ein_Fahrstreifen_links_in_Fahrtrichtung%2C_StVO_1992.svg.png",
+      "id": 224
+    },
+    {
+      "title": "KraftfahrstraßeFast traffic highway (Motor vehicles capable of speeds exceeding 60 km/h only)\n",
+      "img": "120px-Zeichen_331.1_-_Kraftfahrstra%C3%9Fe%2C_StVO_2013.svg.png",
+      "id": 225
+    },
+    {
+      "title": "End of fast traffic highway\n",
+      "img": "120px-Zeichen_331.2_-_Ende_der_Kraftfahrstra%C3%9Fe%2C_StVO_2013.svg.png",
+      "id": 226
+    }
+  ]
+}

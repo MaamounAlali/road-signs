@@ -1,0 +1,604 @@
+{
+  "standardizedTrafficSymbols": [
+    {
+      "title": "To the left\n",
+      "img": "120px-Zusatzzeichen_1000-10_-_Richtungsangaben_durch_Pfeile%2C_linksweisend%2C_StVO_1992.svg.png",
+      "id": 0
+    },
+    {
+      "title": "To the right\n",
+      "img": "120px-Zusatzzeichen_1000-20_-_Richtungsangaben_durch_Pfeile%2C_rechtsweisend%2C_StVO_1992.svg.png",
+      "id": 1
+    },
+    {
+      "title": "After the left turn, a hazard exists (another sign defining the hazard would be above)\n",
+      "img": "120px-Zusatzzeichen_1000-11_-_Richtung_der_Gefahrstelle%2C_linksweisend%2C_StVO_1992.svg.png",
+      "id": 2
+    },
+    {
+      "title": "After the right turn, a hazard exists (another sign defining the hazard would be above)\n",
+      "img": "120px-Zusatzzeichen_1000-21_-_Richtung_der_Gefahrstelle%2C_rechtsweisend%2C_StVO_1992.svg.png",
+      "id": 3
+    },
+    {
+      "title": "Fußgänger Gehweg gegenüber benutzenUse Sidewalk on left side of roadway\n",
+      "img": "120px-Zusatzzeichen_1000-12_-_Fu%C3%9Fg%C3%A4nger_Gehweg_gegen%C3%BCber_benutzen%2C_linksweisend%3B_StVO_1992.svg.png",
+      "id": 4
+    },
+    {
+      "title": "Fußgänger Gehweg gegenüber benutzenUse Sidewalk on right side of roadway\n",
+      "img": "120px-Zusatzzeichen_1000-22_-_Fu%C3%9Fg%C3%A4nger_Gehweg_gegen%C3%BCber_benutzen%2C_rechtsweisend_%28600x330%29%2C_StVO_1992.svg.png",
+      "id": 5
+    },
+    {
+      "title": "Directional indications by arrows, detour signs, three-quarter circle[15]\n",
+      "img": "120px-Zusatzzeichen_1000-13_-_Richtungsangaben_durch_Pfeile%2C_Umleitungsbeschilderung_Dreiviertelkreis%2C_StVO_2017.svg.png",
+      "id": 6
+    },
+    {
+      "title": "Both directions, two opposing horizontal arrows\n",
+      "img": "120px-Zusatzzeichen_1000-30_-_beide_Richtungen%2C_zwei_gegengerichtete_waagerechte_Pfeile%2C_StVO_1992.svg.png",
+      "id": 7
+    },
+    {
+      "title": "Both directions, two opposite vertical arrows\n",
+      "img": "120px-Zusatzzeichen_1000-31_-_beide_Richtungen%2C_zwei_gegengerichtete_senkrechte_Pfeile%2C_StVO_1992.svg.png",
+      "id": 8
+    },
+    {
+      "title": "Two-way cycle route crossing road\n",
+      "img": "120px-Zusatzzeichen_1000-32_-_Radfahrer_kreuzen_von_rechts_und_links%2C_StVO_1997.svg.png",
+      "id": 9
+    },
+    {
+      "title": "Cycling in the opposite direction\n",
+      "img": "120px-Zusatzzeichen_1000-33_-_Radverkehr_im_Gegenverkehr%2C_StVO_1997.svg.png",
+      "id": 10
+    },
+    {
+      "title": "Directional indications by arrows, detour signs, semicircle[15]\n",
+      "img": "120px-Zusatzzeichen_1000-34_-_Richtungsangaben_durch_Pfeile%2C_Umleitungsbeschilderung_Halbkreis%2C_StVO_2017.svg.png",
+      "id": 11
+    },
+    {
+      "title": "2 km ahead[16]\n",
+      "img": "120px-Zusatzzeichen_1004-31_-_in_..._km%2C_StVO_2017.svg.png",
+      "id": 12
+    },
+    {
+      "title": "Stop 100 m ahead\n",
+      "img": "120px-Zusatzzeichen_1004-32_-_Stop_in_100_m%2C_StVO_2017.svg.png",
+      "id": 13
+    },
+    {
+      "title": "Zipper method in ... m\n",
+      "img": "120px-Zusatzzeichen_1005-30_-_Rei%C3%9Fverschluss_erst_in_..._m%2C_StVO_2001.svg.png",
+      "id": 14
+    },
+    {
+      "title": "For 800 m\n",
+      "img": "120px-Zusatzzeichen_1001-30_-_auf_..._m%2C_StVO_1992.svg.png",
+      "id": 15
+    },
+    {
+      "title": "For 3 km\n",
+      "img": "120px-Zusatzzeichen_1001-31_-_auf_..._km_%28600x330%29%2C_StVO_1992.svg.png",
+      "id": 16
+    },
+    {
+      "title": "Continues for ... m\n",
+      "img": "120px-Zusatzzeichen_1001-32_-_noch_..._m%2C_StVO_2017.svg.png",
+      "id": 17
+    },
+    {
+      "title": "Continues for ... km\n",
+      "img": "120px-Zusatzzeichen_1001-33_-_noch_..._km%2C_StVO_2017.svg.png",
+      "id": 18
+    },
+    {
+      "title": "100 m ahead\n",
+      "img": "120px-Zusatzzeichen_1004-30_-_nach_100_m%2C_StVO_1992.svg.png",
+      "id": 19
+    },
+    {
+      "title": "200 m ahead\n",
+      "img": "120px-Zusatzzeichen_1004-32_-_nach_200_m%2C_StVO_1992.svg.png",
+      "id": 20
+    },
+    {
+      "title": "400 m ahead\n",
+      "img": "120px-Zusatzzeichen_1004-33_-_nach_400_m%2C_StVO_1992.svg.png",
+      "id": 21
+    },
+    {
+      "title": "600 m ahead\n",
+      "img": "120px-Zusatzzeichen_1004-34_-_nach_600_m%2C_StVO_1992.svg.png",
+      "id": 22
+    },
+    {
+      "title": "Late merge in 200m\n",
+      "img": "120px-Zusatzzeichen_1005-30_-_Rei%C3%9Fverschluss_erst_in_..._m%2C_StVO_2001.svg.png",
+      "id": 23
+    },
+    {
+      "title": "Ends in ...m\n",
+      "img": "120px-Zusatzzeichen_1005-31_-_Ende_in_..._m%2C_StVO_2001.svg.png",
+      "id": 24
+    },
+    {
+      "title": "Hazardous Sidewinds for cars with caravans/trailers\n",
+      "img": "120px-Zusatzzeichen_1006-30_-_Schleudergefahr_f%C3%BCr_Wohnwagengespanne_an_Gef%C3%A4llestrecken_mit_starkem_Seitenwind_auf_Autobahnen%2C_StVO_2017.svg.png",
+      "id": 25
+    },
+    {
+      "title": "Risk of accident\n",
+      "img": "120px-Zusatzzeichen_1006-31_-_Unfallgefahr%2C_StVO_2017.svg.png",
+      "id": 26
+    },
+    {
+      "title": "Migratory toad crossing\n",
+      "img": "120px-Zusatzzeichen_1006-37_-_Kr%C3%B6tenwanderung%2C_StVO_1992.svg.png",
+      "id": 27
+    },
+    {
+      "title": "Oil slick\n",
+      "img": "120px-Zusatzzeichen_1007-30_-_%C3%96lspur%2C_StVO_2017.svg.png",
+      "id": 28
+    },
+    {
+      "title": "Smoke\n",
+      "img": "120px-Zusatzzeichen_1007-31_-_Rauch%2C_StVO_2017.svg.png",
+      "id": 29
+    },
+    {
+      "title": "Loose chippings\n",
+      "img": "120px-Zusatzzeichen_1007-32_-_Rollsplitt%2C_StVO_2017.svg.png",
+      "id": 30
+    },
+    {
+      "title": "Construction site exit\n",
+      "img": "120px-Zusatzzeichen_1007-33_-_Baustellenausfahrt%2C_StVO_2017.svg.png",
+      "id": 31
+    },
+    {
+      "title": "Damaged roadway\n",
+      "img": "120px-Zusatzzeichen_1007-34_-_Stra%C3%9Fensch%C3%A4den%2C_StVO_2017.svg.png",
+      "id": 32
+    },
+    {
+      "title": "Spillage on road\n",
+      "img": "120px-Zusatzzeichen_1007-35_-_Verschmutzte_Fahrbahn%2C_StVO_2017.svg.png",
+      "id": 33
+    },
+    {
+      "title": "Exit\n",
+      "img": "120px-Zusatzzeichen_1007-37_-_Ausfahrt%2C_StVO_2017.svg.png",
+      "id": 34
+    },
+    {
+      "title": "Accident\n",
+      "img": "120px-Zusatzzeichen_1007-50_-_Unfall%2C_StVO_2017.svg.png",
+      "id": 35
+    },
+    {
+      "title": "Knoll\n",
+      "img": "120px-Zusatzzeichen_1007-57_-_Kuppe%2C_StVO_2017.svg.png",
+      "id": 36
+    },
+    {
+      "title": "Police check\n",
+      "img": "120px-Zusatzzeichen_1007-58_-_Polizeikontrolle%2C_StVO_2017.svg.png",
+      "id": 37
+    },
+    {
+      "title": "Fog\n",
+      "img": "120px-Zusatzzeichen_1007-61_-_Nebel%2C_StVO_2017.svg.png",
+      "id": 38
+    },
+    {
+      "title": "Driveway\n",
+      "img": "120px-Zusatzzeichen_1007-62_-_Zufahrt%2C_StVO_2017.svg.png",
+      "id": 39
+    },
+    {
+      "title": "Right of way changed\n",
+      "img": "120px-Zusatzzeichen_1008-30_-_Vorfahrt_ge%C3%A4ndert_%28600x330%29%2C_StVO_1992.svg.png",
+      "id": 40
+    },
+    {
+      "title": "Traffic routing changed\n",
+      "img": "120px-Zusatzzeichen_1008-31_-_Verkehrsf%C3%BChrung_ge%C3%A4ndert%2C_StVO_1992.svg.png",
+      "id": 41
+    },
+    {
+      "title": "Industrial area (trains have priority)\n",
+      "img": "120px-Zusatzzeichen_1008-32_-_Industriegebiet_-_Vorrang_f%C3%BCr_Schienenfahrzeuge%2C_StVO_1992.svg.png",
+      "id": 42
+    },
+    {
+      "title": "Port area (rail traffic has priority)\n",
+      "img": "120px-Zusatzzeichen_1008-33_-_Hafengebiet_Schienenfahrzeuge_haben_Vorrang_%28600x450%29%2C_StVO_1992.svg.png",
+      "id": 43
+    },
+    {
+      "title": "Children allowed to play in road\n",
+      "img": "120px-Zusatzzeichen_1010-10_-_erlaubt_Kindern%2C_auch_auf_der_Fahrbahn_und_dem_Seitenstreifen_zu_spielen%2C_StVO_1992.svg.png",
+      "id": 44
+    },
+    {
+      "title": "Skiers allowed to cross road\n",
+      "img": "120px-Zusatzzeichen_1010-11_-_Wintersport_erlaubt_%28600x330%29%2C_StVO_1992.svg.png",
+      "id": 45
+    },
+    {
+      "title": "Large wagons can park here without the usual two week temporal parking restriction\n",
+      "img": "120px-Zusatzzeichen_1010-12_-_Kennzeichnung_von_Parkfl%C3%A4chen%2C_auf_denen_Anh%C3%A4nger_auch_l%C3%A4nger_als_14_Tage_parken_d%C3%BCrfen%2C_StVO_1992.svg.png",
+      "id": 46
+    },
+    {
+      "title": "Caravans can park here without the usual two week temporal parking restriction\n",
+      "img": "120px-Zusatzzeichen_1010-13_-_Kennzeichnung_von_Parkfl%C3%A4chen%2C_auf_denen_Wohnwagen_auch_l%C3%A4nger_als_14_Tage_parken_d%C3%BCrfen_%28600x330%29%2C_StVO_1992.svg.png",
+      "id": 47
+    },
+    {
+      "title": "Information about motorail for lorries\n",
+      "img": "120px-Zusatzzeichen_1010-14_-_Information_%E2%80%9ERollende_Landstra%C3%9Fe%E2%80%9D_%28420x231%29%2C_StVO_1992.svg.png",
+      "id": 48
+    },
+    {
+      "title": "End of restriction\n",
+      "img": "120px-Zusatzzeichen_1012-31_-_Ende_%28600x330%29%2C_StVO_1992.svg.png",
+      "id": 49
+    },
+    {
+      "title": "Cyclists dismount\n",
+      "img": "120px-Zusatzzeichen_1012-32_-_Radfahrer_absteigen_%28420x231%29%2C_StVO_1992.svg.png",
+      "id": 50
+    },
+    {
+      "title": "Green wave at ...km/h\n",
+      "img": "120px-Zusatzzeichen_1012-34_-_Gr%C3%BCne_Welle_bei_..._km-h_%28330x600%29%2C_StVO_1992.svg.png",
+      "id": 51
+    },
+    {
+      "title": "Stop here on red\n",
+      "img": "120px-Zusatzzeichen_1012-35_-_bei_Rot_hier_halten_%28330x600%29%2C_StVO_1992.svg.png",
+      "id": 52
+    },
+    {
+      "title": "Pass over verges/shoulder\n",
+      "img": "120px-Zusatzzeichen_1013-50_-_Seitenstreifen_befahren%2C_StVO_2001.svg.png",
+      "id": 53
+    },
+    {
+      "title": "End of passing over verges/shoulder\n",
+      "img": "120px-Zusatzzeichen_1013-51_-_Seitenstreifen_r%C3%A4umen%2C_StVO_2001.svg.png",
+      "id": 54
+    },
+    {
+      "title": "Tunnel category B\n",
+      "img": "120px-Zusatzzeichen_1014-50_-_Tunnelkategorie_gem%C3%A4%C3%9F_ADR-%C3%9Cbereinkommen_%28B%29%2C_StVO_2007.svg.png",
+      "id": 55
+    },
+    {
+      "title": "Tunnel category C\n",
+      "img": "120px-Zusatzzeichen_1014-51_-_Tunnelkategorie_gem%C3%A4%C3%9F_ADR-%C3%9Cbereinkommen_%28C%29%2C_StVO_2007.svg.png",
+      "id": 56
+    },
+    {
+      "title": "Tunnel category D\n",
+      "img": "120px-Zusatzzeichen_1014-52_-_Tunnelkategorie_gem%C3%A4%C3%9F_ADR-%C3%9Cbereinkommen_%28D%29%2C_StVO_2007.svg.png",
+      "id": 57
+    },
+    {
+      "title": "Tunnel category E\n",
+      "img": "120px-Zusatzzeichen_1014-53_-_Tunnelkategorie_gem%C3%A4%C3%9F_ADR-%C3%9Cbereinkommen_%28E%29%2C_StVO_2007.svg.png",
+      "id": 58
+    },
+    {
+      "title": "Disabled with permit No. ... allowed\n",
+      "img": "120px-Zusatzzeichen_1020-11_-_Schwerbehinderte_mit_Parkausweis_Nr._..._frei%2C_StVO_1992.svg.png",
+      "id": 59
+    },
+    {
+      "title": "Bicycle and residents allowed\n",
+      "img": "120px-Zusatzzeichen_1020-12_-_Radfahrer_und_Anlieger_frei_%28450x600%29%2C_StVO_1992.svg.png",
+      "id": 60
+    },
+    {
+      "title": "Residents only\n",
+      "img": "120px-Zusatzzeichen_1020-30_-_Anlieger_frei_%28600x330%29%2C_StVO_1992.svg.png",
+      "id": 61
+    },
+    {
+      "title": "Residents or Resident's Visitors Parking Only\n",
+      "img": "120px-Zusatzzeichen_1020-31_-_Anlieger_oder_Parken_frei_%28600x450%29%2C_StVO_1992.svg.png",
+      "id": 62
+    },
+    {
+      "title": "Residents with permit No. ... allowed\n",
+      "img": "120px-Zusatzzeichen_1020-32_-_Bewohner_mit_Parkausweis_Nr._..._frei%2C_StVO_2002.svg.png",
+      "id": 63
+    },
+    {
+      "title": "Taxis allowed\n",
+      "img": "120px-Zusatzzeichen_1026-30_-_Taxi_frei%2C_StVO_1992.svg.png",
+      "id": 64
+    },
+    {
+      "title": "Regular scheduled buses allowed\n",
+      "img": "120px-Zusatzzeichen_1026-32_-_Linienverkehr_frei_%28450x600%29%2C_StVO_1992.svg.png",
+      "id": 65
+    },
+    {
+      "title": "Emergency vehicles allowed\n",
+      "img": "120px-Zusatzzeichen_1026-33_-_Einsatzfahrzeuge_frei_%28450x600%29%2C_StVO_1992.svg.png",
+      "id": 66
+    },
+    {
+      "title": "Ambulances allowed\n",
+      "img": "120px-Zusatzzeichen_1026-34_-_Krankenfahrzeuge_frei%2C_StVO_1992.svg.png",
+      "id": 67
+    },
+    {
+      "title": "Delivery vehicles allowed\n",
+      "img": "120px-Zusatzzeichen_1026-35_-_Lieferverkehr_frei%2C_StVO_1992.svg.png",
+      "id": 68
+    },
+    {
+      "title": "Agricultural vehicles allowed\n",
+      "img": "120px-Zusatzzeichen_1026-36_-_Landwirtschaftlicher_Verkehr_frei_%28450x600%29%2C_StVO_1992.svg.png",
+      "id": 69
+    },
+    {
+      "title": "Forestry vehicles allowed\n",
+      "img": "120px-Zusatzzeichen_1026-37_-_Forstwirtschaftlicher_Verkehr_frei%2C_StVO_1992.svg.png",
+      "id": 70
+    },
+    {
+      "title": "Agricultural and forestry vehicles allowed\n",
+      "img": "120px-Zusatzzeichen_1026-38_-_Land-_und_forstwirtschaftlicher_Verkehr_frei_%28450x600%29%2C_StVO_1992.svg.png",
+      "id": 71
+    },
+    {
+      "title": "Operational and utility vehicles allowed\n",
+      "img": "120px-Zusatzzeichen_1026-39_-_Betriebs-_und_Versorgungsdienst_frei_%28330x600%29%2C_StVO_1992.svg.png",
+      "id": 72
+    },
+    {
+      "title": "Electric vehicles while charging allowed\n",
+      "img": "120px-Zusatzzeichen_1026-60_-_Elektrofahrzeuge_w%C3%A4hrend_des_Ladevorgangs_frei%2C_StVO_2011.svg.png",
+      "id": 73
+    },
+    {
+      "title": "Electric vehicles allowed\n",
+      "img": "120px-Zusatzzeichen_1026-61_-_Elektrofahrzeuge_frei%2C_StVO_2011.svg.png",
+      "id": 74
+    },
+    {
+      "title": "Construction vehicles allowed\n",
+      "img": "120px-Zusatzzeichen_1028-30_-_Baustellenfahrzeuge_frei_%28450x600%29%2C_StVO_1992.svg.png",
+      "id": 75
+    },
+    {
+      "title": "Access to construction site allowed\n",
+      "img": "120px-Zusatzzeichen_1028-31_-_bis_Baustelle_frei_%28330x600%29%2C_StVO_1992.svg.png",
+      "id": 76
+    },
+    {
+      "title": "Access to neighbouring construction site allowed\n",
+      "img": "120px-Zusatzzeichen_1028-32_-_Anlieger_bis_Baustelle_frei_%28330x600%29%2C_StVO_1992.svg.png",
+      "id": 77
+    },
+    {
+      "title": "Access to ... allowed\n",
+      "img": "120px-Zusatzzeichen_1028-33_-_Zufahrt_bis_..._frei_%28450x600%29%2C_StVO_1992.svg.png",
+      "id": 78
+    },
+    {
+      "title": "Ferry users allowed\n",
+      "img": "120px-Zusatzzeichen_1028-34_-_F%C3%A4hrbenutzer_frei_%28450x600%29%2C_StVO_1992.svg.png",
+      "id": 79
+    },
+    {
+      "title": "Vehicles with red, yellow or green Low Emission Zone Sticker permitted\n",
+      "img": "120px-Zusatzzeichen_1031%2C_StVO_2007.svg.png",
+      "id": 80
+    },
+    {
+      "title": "Vehicles with yellow or green Low Emission Zone Sticker permitted\n",
+      "img": "120px-Zusatzzeichen_1031-50%2C_StVO_2007.svg.png",
+      "id": 81
+    },
+    {
+      "title": "Vehicles with green Low Emission Zone Sticker permitted\n",
+      "img": "120px-Zusatzzeichen_1031-51%2C_StVO_2007.svg.png",
+      "id": 82
+    },
+    {
+      "title": "Skiers crossing road at times shown\n",
+      "img": "120px-Zusatzzeichen_1040-10_-_Wintersport_erlaubt%2C_zeitlich_beschr%C3%A4nkt_10_-_16_h%2C_StVO_1992.svg.png",
+      "id": 83
+    },
+    {
+      "title": "At times shown\n",
+      "img": "120px-Zusatzzeichen_1040-30_-_Zeitliche_Beschr%C3%A4nkung_%2816_-_18_h%29%2C_330x600%2C_StVO_1992.svg.png",
+      "id": 84
+    },
+    {
+      "title": "At times shown\n",
+      "img": "120px-Zusatzzeichen_1040-31_-_Zeitliche_Beschr%C3%A4nkung_%288_-_11_h%2C_16_-_18_h%29%2C_330x600%2C_StVO_1992.svg.png",
+      "id": 85
+    },
+    {
+      "title": "Parking with disc for 2 hours\n",
+      "img": "120px-Zusatzzeichen_1040-32_-_Parkscheibe_2_Stunden%2C_StVO_1992.svg.png",
+      "id": 86
+    },
+    {
+      "title": "Parking with disc in marked zone for 2 hours\n",
+      "img": "120px-Zusatzzeichen_1040-33_-_Parken_mit_Parkscheibe_in_gekennzeichneten_Fl%C3%A4chen_2_Stunden%2C_StVO_1992.svg.png",
+      "id": 87
+    },
+    {
+      "title": "Working days\n",
+      "img": "120px-Zusatzzeichen_1042-30_-_werktags_%28600x330%29%2C_StVO_1992.svg.png",
+      "id": 88
+    },
+    {
+      "title": "Working days at times shown\n",
+      "img": "120px-Zusatzzeichen_1042-31_-_werktags_18_-_19_h_%28600x330%29%2C_StVO_1992.svg.png",
+      "id": 89
+    },
+    {
+      "title": "Working days at times shown\n",
+      "img": "120px-Zusatzzeichen_1042-32_-_werktags_8.30_-_11.30%2C_16_-_18_h_%28600x450%29%2C_StVO_1992.svg.png",
+      "id": 90
+    },
+    {
+      "title": "Monday-Friday, at times shown\n",
+      "img": "120px-Zusatzzeichen_1042-33_-_Mo_-_Fr%2C_16_-_18_h_%28600x330%29%2C_StVO_1992.svg.png",
+      "id": 91
+    },
+    {
+      "title": "Tuesdays, Thursdays and Fridays, at times shown\n",
+      "img": "120px-Zusatzzeichen_1042-34_-_Di%2C_Do%2C_Fr%2C_16_-_18_h_%28600x330%29%2C_StVO_1992.svg.png",
+      "id": 92
+    },
+    {
+      "title": "Sundays and public holidays, at times shown\n",
+      "img": "120px-Zusatzzeichen_1042-35_-_6_-_22_h_an_Sonn-und_Feiertagen_%28450x600%29%2C_StVO_1992.svg.png",
+      "id": 93
+    },
+    {
+      "title": "School bus (at times shown)\n",
+      "img": "120px-Zusatzzeichen_1042-36_-_Schulbus_%28tageszeitliche_Benutzung%29%2C_600x450%2C_StVO_2017.svg.png",
+      "id": 94
+    },
+    {
+      "title": "Parking allowed at weekends\n",
+      "img": "120px-Zusatzzeichen_1042-37_-_Parken_Samstag_und_Sonntag_erlaubt_%28600x450%29%3B_StVO_1992.svg.png",
+      "id": 95
+    },
+    {
+      "title": "Disabled users only\n",
+      "img": "120px-Zusatzzeichen_1044-10_-_nur_Schwerbehinderte_mit_au%C3%9Fergew%C3%B6hnlicher_Gehbehinderung_und_Blinde%2C_StVO_1992.svg.png",
+      "id": 96
+    },
+    {
+      "title": "Disabled with permit No. ... only\n",
+      "img": "120px-Zusatzzeichen_1044-11_-_nur_Schwerbehinderte_mit_Parkausweis_Nr_..._%28600x330%29%3B_StVO_1992.svg.png",
+      "id": 97
+    },
+    {
+      "title": "Residents with permit No. ... only\n",
+      "img": "120px-Zusatzzeichen_1044-30_-_Bewohner_mit_Parkausweis_Nr._...._%28600x330%29%2C_StVO_2002.svg.png",
+      "id": 98
+    },
+    {
+      "title": "Slow vehicles allowed to pass\n",
+      "img": "120px-Zusatzzeichen_1049-11-_Kraftfahrzeuge_und_Z%C3%BCge_bis_25_km-h_d%C3%BCrfen_%C3%BCberholt_werden%2C_StVO_1992.svg.png",
+      "id": 99
+    },
+    {
+      "title": "Taxi stand\n",
+      "img": "120px-Zusatzzeichen_1050-30_-_Taxi_%28600x330%29%2C_StVO_1992.svg.png",
+      "id": 100
+    },
+    {
+      "title": "Number of taxis\n",
+      "img": "120px-Zusatzzeichen_1050-31_-_..._Taxen_%28600x330%29%2C_StVO_1992.svg.png",
+      "id": 101
+    },
+    {
+      "title": "Electric vehicles being charged (with number)\n",
+      "img": "120px-Zusatzzeichen_1050-32_-_Elektrofahrzeuge_w%C3%A4hrend_des_Ladevorgangs%2C_StVO_2011.svg.png",
+      "id": 102
+    },
+    {
+      "title": "Electric vehicles (with number)\n",
+      "img": "120px-Zusatzzeichen_1050-33_-_Elektrofahrzeuge%2C_StVO_2011.svg.png",
+      "id": 103
+    },
+    {
+      "title": "Parking allowed in marked areas\n",
+      "img": "120px-Zusatzzeichen_1053-30_-_Parken_in_gekennzeichneten_Fl%C3%A4chen_erlaubt%2C_StVO_1992.svg.png",
+      "id": 104
+    },
+    {
+      "title": "Only with parking ticket\n",
+      "img": "120px-Zusatzzeichen_1053-31_-_Mit_Parkschein_%28600x330%29%2C_StVO_2017.svg.png",
+      "id": 105
+    },
+    {
+      "title": "Toll ticket\n",
+      "img": "120px-Zusatzzeichen_1053-32_-_Geb%C3%BChrenpflichtig_%28420x231%29%2C_StVO_2017.svg.png",
+      "id": 106
+    },
+    {
+      "title": "On the verges/shoulder\n",
+      "img": "120px-Zusatzzeichen_1053-34_-_Auf_dem_Seitenstreifen_%28600x330%29%2C_StVO_2017.svg.png",
+      "id": 107
+    },
+    {
+      "title": "When wet\n",
+      "img": "120px-Zusatzzeichen_1053-35_-_Bei_N%C3%A4sse_%28600x600%29%2C_StVO_2017.svg.png",
+      "id": 108
+    },
+    {
+      "title": "Mode of transport\n",
+      "img": "120px-Zusatzzeichen_1053-36_-_Durchgangsverkehr%2C_StVO_2017.svg.png",
+      "id": 109
+    },
+    {
+      "title": "Weight (12 tons)\n",
+      "img": "120px-Zusatzzeichen_1053-37_-_Massenangabe_%E2%80%93_12_t_%28420x231%29%2C_StVO_2005.svg.png",
+      "id": 110
+    },
+    {
+      "title": "Park (pull in straight)\n",
+      "img": "120px-Zusatzzeichen_1053-38_-_Querparken_als_Sinnbild%2C_StVO_2017.svg.png",
+      "id": 111
+    },
+    {
+      "title": "Park (pull in diagonally)\n",
+      "img": "120px-Zusatzzeichen_1053-39_-_Schr%C3%A4gparken_als_Sinnbild%2C_StVO_2017.svg.png",
+      "id": 112
+    },
+    {
+      "title": "Only within marked parking areas\n",
+      "img": "120px-Zusatzzeichen_1053-52_-_nur_innerhalb_gekennzeichneter_Parkfl%C3%A4chen%2C_StVO_2017.svg.png",
+      "id": 113
+    },
+    {
+      "title": "For cyclists and moped riders\n",
+      "img": "66px-Zusatzzeichen_1060-11_-_auch_Fahrr%C3%A4der_und_Mofas%2C_StVO_1992.svg.png",
+      "id": 114
+    },
+    {
+      "title": "Grit on road\n",
+      "img": "120px-Zusatzzeichen_1060-30_-_Streugut%2C_StVO_1992.svg.png",
+      "id": 115
+    },
+    {
+      "title": "No parking on verges/shoulder\n",
+      "img": "120px-Zusatzzeichen_1060-31_-_Haltverbot_auch_auf_dem_Seitenstreifen_%28600x330%29%2C_StVO_2017.svg.png",
+      "id": 116
+    },
+    {
+      "title": "Also buses and cars with trailers\n",
+      "img": "120px-Zusatzzeichen_1060-32_-_Auch_Kraftomnibusse_und_PKW_mit_Anh%C3%A4ngern_%28im_Bereich_von_LKW-Kontrollen%29%2C_StVO_2017.svg.png",
+      "id": 117
+    },
+    {
+      "title": "Rabies! Endangered area\n",
+      "img": "120px-Zusatzzeichen_2531_-_Tollwut%21_Gef%C3%A4hrdeter_Bezirk%2C_StVO_1981.svg.png",
+      "id": 118
+    },
+    {
+      "title": "Wild animal rabies! Endangered area\n",
+      "img": "120px-Zusatzzeichen_2532_-_Wildtollwut%21_Gef%C3%A4hrdeter_Bezirk%2C_StVO_1981.svg.png",
+      "id": 119
+    }
+  ]
+}

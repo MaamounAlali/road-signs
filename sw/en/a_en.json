@@ -1,0 +1,209 @@
+{
+  "warningSigns": [
+    {
+      "title": "Dangerous curve (A1)",
+      "desc": "The sign indicates a dangerous curve and its direction.",
+      "imgs": "A1-1.png"
+    },
+    {
+      "title": "Multiple dangerous curves ahead (A2)",
+      "desc": "The sign indicates dangerous curves ahead and gives the direction of the first one.",
+      "imgs": "A2-1.png"
+    },
+    {
+      "title": "Steep hill downwards (A3)",
+      "desc": "The sign indicates a steep hill downwards. The numbers indicate the gradient in per cent and is specific to the conditions of the location.",
+      "imgs": "A3-1.png"
+    },
+    {
+      "title": "Steep incline (A4)",
+      "desc": "The sign indicates a steep incline. The numbers indicate the gradient in per cent and is specific to the conditions of the location.",
+      "imgs": "A4-1.png"
+    },
+    {
+      "title": "Road narrows (A5)",
+      "desc": "The sign indicates that the road or carriageway narrows. The symbol is specific to the conditions at the location.",
+      "imgs": "A5-1.png"
+    },
+    {
+      "title": "Opening or swing bridge (A6)",
+      "desc": "",
+      "imgs": "A6-1.png"
+    },
+    {
+      "title": "Quayside or river bank (A7)",
+      "desc": "",
+      "imgs": "A7-1.png"
+    },
+    {
+      "title": "Uneven road ahead (A8)",
+      "desc": "The sign indicates bumps or damage to the road which make it appropriate to travel at a lower speed than what would otherwise be the case.",
+      "imgs": "A8-1.png"
+    },
+    {
+      "title": "Speed bump warning (A9)",
+      "desc": "The signs indicate a raised hump or gutter installed as a speed-reducing measure.",
+      "imgs": "A9-1.png"
+    },
+    {
+      "title": "Slippery road (A10)",
+      "desc": "The sign indicates that the road may be slippery. The sign is only used if there are specific reasons to warn of a slippery surface due to snow or ice.",
+      "imgs": "A10-1.png"
+    },
+    {
+      "title": "Loose chippings (A11)",
+      "desc": "The sign indicates a risk of loose chippings. The sign is not used on gravel roads or similar roads where loose chippings are common.",
+      "imgs": "A11-1.png"
+    },
+    {
+      "title": "Falling rocks or debris ahead (A12)",
+      "desc": "The sign indicates a risk of falling rocks and that there may be fallen rocks on the road. The symbol is adapted to the conditions of the location.",
+      "imgs": "A12-1.png"
+    },
+    {
+      "title": "Pedestrian crossing ahead (A13)",
+      "desc": "",
+      "imgs": "A13-1.png"
+    },
+    {
+      "title": "Pedestrian warning (A14)",
+      "desc": "",
+      "imgs": "A14-1.png"
+    },
+    {
+      "title": "Children (A15)",
+      "desc": "This sign indicates a stretch of road where children often cross or where there are often children on or near the road.",
+      "imgs": "A15-1.png"
+    },
+    {
+      "title": "Cyclists and moped riders (A16)",
+      "desc": "",
+      "imgs": "A16-1.png"
+    },
+    {
+      "title": "Skiers (A17)",
+      "desc": "",
+      "imgs": "A17-1.png"
+    },
+    {
+      "title": "Horse riders (A18)",
+      "desc": "",
+      "imgs": "A18-1.png"
+    },
+    {
+      "title": "Animals (A19)",
+      "desc": "",
+      "imgs": "A19-1.png"
+    },
+    {
+      "title": "Roadworks (A20)",
+      "desc": "This sign indicates the end of a road section where roadworks or similar works are underway.",
+      "imgs": "A20-1.png"
+    },
+    {
+      "title": "End of roadworks (A21)",
+      "desc": "The sign indicates the end of a road section with roadworks that has been marked with an A20 roadworks sign. The sign is not erected if it is otherwise clear where the section ends.",
+      "imgs": "A21-1.png"
+    },
+    {
+      "title": "Traffic signals (A22)",
+      "desc": "",
+      "imgs": "A22-1.png"
+    },
+    {
+      "title": "Low-flying aircraft (A23)",
+      "desc": "",
+      "imgs": "A23-1.png"
+    },
+    {
+      "title": "Beware of dangerous crosswinds (A24)",
+      "desc": "The sign indicates a section of road where there is often a strong crosswind. The symbol is specific to the conditions at the location.",
+      "imgs": "A24-1.png"
+    },
+    {
+      "title": "Beware of two-way traffic ahead (A25)",
+      "desc": "This sign indicates that a one-way road is turning into a road with traffic in both directions.",
+      "imgs": "A25-1.png"
+    },
+    {
+      "title": "Tunnel (A26)",
+      "desc": "",
+      "imgs": "A26-1.png"
+    },
+    {
+      "title": "Soft verge or high carriageway edge (A27)",
+      "desc": "",
+      "imgs": "A27-1.png"
+    },
+    {
+      "title": "Junction (A28)",
+      "desc": "The sign indicates a junction where the provisions of Chapter 3, Section 18 of the Road Traffic Ordinance (1998:1276) apply.",
+      "imgs": "A28-1.png"
+    },
+    {
+      "title": "Warning for a junction where road users on a connecting road are obliged to give way or stop (A29)",
+      "desc": "The sign indicates a junction where drivers of vehicles on connecting roads are obliged to give way or stop. The symbol is adapted to the conditions of the location.",
+      "imgs": "A29-1.png"
+    },
+    {
+      "title": "Roundabout ahead (A30)",
+      "desc": "",
+      "imgs": "A30-1.png"
+    },
+    {
+      "title": "Slow-moving vehicles (A31)",
+      "desc": "",
+      "imgs": "A31-1.png"
+    },
+    {
+      "title": "Horse-drawn vehicles (A32)",
+      "desc": "",
+      "imgs": "A32-1.png"
+    },
+    {
+      "title": "Off-road scooter traffic (A33)",
+      "desc": "",
+      "imgs": "A33-1.png"
+    },
+    {
+      "title": "Queues likely (A34)",
+      "desc": "",
+      "imgs": "A34-1.png"
+    },
+    {
+      "title": "Level crossing with gates (A35)",
+      "desc": "The sign indicates a junction with a railway or tramway line with gates.",
+      "imgs": "A35-1.png"
+    },
+    {
+      "title": "Level crossing without gates (A36)",
+      "desc": "",
+      "imgs": "A36-1.png"
+    },
+    {
+      "title": "Junction with tramway line (A37)",
+      "desc": "",
+      "imgs": "A37-1.png"
+    },
+    {
+      "title": "Distance to level crossing (A38)",
+      "desc": "The signs indicate the distance to a level crossing in a three-bar system. The sign with the three bars is, except for in densely populated areas, erected under one of the following signs; A35, Level crossing with gates, A36, Level crossing without gates, or A37, Junction with tramway line. The sign with two bars indicates that it is two-thirds the distance to the level crossing and the sign with one bar indicates the last third of the distance.",
+      "imgs": "A38-1.png"
+    },
+    {
+      "title": "Train crossing (A39)",
+      "desc": "The sign indicates a crossing railway or tramway with one or more tracks. The sign is posted immediately prior to a level crossing. It does not have to be posted on a private road with limited traffic where it can be omitted without threatening traffic safety. The sign can also be posted at unlevel railway or tramway crossings.",
+      "imgs": "A39-1.png"
+    },
+    {
+      "title": "Other dangers (A40)",
+      "desc": "The sign indicates dangers other than such that can be indicated with some other warning sign. The nature of the danger is specified on an additional panel.",
+      "imgs": "A40-1.png"
+    },
+    {
+      "title": "Accident (A41)",
+      "desc": "",
+      "imgs": "A41-1.png"
+    }
+  ]
+}
